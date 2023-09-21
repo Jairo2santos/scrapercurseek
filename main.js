@@ -103,7 +103,7 @@ const courseUrls = [
 'https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/386/experto-universitario-en-turismo-rural?id=999193883',
 'https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/3287/experto-universitario-en-modelos-de-gestion-de-destinos-turisticos-inteligentes?id=999194070',
 'https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2847/licenciatura-en-gestion-de-empresas-turisticas-y-hoteleras?id=999192109',
-'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2448/curso-basico-de-cocina-saludable?id=999190043'
+
 ];
 
 extractCourseDetails(courseUrls).then(details => {
