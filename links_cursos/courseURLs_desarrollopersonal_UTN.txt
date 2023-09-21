@@ -1,0 +1,13 @@
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1468/curso-estrategias-y-recursos-para-un-cambio-laboral-efectivo?id=999192251',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/457/liderazgo-estrategico?id=999190804',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/612/diplomatura-en-liderazgo-y-competencias-directivas?id=999190807',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2087/curso-de-coaching-y-liderazgo-personal-encendete-mas?id=999192171',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2244/liderazgo-y-emociones-en-marcos-de-trabajo-agiles?id=999192082',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/433/coaching-ontologico?id=999192281',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/380/introduccion-a-la-programacion-neurolinguistica-pnl?id=999192230',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1444/curso-de-comunicacion-para-directivos?id=999191073',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1982/curso-de-habilidades-directivas-i?id=999191105',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1451/fundamentos-del-liderazgo-y-el-coaching?id=999191076',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3132/curso-de-coaching-y-liderazgo-profesional-encendete-mas-nivel-ii?id=999193615',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1984/curso-de-habilidades-directivas-ii?id=999191108',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/462/como-comunicar-de-manera-eficaz?id=999190701'

@@ -1,0 +1,687 @@
+[
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2252/curso-basico-de-fotografia-movil?id=999193474",
+    "title": "Curso Básico de Fotografía Móvil",
+    "startDate": "Inicio de cursada\n 14/09/2023",
+    "duration": "4 Lecciones",
+    "price": "$  9.230,25",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Leandro Martino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1234/programador-web-avanzado?id=999190781",
+    "title": "Programador Web Avanzado",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "14 Semanas",
+    "price": "$  92.998,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Jon Gibaut, Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2127/desarrollo-web-con-php-y-wordpress?id=999193621",
+    "title": "Desarrollo web con PHP y Wordpress",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "13 Semanas",
+    "price": "$  24.764,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2193/fundamentos-del-ux-writing?id=999190233",
+    "title": "Fundamentos del UX Writing",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "6 Semanas",
+    "price": "$  57.899",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Adrian Giorgio"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/472/e-books-diseno-editorial-digital?id=999190856",
+    "title": "eBooks - Diseño Editorial Digital",
+    "startDate": "Inicio de cursada\n 20/09/2023",
+    "duration": "9 Semanas",
+    "price": "$  38.786,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Eliana Crivaro, Maria Pia Coppede Novelli, Gabriel Appella, Eliana Crivaro"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1261/sonorizacion-para-medios-lineales-y-no-lineales?id=999191718",
+    "title": "Sonorización para Medios Lineales y No-Lineales",
+    "startDate": "Inicio de cursada\n 20/09/2023",
+    "duration": "4 Semanas",
+    "price": "$  24.455,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3023/figma-introduccion-elementos-y-tipografia-para-ux-inicial?id=999193189",
+    "title": "Figma: Introducción, elementos y tipografía para UX (Inicial)",
+    "startDate": "Inicio de cursada\n 22/09/2023",
+    "duration": "2 Semanas",
+    "price": "$  13.455,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Valeria Castresana, Valeria Castresana"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3048/curso-de-diseno-y-realizacion-de-personajes?id=999193243",
+    "title": "Curso de Diseño y realización de personajes",
+    "startDate": "Inicio de cursada\n 26/09/2023",
+    "duration": "16 Lecciones",
+    "price": "$  45.141,75",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Sabina Daldovo, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/803/animacion-audiovisual-3-d-nivel-inicial?id=999190269",
+    "title": "Animación Audiovisual 3D (Nivel Inicial)",
+    "startDate": "Inicio de cursada\n 26/09/2023",
+    "duration": "10 Semanas",
+    "price": "$  44.054,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Guido Varela Coletta"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1051/desarrollo-con-node-js?id=999192298",
+    "title": "Desarrollo con NodeJS",
+    "startDate": "Inicio de cursada\n 27/09/2023",
+    "duration": "6 Semanas",
+    "price": "$  53.357,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Fernando Andreassi, Alberto Enuel Monzon Oga"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3074/curso-de-adobe-premiere?id=999193473",
+    "title": "Curso de Adobe Premiere",
+    "startDate": "Inicio de cursada\n 28/09/2023",
+    "duration": "12 Lecciones",
+    "price": "$  45.141,75",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Santiago Nobile, Kristel Freire, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1830/professional-webmaster?id=999191802",
+    "title": "Professional Webmaster",
+    "startDate": "Inicio de cursada\n 28/09/2023",
+    "duration": "25 Semanas",
+    "price": "$  134.667,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3054/narrativa-visual-para-juegos-comic-y-producciones-audiovisuales?id=999193241",
+    "title": "Narrativa Visual para juegos comic y producciones audiovisuales",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "duration": "10 Lecciones",
+    "price": "$  34.883,25",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Maria Del Pilar Arrufat, Rodrigo Biancciotti, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2845/storytelling-contar-historias-para-vender?id=999192162",
+    "title": "Storytelling: contar historias para vender",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "price": "$  7.251,75",
+    "modalities": [],
+    "teachers": "Adrian Giorgio"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3084/curso-de-adobe-indesign-maquetacion-y-diseno-editorial?id=999193472",
+    "title": "Curso de Adobe Indesign - Maquetación y Diseño Editorial",
+    "startDate": "Inicio de cursada\n 03/10/2023",
+    "duration": "8 Lecciones",
+    "price": "$  34.882,50",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Luciana Barraza, Valentina Tsoi, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3062/curso-de-fotografia-profesional?id=999193368",
+    "title": "Curso de Fotografía Profesional",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  17.612,25",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Leandro Martino, Leandro Martino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/792/ilustracion-digital?id=999190772",
+    "title": "Ilustración Digital",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  44.054,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Rocio Folgueira"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2899/curso-de-fotografia-narrativa?id=999192454",
+    "title": "Curso de Fotografía Narrativa",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "7 Semanas",
+    "price": "$  18.680,25",
+    "modalities": [
+      "Consultas en vivo con tutores",
+      "Clases practicas a distancia",
+      "Clases grabadas",
+      "Consultas en vivo con tutores"
+    ],
+    "teachers": "Leandro Martino, Leandro Martino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2190/diplomatura-de-fotografia-documental?id=999190225",
+    "title": "Diplomatura de Fotografía Documental",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "22 Semanas",
+    "price": "$  94.146,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Leandro Martino, Leandro Martino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1349/introduccion-al-prototipado-de-proyectos?id=999191518",
+    "title": "Introducción al prototipado de proyectos",
+    "startDate": "Inicio de cursada\n 11/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  19.292,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Lorena Alejandra Maceratesi, Mariana Florencia Fiorillo, Lorena Alejandra Maceratesi"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2564/seminario-de-prototipado-rapido-para-interfaces-digitales?id=999190763",
+    "title": "Seminario de prototipado rápido para interfaces digitales",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  8.223",
+    "modalities": [],
+    "teachers": "Lorena Alejandra Maceratesi, Mariana Florencia Fiorillo, Lorena Alejandra Maceratesi"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2860/curso-de-content-manager-contenido-digital-para-redes-sociales?id=999192207",
+    "title": "Curso de Content Manager - Contenido digital para redes sociales",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  31.646,25",
+    "modalities": [
+      "Consultas en vivo con tutores",
+      "Clases practicas a distancia",
+      "Clases grabadas",
+      "Consultas en vivo con tutores"
+    ],
+    "teachers": "Santiago Nobile, Pablo Poliero"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2185/curso-de-diseno-de-interfaz-de-usuario-ui?id=999190736",
+    "title": "Curso de Diseño de interfaz de usuario (UI)",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "13 Semanas",
+    "price": "$  70.206,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maia Bouza, Eliana Crivaro"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3107/seminario-packaging?id=999193581",
+    "title": "Seminario Packaging",
+    "startDate": "Inicio de cursada\n 17/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  11.100,75",
+    "modalities": [],
+    "teachers": "Maria Pia Coppede Novelli"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3059/curso-de-diseno-grafico-digital-nivel-intermedio?id=999193467",
+    "title": "Curso de Diseño Gráfico Digital - Nivel Intermedio",
+    "startDate": "Inicio de cursada\n 18/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  52.893,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Luciana Barraza"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1412/experto-universitario-de-programacion-en-videojuegos-con-unreal-engine?id=999192419",
+    "title": "Experto Universitario de Programación en videojuegos con Unreal Engine",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "16 Semanas",
+    "price": "$  118.726,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/3089/experto-universitario-en-diseno-grafico-digital?id=999193470",
+    "title": "Experto Universitario en Diseño Gráfico Digital",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "33 Semanas",
+    "price": "$  113.452,30",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Luciana Barraza"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3069/curso-de-diseno-grafico-digital-nivel-inicial?id=999193362",
+    "title": "Curso de Diseño Gráfico Digital - Nivel Inicial",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "11 Semanas",
+    "price": "$  48.484,50",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Luciana Barraza, Mariano Zanella"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1831/programador-web-inicial-front-end-developer?id=999191657",
+    "title": "Programador Web Inicial - Front End Developer",
+    "startDate": "Inicio de cursada\n 08/11/2023",
+    "duration": "21 Semanas",
+    "price": "$  106.197,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino, Santiago Nobile"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1584/experto-universitario-en-programacion-web-full-stack?id=999191652",
+    "title": "Experto Universitario en Programación Web Full Stack",
+    "startDate": "Inicio de cursada\n 09/11/2023",
+    "duration": "13 Semanas",
+    "price": "$  97.236,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1262/diplomatura-en-audio-digital?id=999191711",
+    "title": "Diplomatura en Audio Digital",
+    "startDate": "Inicio de cursada\n 15/11/2023",
+    "duration": "16 Semanas",
+    "price": "$  90.033,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1256/introduccion-al-audio-digital?id=999191713",
+    "title": "Introducción al Audio Digital",
+    "startDate": "Inicio de cursada\n 15/11/2023",
+    "duration": "4 Semanas",
+    "price": "$  24.455,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/823/audio-for-games?id=999191429",
+    "title": "Audio for Games",
+    "startDate": "Inicio de cursada\n 16/11/2023",
+    "duration": "8 Semanas",
+    "price": "$  55.068,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Christian Martin Silvosa, Federico Alzugaray, Dante Poggio, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/294/diseno-textil-e-indumentaria-figurin-de-modas?id=999190129",
+    "title": "Diseño textil e indumentaria: figurín de modas",
+    "startDate": "Inicio de cursada\n 17/11/2023",
+    "duration": "9 Semanas",
+    "price": "$  58.739",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Natalia Miglino Vicentino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1479/professional-full-stack-developer?id=999191030",
+    "title": "Professional Full-Stack Developer",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "26 Semanas",
+    "price": "$  160.072,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1335/desarrollo-en-react-js?id=999192061",
+    "title": "Desarrollo en React JS",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "14 Semanas",
+    "price": "$  68.178,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1701/introduccion-al-design-thinking?id=999192185",
+    "title": "Introducción al Design Thinking",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "4 Semanas",
+    "price": "$  19.656,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Lorena Alejandra Maceratesi, Mariana Florencia Fiorillo, Lorena Alejandra Maceratesi"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1969/diplomatura-en-programacion-web-full-stack-con-react-js?id=999190841",
+    "title": "Diplomatura en programación web full stack con React JS",
+    "startDate": "Inicio de cursada\n 24/11/2023",
+    "duration": "25 Semanas",
+    "price": "$  115.244,35",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1341/animacion-3-d-para-videojuegos-con-blender?id=999192134",
+    "title": "Animación 3D para Videojuegos con Blender",
+    "startDate": "Inicio de cursada\n 06/12/2023",
+    "duration": "12 Semanas",
+    "price": "$  56.433,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luis Roach, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/946/desarrollo-con-angular?id=999192295",
+    "title": "Desarrollo con Angular",
+    "startDate": "Inicio de cursada\n 12/12/2023",
+    "duration": "6 Semanas",
+    "price": "$  71.143",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Fernando Andreassi, Alberto Enuel Monzon Oga"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1258/edicion-de-audio-y-proceso-de-senales-digitales?id=999191715",
+    "title": "Edición de Audio y Proceso de Señales Digitales",
+    "startDate": "Inicio de cursada\n 13/12/2023",
+    "duration": "4 Semanas",
+    "price": "$  24.455,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3060/curso-de-diseno-grafico-digital-nivel-avanzado?id=999193468",
+    "title": "Curso de Diseño Gráfico Digital - Nivel Avanzado",
+    "startDate": "Inicio de cursada\n 10/01/2024",
+    "duration": "10 Semanas",
+    "price": "$  33.905,25",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Luciana Barraza"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1260/sintesis-y-sampling?id=999191717",
+    "title": "Síntesis y sampling",
+    "startDate": "Inicio de cursada\n 10/01/2024",
+    "duration": "4 Semanas",
+    "price": "$  24.455,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2969/diseno-de-juegos-y-juguetes?id=999193247",
+    "title": "Diseño de juegos y Juguetes",
+    "startDate": "Inicio de cursada\n 09/02/2024",
+    "duration": "10 Lecciones",
+    "price": "$  34.882,50",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende, Santiago Nobile, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2188/taller-de-fotografia-nivel-inicial?id=999193543",
+    "title": "Taller de Fotografía - Nivel Inicial",
+    "startDate": "Inicio de cursada\n 09/04/2024",
+    "duration": "8 Semanas",
+    "price": "$  32.502,75",
+    "modalities": [
+      "Consultas en vivo con tutores",
+      "Clases practicas a distancia",
+      "Clases grabadas",
+      "Consultas en vivo con tutores"
+    ],
+    "teachers": "Leandro Martino, Leandro Martino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3284/curso-de-diseno-textil-e-indumentaria-figurin-de-modas?id=999194000",
+    "title": "Curso de Diseño Textil e indumentaria: figurín de modas",
+    "duration": "9 Semanas",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2920/curso-de-coolhunting?id=999192883",
+    "title": "Curso de Coolhunting",
+    "duration": "10 Semanas",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2186/desarrollo-y-armado-de-colecciones-de-moda?id=999189604",
+    "title": "Desarrollo y armado de colecciones de moda",
+    "duration": "4 Semanas",
+    "price": "$  7.800",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Glenys Bravo, Liset Losardo"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1782/taller-de-storytelling-para-productos-digitales?id=999189316",
+    "title": "Taller de Storytelling para productos digitales",
+    "duration": "5 Semanas",
+    "price": "$  13.263",
+    "modalities": [
+      "Consultas en vivo con tutores",
+      "Clases practicas a distancia",
+      "Clases grabadas",
+      "Consultas en vivo con tutores"
+    ],
+    "teachers": "Magali Bayon, Natalia Varela"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2951/curso-de-fundamentos-de-visual-thinking-para-la-elaboracion-de-presentaciones-efectivas?id=999193107",
+    "title": "Curso de Fundamentos de Visual Thinking para la elaboración de presentaciones efectivas",
+    "startDate": "Inicio de cursada\n 13/09/2023",
+    "duration": "6 Semanas",
+    "price": "$  10.350,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3092/game-design?id=999193541",
+    "title": "Game Design",
+    "startDate": "Inicio de cursada\n 13/09/2023",
+    "duration": "14 Lecciones",
+    "price": "$  34.724,25",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Florencia Rodriguez Sandez, Ingrid Kitainik"
+  }
+]

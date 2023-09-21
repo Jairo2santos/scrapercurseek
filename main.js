@@ -1,67 +1,113 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 
-async function GetCursos() {
-    const browser = await puppeteer.launch({
-        headless: false
-    });
 
+async function extractCourseDetails(urls) {
+    const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
 
-    // Desactivar la carga de imágenes para acelerar la navegación
-    await page.setRequestInterception(true);
-    page.on('request', (req) => {
-        if (req.resourceType() === 'image') {
-            req.abort();
-        } else {
-            req.continue();
-        }
-    });
+    let courseDetails = [];
 
-    let allCourses = [];
-  
+    for (let url of urls) {
+        try {
+        await page.goto(url, { timeout: 100000 });
+    
+        const details = await page.evaluate((currentURL) => {
+            let title, startDate, duration, price, modalities, teachers, courseDescription;
+    
+            try {
+                title = document.querySelector('h1').innerText;
+            } catch (error) {
+                console.error("Error al obtener el título del curso.");
+            }
+    
+            try {
+                startDate = document.querySelector('p.MuiTypography-root.MuiTypography-body1.css-x52e50').innerText;
+            } catch (error) {
+                console.error("Error al obtener la fecha de inicio del curso.");
+            }
+    
+            try {
+                duration = document.querySelector('p.MuiTypography-root.MuiTypography-body1.css-1ly5z01 > span').innerText;
+            } catch (error) {
+                console.error("Error al obtener la duración del curso.");
+            }
+    
+            try {
+                price = document.querySelector('label.text-price.m-0 > span').innerText;
+            } catch (error) {
+                console.error("Error al obtener el precio del curso.");
+            }
+    
+            try {
+                modalities = Array.from(document.querySelectorAll('.modalities-features-label')).map(el => el.innerText);
+            } catch (error) {
+                console.error("Error al obtener las modalidades del curso.");
+            }
+    
+            try {
+                teachers = Array.from(document.querySelectorAll('div.pt-4.pb-4.px-0.pl-md-3.mx-auto.col-11.col-md-10 > h3')).map(el => el.innerText).join(', ');
+            } catch (error) {
+                console.error("Error al obtener los profesores del curso.");
+            }
    
-    const totalPages = 37;
+            try {
+                courseDescription = document.querySelector('div.MuiBox-root.css-1u6733f > section > h6').innerText;
+            } catch (error) {
+                console.error("Error al obtener la descripción del curso.");
+            }
+    
+            return {
+                link: currentURL, 
+                title,
+                startDate,
+                duration,
+                price,
+                modalities,
+                teachers,
+                courseDescription
+            };
+        },url);
 
-    for (let pageIndex = 0; pageIndex <= totalPages; pageIndex++) {
-        const url = `https://sceu.frba.utn.edu.ar/e-learning/listado/Categorias[administracion-de-empresas]${pageIndex ? `?from=${pageIndex}` : ''}`;
-        await page.goto(url);
-
-        const coursesOnPage = await page.evaluate(() => {
-            const courses = [];
-            const courseContainers = document.querySelectorAll('.MuiGrid-root.MuiGrid-container.css-sfdl7');
-        
-            courseContainers.forEach(container => {
-                const cards = container.querySelectorAll('.MuiCard-root.card-offer.card-desktop.card.card-body.css-s18byi');
-                
-                cards.forEach(card => {
-                    const courseLinkElement = card.querySelector('a.MuiTypography-root.MuiTypography-inherit.MuiLink-root.MuiLink-underlineAlways.css-1cv6iia');
-                    const courseImageElement = card.querySelector('.MuiCardMedia-root.css-pqdqbj img');
-                    const courseTitleElement = card.querySelector('.MuiTypography-root.MuiTypography-body1.card-title.css-1eluky1');
-                    const courseStartDateElement = card.querySelector('.card-content .MuiBox-root.css-70qvj9 svg + span');
-                    const courseDurationElement = card.querySelector('.card-content .MuiBox-root.css-70qvj9:last-child svg + span');
-        
-                    courses.push({
-                        title: courseTitleElement ? courseTitleElement.innerText : null,
-                        link: courseLinkElement ? courseLinkElement.href : null,
-                        image: courseImageElement ? courseImageElement.src : null,
-                        startDate: courseStartDateElement ? courseStartDateElement.innerText : null,
-                        duration: courseDurationElement ? courseDurationElement.innerText : null
-                    });
-                });
-            });
-        
-            return courses;
-        });
-
-        allCourses = allCourses.concat(coursesOnPage);
+        courseDetails.push(details);
+    } catch (error) {
+        console.error(`Error al acceder a la URL ${url}: ${error.message}`);
+    }
     }
 
     await browser.close();
-
-    // Convertir allCourses en un archivo JSON
-    fs.writeFileSync('courses.json', JSON.stringify(allCourses, null, 2));
+    return courseDetails;
 }
 
+// Lista de URLs de cursos
+const courseUrls = [
+    'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1571/elaboracion-de-licores-artesanales?id=999191748',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/388/marketing-para-pequenos-y-medianos-establecimientos-hoteleros?id=999190136',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1334/evaluacion-sensorial-de-los-alimentos?id=999191860',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1203/diseno-gestion-y-comunicacion-de-experiencias-turisticas?id=999192166',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/822/planificacion-y-desarrollo-de-emprendimientos-hoteleros?id=999193153',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1823/capacitacion-sensorial-en-aceites-especias-y-mieles?id=999193155',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1778/capacitacion-sensorial-en-quesos?id=999191063',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1824/capacitacion-sensorial-en-infusiones?id=999193156',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2212/curso-vinas-vinos-catas-y-maridajes?id=999190295',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/48/recepcionista-de-hotel?id=999191850',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1408/experto-universitario-en-planificacion-y-gestion-turistica-sustentable?id=999193193',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1197/conocimiento-y-cata-de-vinos?id=999191856',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1325/comercializacion-y-comunicacion-digital-para-hoteles-pequenos-y-medianos?id=999192048',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/408/calidad-y-atencion-al-cliente-en-pequenos-y-medianos-establecimientos-hoteleros?id=999190139',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2488/nuevas-formas-de-turismo-turismo-de-experiencia?id=999191417',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/410/estrategia-de-precios-e-indicadores-de-gestion-para-hoteles-pequenos-y-medianos?id=999190145',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/296/experto-universitario-en-gestion-de-hoteles-pequenos-y-medianos?id=999193787',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/409/operaciones-hoteleras-en-pequenos-y-medianos-establecimientos-recepcion-pisos-alimentos-y-bebidas?id=999193790',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2264/nuevas-formas-de-turismo-agencias-virtuales?id=999193681',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/386/experto-universitario-en-turismo-rural?id=999193883',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/3287/experto-universitario-en-modelos-de-gestion-de-destinos-turisticos-inteligentes?id=999194070',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2847/licenciatura-en-gestion-de-empresas-turisticas-y-hoteleras?id=999192109',
+'https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2448/curso-basico-de-cocina-saludable?id=999190043'
+];
 
-GetCursos();
+extractCourseDetails(courseUrls).then(details => {
+    // Guardar los detalles en un archivo JSON
+    fs.writeFileSync('cursos_turismo_UTN.json', JSON.stringify(details, null, 2));
+    
+});

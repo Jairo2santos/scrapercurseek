@@ -1,0 +1,1398 @@
+[
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2207/diplomatura-de-professional-backend-developer?id=999193623",
+    "title": "Diplomatura de Professional Backend Developer",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "27 Semanas",
+    "price": "$  117.124,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1234/programador-web-avanzado?id=999190781",
+    "title": "Programador Web Avanzado",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "14 Semanas",
+    "price": "$  92.998,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Jon Gibaut, Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2127/desarrollo-web-con-php-y-wordpress?id=999193621",
+    "title": "Desarrollo web con PHP y Wordpress",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "13 Semanas",
+    "price": "$  24.764,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2115/programador-web-inicial?id=999192203",
+    "title": "Programador Web Inicial",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "13 Semanas",
+    "price": "$  111.231,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/487/fundamentos-de-las-bases-de-datos?id=999193628",
+    "title": "Fundamentos de las Bases de Datos",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "5 Semanas",
+    "price": "$  46.256,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Mariano Gecik, Martin Emilio Perez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3022/curso-de-excel-intermedio?id=999193185",
+    "title": "Curso de Excel Intermedio",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "6 Semanas",
+    "price": "$  16.258,50",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Carolina Alejandra Zabala"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1365/especialista-en-datawarehouse-y-etl?id=999190262",
+    "title": "Especialista en Datawarehouse y ETL",
+    "startDate": "Inicio de cursada\n 15/09/2023",
+    "duration": "6 Semanas",
+    "price": "$  63.213,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1426/python-3-nivel-avanzado?id=999190954",
+    "title": "Python 3 - Nivel Avanzado",
+    "startDate": "Inicio de cursada\n 22/09/2023",
+    "duration": "10 Semanas",
+    "price": "$  51.531,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3194/curso-de-programacion-en-javascript-y-typescript-nivel-avanzado?id=999193741",
+    "title": "Curso de Programación en Javascript y Typescript. Nivel avanzado",
+    "startDate": "Inicio de cursada\n 26/09/2023",
+    "duration": "10 Semanas",
+    "price": "$  62.400,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Brian Alexis Galli"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/3083/diplomatura-en-desarrollo-de-aplicaciones-moviles?id=999193462",
+    "title": "Diplomatura en Desarrollo de Aplicaciones Móviles",
+    "startDate": "Inicio de cursada\n 27/09/2023",
+    "duration": "16 Lecciones",
+    "price": "$  93.703,50",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1051/desarrollo-con-node-js?id=999192298",
+    "title": "Desarrollo con NodeJS",
+    "startDate": "Inicio de cursada\n 27/09/2023",
+    "duration": "6 Semanas",
+    "price": "$  53.357,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Fernando Andreassi, Alberto Enuel Monzon Oga"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3108/curso-de-visualizacion-de-datos-con-tableau-avanzado?id=999193569",
+    "title": "Curso de Visualización de Datos con Tableau - Avanzado",
+    "startDate": "Inicio de cursada\n 28/09/2023",
+    "duration": "4 Semanas",
+    "price": "$  34.399,95",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Martin Emilio Perez, Mariano Gecik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1830/professional-webmaster?id=999191802",
+    "title": "Professional Webmaster",
+    "startDate": "Inicio de cursada\n 28/09/2023",
+    "duration": "25 Semanas",
+    "price": "$  134.667,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2882/curso-de-resolucion-por-elementos-finitos-con-python?id=999192427",
+    "title": "Curso de Resolución por Elementos Finitos con Python",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "duration": "10 Semanas",
+    "price": "$  48.213,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/351/experto-universitario-de-seguridad-de-la-informacion?id=999190749",
+    "title": "Experto Universitario de Seguridad de la Información",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "duration": "25 Semanas",
+    "price": "$  98.983,95",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Andres Schmitz, Oscar Leonardo Banchiero, Oscar Andres Schmitz, Lucas Garcia"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/352/experto-universitario-en-hacking-etico-ethical-hacking?id=999190754",
+    "title": "Experto Universitario en Hacking Etico (Ethical Hacking)",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "duration": "24 Semanas",
+    "price": "$  114.212,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3027/curso-de-interfaces-graficas-y-procesamiento-de-datos-con-arduino?id=999193215",
+    "title": "Curso de Interfaces gráficas y procesamiento de datos con Arduino",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "duration": "8 Semanas",
+    "price": "$  41.486,25",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Christian Makinson, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2993/curso-de-micro-python-nivel-inicial?id=999193118",
+    "title": "Curso de MicroPython nivel inicial",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  37.001,25",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maximo Huykman, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1440/fundamentos-de-bases-de-datos-avanzado?id=999191631",
+    "title": "Fundamentos de Bases de Datos - Avanzado",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  43.877,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Ricardo Daniel Perez, Mariano Gecik, Mariano Gecik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2173/django-nivel-avanzado-en-produccion?id=999191578",
+    "title": "Django Nivel Avanzado – En producción",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  44.205,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2265/experto-universitario-de-game-design?id=999190793",
+    "title": "Experto Universitario de Game Design",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  61.220,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jose Hiebaum, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/596/programacion-en-base-de-datos-oracle-lenguaje-pl-sql?id=999191624",
+    "title": "Programación en Base de Datos Oracle - Lenguaje PL-SQL",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  43.862,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3188/curso-de-r?id=999193717",
+    "title": "Curso de R",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  43.940,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Martin Jaureguy"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1983/diplomatura-en-product-management?id=999191287",
+    "title": "Diplomatura en Product Management",
+    "startDate": "Inicio de cursada\n 05/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  112.432,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Ignacio Madrid, Gonzalo Suarez Del Cerro, Maite Iglesias, Laura Ricchio, Maria Laura Tripaldi, Hernan Ricchio, Giuliana Vazquez, Mariela Perez, Stefania Isi, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/888/experto-universitario-en-seguridad-de-dispositivos-moviles-e-inalambricos?id=999191820",
+    "title": "Experto Universitario en seguridad de dispositivos móviles e inalámbricos",
+    "startDate": "Inicio de cursada\n 05/10/2023",
+    "duration": "16 Semanas",
+    "price": "$  77.490,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Leonardo Banchiero"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3131/curso-de-visualizacion-de-datos-con-tableau-inicial?id=999193606",
+    "title": "Curso de Visualización de Datos con Tableau - Inicial",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  34.399,95",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Martin Emilio Perez, Mariano Gecik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2122/desarrollo-web-con-javascript?id=999191041",
+    "title": "Desarrollo Web con Javascript",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  56.666,25",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maria Victoria Lopez, Jose Luis Condori"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/372/modulo-complementario-para-certificar-experto-universitario-en-hacking-etico-ethical-hacking?id=999191817",
+    "title": "Modulo Complementario para Certificar Experto Universitario en Hacking Ético (Ethical Hacking)",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  57.258,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Andres Schmitz, Oscar Leonardo Banchiero, Lucas Garcia"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1270/fundamentos-de-spring-framework-para-java?id=999191090",
+    "title": "Fundamentos de Spring Framework para Java",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  83.109,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Marcelo Samia, Maria Laura Tripaldi, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2949/curso-de-data-science?id=999193053",
+    "title": "Curso de Data Science",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  43.728,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Virginia Marich, Virginia Marich"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2187/aprendiendo-a-programar-con-arduino?id=999190837",
+    "title": "Aprendiendo a Programar con Arduino",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  41.790,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Christian Makinson, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1427/python-3-nivel-intermedio?id=999190957",
+    "title": "Python 3 - Nivel Intermedio",
+    "startDate": "Inicio de cursada\n 10/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  51.531,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/336/diplomatura-en-programacion-java?id=999190850",
+    "title": "Diplomatura en Programación Java",
+    "startDate": "Inicio de cursada\n 11/10/2023",
+    "duration": "14 Semanas",
+    "price": "$  161.601,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Ulises Martins, Marcelo Samia, Maria Laura Tripaldi"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2123/php-y-my-sql-intermedio?id=999191537",
+    "title": "PHP y MySQL Intermedio",
+    "startDate": "Inicio de cursada\n 11/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  44.054,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/373/modulo-complementario-para-certificar-experto-universitario-de-seguridad-de-la-informacion?id=999190751",
+    "title": "Modulo Complementario para Certificar Experto Universitario de Seguridad de la Información",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  57.258,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Andres Schmitz, Oscar Leonardo Banchiero"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/998/data-scientist-con-r?id=999191009",
+    "title": "Data Scientist con R",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "6 Semanas",
+    "price": "$  68.709,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Laura Cristina Siri, Susana Isabel Sarmiento Reina, Guillermo Garofalo, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/337/diplomatura-en-programacion-net?id=999190941",
+    "title": "Diplomatura en Programación .NET",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "16 Semanas",
+    "price": "$  161.601,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Marcelo Samia, Adriano Javier Nicolas Ferraro Medina, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/407/desarrollo-de-videojuegos?id=999191094",
+    "title": "Desarrollo de Videojuegos",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "14 Semanas",
+    "price": "$  75.870,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Guido Varela Coletta"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1000/curso-de-desarrollo-de-aplicaciones-multiplataforma-con-kivy?id=999192485",
+    "title": "Curso de Desarrollo de aplicaciones multiplataforma con Kivy",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  30.918,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Nicolas Fevola, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3190/curso-de-diseno-de-circuitos-electronicos-pcb?id=999193743",
+    "title": "Curso de Diseño de circuitos electrónicos (PCB)",
+    "startDate": "Inicio de cursada\n 13/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  37.050,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maximo Huykman, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3051/data-engineering?id=999193214",
+    "title": "Data Engineering",
+    "startDate": "Inicio de cursada\n 17/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  38.870,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Guido Franco"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3222/curso-de-inteligencia-artificial-para-videojuegos?id=999193838",
+    "title": "Curso de Inteligencia Artificial para Videojuegos",
+    "startDate": "Inicio de cursada\n 17/10/2023",
+    "duration": "10 Lecciones",
+    "price": "$  54.080,00",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2250/curso-basico-de-reparacion-y-mantenimiento-de-celulares?id=999192888",
+    "title": "Curso Básico de Reparación y Mantenimiento de Celulares",
+    "startDate": "Inicio de cursada\n 18/10/2023",
+    "duration": "6 Semanas",
+    "price": "$  20.930",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Vanesa Viviana Fernandez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3217/curso-de-azure-cloud-services?id=999193802",
+    "title": "Curso de Azure Cloud Services",
+    "startDate": "Inicio de cursada\n 18/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  35.490,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Ignacio Anessi"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2171/django-nivel-intermedio-diseno-de-plataformas?id=999191572",
+    "title": "Django - Nivel Intermedio – Diseño de plataformas",
+    "startDate": "Inicio de cursada\n 19/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  44.205,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3142/curso-de-pseint-con-gpt?id=999193775",
+    "title": "Curso de Pseint con GPT",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  29.250,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1055/programacion-de-video-juegos-con-unity-nivel-inicial?id=999192415",
+    "title": "Programación de Video Juegos con Unity. Nivel Inicial",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  61.912,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Federico Zinni, Maximiliano Depetris"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/997/especialista-en-big-data-con-apache-hadoop?id=999191872",
+    "title": "Especialista en Big Data con Apache Hadoop",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  49.774,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Guillermo Garofalo, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1114/desarrollo-de-videojuegos-para-principiantes-con-unreal?id=999192421",
+    "title": "Desarrollo de Videojuegos para principiantes con Unreal",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  63.075,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1054/experto-universitario-en-programacion-de-video-juegos-con-unity?id=999192413",
+    "title": "Experto Universitario en Programación de Video Juegos con Unity",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "16 Semanas",
+    "price": "$  107.438,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Federico Zinni, Maximiliano Depetris"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/554/bases-de-matlab-con-aplicaciones-a-las-ciencias-e-ingenierias-basico?id=999192019",
+    "title": "Bases de Matlab con Aplicaciones a las ciencias e ingenierías - Básico",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  17.177,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Patricio Fay, Patricio Fay"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/630/diplomatura-en-business-intelligence?id=999190947",
+    "title": "Diplomatura en Business Intelligence",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "14 Semanas",
+    "price": "$  96.190,50",
+    "modalities": [],
+    "teachers": "Jesus Ignacio Matias Urteaga, Susana Isabel Sarmiento Reina, Alejo Martin Lazzati, Guillermo Garofalo, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2308/curso-de-deep-learning-redes-neuronales-desde-cero?id=999191565",
+    "title": "Curso de Deep Learning: Redes neuronales desde cero",
+    "startDate": "Inicio de cursada\n 24/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  31.080,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Enrique Nicanor Mariotti, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2119/professional-front-end-developer?id=999191034",
+    "title": "Professional Front End Developer",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "32 Semanas",
+    "price": "$  176.295,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1413/diplomatura-en-python?id=999190952",
+    "title": "Diplomatura en Python",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "30 Semanas",
+    "price": "$  120.580,85",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2118/desarrollo-web-en-html-5-y-css-3?id=999191038",
+    "title": "Desarrollo Web en Html5 y Css3",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  50.368,50",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maria Victoria Lopez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1428/python-3-nivel-inicial?id=999190962",
+    "title": "Python 3 - Nivel Inicial",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  51.531,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/486/professional-testing-master?id=999190893",
+    "title": "Professional Testing Master",
+    "startDate": "Inicio de cursada\n 27/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  54.967",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "David Lopez, Juan Carlos Tripaldi, Juan Jose Lopez, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2640/curso-de-fundamentos-de-la-programacion?id=999191015",
+    "title": "Curso de Fundamentos de la Programación",
+    "startDate": "Inicio de cursada\n 27/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  32.067,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Emilio Esteban Rasic"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3058/curso-de-como-mejorar-la-productividad-con-bitrix-24?id=999193391",
+    "title": "Curso de Cómo mejorar la productividad con Bitrix24",
+    "startDate": "Inicio de cursada\n 01/11/2023",
+    "duration": "5 Semanas",
+    "price": "$  26.163",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Andrea Mangone, Leandro Di Matteo"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2174/diplomatura-de-django-framework?id=999191569",
+    "title": "Diplomatura de Django framework",
+    "startDate": "Inicio de cursada\n 02/11/2023",
+    "duration": "30 Semanas",
+    "price": "$  119.352,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2172/django-nivel-inicial-arquitectura?id=999191576",
+    "title": "Django Nivel Inicial - Arquitectura",
+    "startDate": "Inicio de cursada\n 02/11/2023",
+    "duration": "10 Semanas",
+    "price": "$  44.205,75",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1268/dev-ops-integracion-y-agilidad-continua?id=999191709",
+    "title": "DevOps, integración y agilidad continua",
+    "startDate": "Inicio de cursada\n 03/11/2023",
+    "duration": "6 Semanas",
+    "price": "$  91.612",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Hernan Ricchio, David Fichtenbaum, Javier Madero, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1831/programador-web-inicial-front-end-developer?id=999191657",
+    "title": "Programador Web Inicial - Front End Developer",
+    "startDate": "Inicio de cursada\n 08/11/2023",
+    "duration": "21 Semanas",
+    "price": "$  106.197,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino, Santiago Nobile"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2128/experto-universitario-en-php-y-my-sql?id=999190845",
+    "title": "Experto Universitario en PHP y MySQL",
+    "startDate": "Inicio de cursada\n 08/11/2023",
+    "duration": "27 Semanas",
+    "price": "$  122.368,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2121/php-y-my-sql-inicial?id=999191534",
+    "title": "PHP y MySQL inicial",
+    "startDate": "Inicio de cursada\n 08/11/2023",
+    "duration": "9 Semanas",
+    "price": "$  44.054,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1584/experto-universitario-en-programacion-web-full-stack?id=999191652",
+    "title": "Experto Universitario en Programación Web Full Stack",
+    "startDate": "Inicio de cursada\n 09/11/2023",
+    "duration": "13 Semanas",
+    "price": "$  97.236,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1896/curso-de-professional-testing-master-nivel-avanzado?id=999191298",
+    "title": "Curso de Professional Testing Master Nivel Avanzado",
+    "startDate": "Inicio de cursada\n 10/11/2023",
+    "duration": "8 Semanas",
+    "price": "$  88.146,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "David Lopez, Gustavo La Sala, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2906/curso-de-aws-cloud-computing?id=999192850",
+    "title": "Curso de AWS cloud computing",
+    "startDate": "Inicio de cursada\n 10/11/2023",
+    "duration": "8 Semanas",
+    "price": "$  49.335,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Ignacio Anessi"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1294/diplomatura-en-bases-de-datos?id=999191292",
+    "title": "Diplomatura en Bases de Datos",
+    "startDate": "Inicio de cursada\n 17/11/2023",
+    "duration": "12 Semanas",
+    "price": "$  63.213,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Laura Cristina Siri, Guillermo Garofalo, Susana Isabel Sarmiento Reina, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/790/python-3-paso-a-paso?id=999191774",
+    "title": "Python3 – Paso a paso",
+    "startDate": "Inicio de cursada\n 17/11/2023",
+    "duration": "6 Semanas",
+    "price": "$  28.033,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1481/curso-de-diseno-de-videojuegos-produccion-y-programacion-integral?id=999191426",
+    "title": "Curso de Diseño de Videojuegos: Producción y programación integral",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "18 Semanas",
+    "price": "$  80.085,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Diego Morejon, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1479/professional-full-stack-developer?id=999191030",
+    "title": "Professional Full-Stack Developer",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "26 Semanas",
+    "price": "$  160.072,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2275/curso-de-machine-learning-con-python?id=999191926",
+    "title": "Curso de Machine Learning con Python",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "8 Semanas",
+    "price": "$  52.178",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Enrique Nicanor Mariotti, Juan Marcelo Barreto Rodriguez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1335/desarrollo-en-react-js?id=999192061",
+    "title": "Desarrollo en React JS",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "14 Semanas",
+    "price": "$  68.178,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2126/desarrollo-web-en-bootstrap?id=999191765",
+    "title": "Desarrollo web en Bootstrap",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "5 Semanas",
+    "price": "$  19.987,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Maria Victoria Lopez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1969/diplomatura-en-programacion-web-full-stack-con-react-js?id=999190841",
+    "title": "Diplomatura en programación web full stack con React JS",
+    "startDate": "Inicio de cursada\n 24/11/2023",
+    "duration": "25 Semanas",
+    "price": "$  115.244,35",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1385/bases-de-matlab-con-aplicaciones-a-las-ciencias-e-ingenierias-avanzado?id=999192022",
+    "title": "Bases de Matlab con Aplicaciones a las ciencias e ingenierías - Avanzado",
+    "startDate": "Inicio de cursada\n 07/12/2023",
+    "duration": "4 Semanas",
+    "price": "$  22.903",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Patricio Fay, Patricio Fay"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2124/desarrollo-web-en-html-5-css-3-y-javascript-nivel-avanzado?id=999191044",
+    "title": "Desarrollo web en HTML 5, CSS3 y Javascript (nivel avanzado)",
+    "startDate": "Inicio de cursada\n 07/12/2023",
+    "duration": "9 Semanas",
+    "price": "$  52.467,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maria Victoria Lopez"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/946/desarrollo-con-angular?id=999192295",
+    "title": "Desarrollo con Angular",
+    "startDate": "Inicio de cursada\n 12/12/2023",
+    "duration": "6 Semanas",
+    "price": "$  71.143",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Fernando Andreassi, Alberto Enuel Monzon Oga"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2125/php-y-my-sql-avanzado?id=999191540",
+    "title": "PHP y MySQL Avanzado",
+    "startDate": "Inicio de cursada\n 13/12/2023",
+    "duration": "9 Semanas",
+    "price": "$  44.054,25",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1351/programacion-de-videojuegos-avanzado-con-unreal?id=999192423",
+    "title": "Programación de Videojuegos Avanzado con Unreal",
+    "startDate": "Inicio de cursada\n 15/12/2023",
+    "duration": "8 Semanas",
+    "price": "$  63.075,00",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1056/programacion-de-videojuegos-con-unity-nivel-avanzado?id=999192417",
+    "title": "Programación de Videojuegos con Unity. Nivel Avanzado",
+    "startDate": "Inicio de cursada\n 15/12/2023",
+    "duration": "8 Semanas",
+    "price": "$  61.912,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Federico Zinni, Maximiliano Depetris"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2925/curso-de-diseno-con-solidworks-nivel-intermedio-conjuntos?id=999192917",
+    "title": "Curso de Diseño con Solidworks Nivel Intermedio - Conjuntos",
+    "startDate": "Inicio de cursada\n 03/01/2024",
+    "duration": "13 Semanas",
+    "price": "$  34.125,00",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Ing Sebastian Fenelli, Veronica Fonteriz"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3050/programacion-en-c-para-videojuegos?id=999193874",
+    "title": "Programación en C++ para Videojuegos",
+    "startDate": "Inicio de cursada\n 02/02/2024",
+    "duration": "12 Lecciones",
+    "price": "$  39.253,50",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende, Santiago Nobile, Ariel Restagno Barros, Ingrid Kitainik"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1022/diplomatura-en-analisis-de-negocios-business-analysis?id=999193759",
+    "title": "Diplomatura en Análisis de Negocios (Business Analysis)",
+    "startDate": "Inicio de cursada\n 23/02/2024",
+    "duration": "12 Semanas",
+    "price": "$  60.462,75",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Carlos Alberto Mari, Juan Carlos Tripaldi, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2585/curso-de-redes-opticas?id=999194049",
+    "title": "Curso de Redes ópticas",
+    "startDate": "Inicio de cursada\n 01/03/2024",
+    "duration": "10 Semanas",
+    "price": "$  78.487,50",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Daniel Torrabadella, Daniel Torrabadella"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/531/diplomatura-en-programacion-sap-abap?id=999193769",
+    "title": "Diplomatura en Programación SAP ABAP",
+    "startDate": "Inicio de cursada\n 05/03/2024",
+    "duration": "19 Semanas",
+    "price": "$  96.190,50",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Marcelo Ubaldo Lopez Nocera, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2117/diplomatura-en-diseno-web-y-multimedial?id=999193767",
+    "title": "Diplomatura en Diseño Web y Multimedial",
+    "startDate": "Inicio de cursada\n 29/03/2024",
+    "duration": "18 Semanas",
+    "price": "$  159.896",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Jose Luis Condori"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2267/diplomatura-de-gestion-de-inteligencia-estrategica-4-0?id=999194052",
+    "title": "Diplomatura de Gestión De Inteligencia Estratégica 4.0",
+    "startDate": "Inicio de cursada\n 03/04/2024",
+    "duration": "15 Semanas",
+    "price": "$  81.176",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Msc Nancy Veronica Perez, Mi Ra Kim"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2992/curso-de-programacion-low-code-con-power-plaform?id=999193115",
+    "title": "Curso de Programación low code con Power Plaform",
+    "duration": "11 Semanas",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3189/curso-de-desarrollo-de-aplicaciones-con-ia-open-source-chat-gpt-y-otros-ll-ms?id=999193697",
+    "title": "Curso de Desarrollo de Aplicaciones con IA (Open Source, ChatGPT y otros LLMs)",
+    "duration": "4 Semanas",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/maestria/1756/especializacion-en-ingenieria-en-telecomunicaciones?id=999186746",
+    "title": "Especialización en Ingeniería en Telecomunicaciones",
+    "modalities": [
+      "Educación combinada",
+      "Clases online + presenciales."
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2844/tecnicatura-en-ciberseguridad?id=999192084",
+    "title": "Tecnicatura en Ciberseguridad",
+    "duration": "2 Años y medio",
+    "modalities": [],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2858/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos?id=999192118",
+    "title": "Tecnicatura Universitaria en Desarrollo y Producción de Videojuegos",
+    "duration": "2 Años y medio",
+    "modalities": [],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/maestria/1757/maestria-en-ingenieria-en-sistemas-de-informacion?id=999186745",
+    "title": "Maestría en Ingeniería en Sistemas de Información",
+    "modalities": [
+      "Educación combinada",
+      "Clases online + presenciales."
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2859/tecnicatura-en-ciencia-de-datos-e-ia?id=999192125",
+    "title": "Tecnicatura en Ciencia de Datos e IA",
+    "duration": "2 Años y medio",
+    "modalities": [],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1745/experto-universitario-en-programacion-con-especializacion-en-un-lenguaje?id=999186742",
+    "title": "Experto Universitario en Programación con especialización en un Lenguaje",
+    "duration": "28 Semanas",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1474/introduccion-a-la-programacion-en-android-con-kotlin?id=999188115",
+    "title": "Introducción a la programación en Android con Kotlin",
+    "duration": "8 Semanas",
+    "price": "$  19.533",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Emilio Esteban Rasic, Emilio Esteban Rasic"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/628/introduccion-a-la-programacion-en-android-con-java?id=999188361",
+    "title": "Introducción a la programación en Android con Java",
+    "duration": "6 Semanas",
+    "price": "$  23.972",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Emilio Esteban Rasic, Maria Laura Tripaldi, Ulises Martins"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1167/curso-basico-de-perito-judicial-informatico?id=999188945",
+    "title": "Curso básico de Perito Judicial Informático.",
+    "duration": "16 Semanas",
+    "price": "$  70.374",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Analia Politi, Emiliano Morana, Dario Piccirilli"
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/webinario/2875/charla-informativa-mercado-laboral-it-desafios-y-oportunidades-a-nivel-internacional?id=999192284",
+    "title": "Charla Informativa - Mercado Laboral IT: Desafíos y Oportunidades a Nivel Internacional",
+    "modalities": [],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2851/tecnicatura-universitaria-en-ciudades-inteligentes?id=999192115",
+    "title": "Tecnicatura Universitaria en Ciudades Inteligentes",
+    "price": "$  13.000",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": ""
+  },
+  {
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1655/curso-de-revit?id=999190291",
+    "title": "Curso de REVIT",
+    "duration": "11 Lecciones",
+    "price": "$  68.190",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Andrea Tatiana Nigro, Andrea Tatiana Nigro"
+  }
+]

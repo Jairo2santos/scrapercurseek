@@ -19,10 +19,10 @@ async function getCursosURLs() {
     });
 
     let allCourseURLs = [];
-    const totalPages = 37;
+    const totalPages = 25;
 
     for (let pageIndex = 0; pageIndex <= totalPages; pageIndex++) {
-        const url = `https://sceu.frba.utn.edu.ar/e-learning/listado/Categorias[administracion-de-empresas]${pageIndex ? `?from=${pageIndex}` : ''}`;
+        const url = `https://sceu.frba.utn.edu.ar/e-learning/listado/Categorias[turismo-hoteleria-y-gastronomia]${pageIndex ? `?from=${pageIndex}` : ''}`;
         await page.goto(url);
 
         const courseURLsOnPage = await page.evaluate(() => {
@@ -42,7 +42,7 @@ async function getCursosURLs() {
     await browser.close();
 
     // Guardar las URLs en un archivo .txt separadas por comas
-    fs.writeFileSync('courseURLs.txt', allCourseURLs.map(url => `'${url}'`).join(',\n'));
+    fs.writeFileSync('courseURLs_turismo_UTN.txt', allCourseURLs.map(url => `'${url}'`).join(',\n'));
     console.log('URLs guardadas en courseURLs.txt');
 }
 
