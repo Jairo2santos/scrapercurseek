@@ -1,0 +1,807 @@
+[
+  {
+    "title": "eBooks - Diseño Editorial Digital",
+    "startDate": "Inicio de cursada\n 20/09/2023",
+    "duration": "9 Semanas",
+    "price": "$  51.715",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Eliana Crivaro, Maria Pia Coppede Novelli, Gabriel Appella, Eliana Crivaro",
+    "summary": "Cupo máximo 30 alumnos\n\nLas nuevas tecnologías cambiaron los actos cotidianos. Por ejemplo, leer una revista, un libro o un diario en papel, ya está dejando de ser un acto habitual, porque estamos incorporando a nuestras vidas la lectura a través de medios digitales, tales como tablets, e-readers, celulares y computadoras. Actualmente, se impone el aprendizaje de los conceptos principales que rigen al Diseño Editorial, utilizando como canal de comunicación el formato digital. En este sentido, el curso que presentamos les permitirá a los participantes desarrollar, tanto libros como revistas digitales de gran o pequeño formatos, para colocarlas de forma inmediata en el mercado, a partir de conocer los secretos de la construcción de las estructuras, la realización de las piezas, las posibilidades de crearlas en formato digital y su puesta en funcionamiento. Todo esto, dentro de un contexto de registro de derechos de autor y en el marco de la propia promoción y venta online del producto final.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/472/e-books-diseno-editorial-digital?id=999190856",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/218218.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Sonorización para Medios Lineales y No-Lineales",
+    "startDate": "Inicio de cursada\n 20/09/2023",
+    "duration": "4 Semanas",
+    "price": "$  32.607",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1261/sonorizacion-para-medios-lineales-y-no-lineales?id=999191718",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/373373.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Figma: Introducción, elementos y tipografía para UX (Inicial)",
+    "startDate": "Inicio de cursada\n 22/09/2023",
+    "duration": "2 Semanas",
+    "price": "$  17.940",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Valeria Castresana, Valeria Castresana",
+    "summary": "Clases en vivo: Martes a las 19 hs. (2 encuentros)\n\nFigma es el programa líder en el mercado para edición gráfica y prototipado y el más elegido en el mundo del diseño ux-ui. Nos permite principalmente diseñar páginas web e interfaces de aplicaciones. Esta herramienta es gratuita, online, colaborativa y sumamente potente.\n\nEn este seminario conocerás todos los aspectos iniciales de Figma. Navegaremos por su interfaz, sus herramientas y sus funciones básicas. Aprenderás a realizar gráficos vectoriales, usar tipografías, editar elementos.\n\nCuando finalices el seminario serás capaz de utilizar esta herramienta con conocimiento de todos sus componentes y podrás seguir avanzando en los niveles más complejos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3023/figma-introduccion-elementos-y-tipografia-para-ux-inicial?id=999193189",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23722372.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Animación Audiovisual 3D (Nivel Inicial)",
+    "startDate": "Inicio de cursada\n 26/09/2023",
+    "duration": "10 Semanas",
+    "price": "$  58.739",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Guido Varela Coletta",
+    "summary": "Blender es un software extremadamente versátil. Este curso facilita al alumno una primera toma de contacto con el programa, permiténdole descubrir gran parte de sus funcionalidades y comenzar a utilizarlas. Está orientado a que el alumno en forma intensiva y dinámica, comprenda el manejo global de Blender 3D en un nivel inicial. El principal objetivo es centrar el uso del software para su utilización en modelado, render y animación, sin dejar de lado la variedad de herramientas que ofrece el software.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/803/animacion-audiovisual-3-d-nivel-inicial?id=999190269",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/151151.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Desarrollo con NodeJS",
+    "startDate": "Inicio de cursada\n 27/09/2023",
+    "duration": "6 Semanas",
+    "price": "$  71.143",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Fernando Andreassi, Alberto Enuel Monzon Oga",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1051/desarrollo-con-node-js?id=999192298",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Desarrollo-con-NodeJS.jpg&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Adobe Premiere",
+    "startDate": "Inicio de cursada\n 28/09/2023",
+    "duration": "12 Lecciones",
+    "price": "$  60.189",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Santiago Nobile, Kristel Freire, Ingrid Kitainik",
+    "summary": "Clases en vivo: Jueves de 19 a 22 hs.\n\nLa importancia de aprender Adobe Premiere Pro radica en que es un programa completo que cuenta con todos los elementos necesarios para la postproducción de video, sonido e imagen. Entre sus múltiples características, Premiere Pro se compone de una interfaz personalizable y organizada en espacios de trabajo que coinciden con las etapas de la edición: ensamblaje, edición, color, efectos, audio y títulos. En este sentido, los materiales editados en Adobe Premiere Pro servirán para todo tipo de proyectos audiovisuales: cine, televisión, videojuegos, publicidad, redes sociales. Durante la cursada, los estudiantes aprenderán, a modo procesual, las diversas herramientas de edición audiovisual. El complejo ecosistema digital de las redes sociales obliga a adaptarnos a los nuevos lenguajes de elaboración de contenidos: Premiere Pro nos ofrece la posibilidad de convertir cualquier material audiovisual en un producto comunicacional de alta complejidad. Los estudiantes que ya hayan aprendido técnicas de diseño vectorial, retoque fotográfico, edición de sonido o animación 2D, podrán incorporar sus habilidades con Adobe Premiere Pro, ya que es un software compatible con los programas de edición de Adobe Creative Cloud más utilizados: Illustrator, Photoshop, After Effects y Audition.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3074/curso-de-adobe-premiere?id=999193473",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23682368-Curso%20de%20Edici%C3%B3n%20de%20Video%20con%20Adobe%20Premiere%20Pro%20CC.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Professional Webmaster",
+    "startDate": "Inicio de cursada\n 28/09/2023",
+    "duration": "25 Semanas",
+    "price": "$  179.557",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino",
+    "summary": "Este curso combina las principales tecnologías de diseño y programación de aplicaciones Web, proporcionando a los estudiantes el nivel de especialización profesional ideal para insertarse en forma inmediata y exitosa en este campo laboral en permanente expansión.\n\nSe trata de una formación intensiva que aborda tanto el diseño y desarrollo, como tambien la parte de programación dinámica web.\n\nActualmente el mercado laboral requiere expertos en desarrollo web en cada sector. El curso brindará al alumno las herramientas necesarias que actualmente piden las agencias de diseño y los clientes en general, para poder crear sitios web adaptables a varios formatos de imágenes (celulares, tablets, pc, etc), crear animaciones web, y comprender y perfeccionar la sintaxis de código a la hora de diseñar.\n\nAdemás, los participantes aprenderán a dominar las tecnologías de Javascript y conectar a Base de Datos SQL con NodeJS, creando un perfil de desarrollador completo e integral.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1830/professional-webmaster?id=999191802",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17011701.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Narrativa Visual para juegos comic y producciones audiovisuales",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "duration": "10 Lecciones",
+    "price": "$  46.511",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Maria Del Pilar Arrufat, Rodrigo Biancciotti, Ingrid Kitainik",
+    "summary": "Clases en vivo: Viernes de 19 a 22 hs.\n\nEl storytelling funciona como una bisagra entre arte y programación, la piedra de unión entre dos mundos que parecen tan distantes. Desde los comienzos de la historia el hombre ha sentido la necesidad de contar historias. En un mundo donde el trabajo está cada vez más automatizado y regido por algoritmos, robots y computadoras, es justamente la creatividad la que se consolida como un factor diferencial a favor del ser humano.\n\nEn tiempos actuales la narrativa y el discurso tienen un papel predominante en todos los medios que nos rodean, desde noticieros hasta videojuegos. Lamentablemente, también vivimos en una época donde el analfabetismo ha desarrollado una nueva faceta: personas que son capaces de leer, pero no entienden lo que se dice. Por esto, consideramos que es de vital importancia poder dominar los recursos que nos acerquen a comprender y establecer una narrativa coherente y bien orientada.\n\nA través de este curso se busca instruir a toda aquella persona que desee aprender más sobre conceptos de narrativa así como metodologías y herramientas para plasmar lo aprendido. Se incentivará la capacidad de autogestionarse e informarse sobre diversos temas tratando de fomentar la investigación como herramienta de conocimiento. También veremos cómo incorporar la crítica constructiva y el trabajo grupal. La finalidad es aplicar lo visto en proyectos personales, sin importar los conocimientos previos que posean sobre el tema.\n\nLos alumnos pueden comenzar el curso con conocimientos previos o sin ellos, pero se buscará que al finalizar puedan proponer una historia para un medio a elección.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3054/narrativa-visual-para-juegos-comic-y-producciones-audiovisuales?id=999193241",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23502350.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Storytelling: contar historias para vender",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "price": "$  9.669",
+    "modalities": [],
+    "teachers": "Adrian Giorgio",
+    "summary": "Clase en vivo: Lunes 19 hs. (1 encuentro de 3 horas)\n\nEl storytelling es el arte de contar historias para generar un efecto o impacto en el comportamiento de otras personas Esta estrategia es una de las más utilizadas por las principales marcas y busca conectar con la audiencia recurriendo a distintos formatos, elementos, dispositivos y pantallas.\n\nEn este curso aprenderás cuáles son las características del storytelling, los usos y las ventajas de utilizarlo para hablar de una marca, la importancia de definir a tu público y generar contenido desde la empatía. También conocerás las partes que conforman la estructura y secuencia narrativa, y distintos modelos narrativos para pensar tus historias.\n\nEs un espacio de formación e intercambio donde deberás poner a prueba tus conocimientos en la ideación y planificación de una historia que apunte a la venta o promoción de un producto. Al finalizar, habrás aprendido metodologías de producción, herramientas, y posibilidades comunicacionales, para aplicar en tus proyectos presentes o futuros.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2845/storytelling-contar-historias-para-vender?id=999192162",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22202220.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Adobe Indesign - Maquetación y Diseño Editorial",
+    "startDate": "Inicio de cursada\n 03/10/2023",
+    "duration": "8 Lecciones",
+    "price": "$  46.510",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Luciana Barraza, Valentina Tsoi, Ingrid Kitainik",
+    "summary": "Clases en vivo: Martes de 19 a 22 hs.\n\nEl Diseño Editorial más allá de su aplicación en formatos físicos de libros, revistas, folletos, etc; se ha tornado una herramienta de gestión fundamental en el diseño Digital.\n\nMaquetación de páginas web , diarios y revistas digitales, tiendas online, plataformas educativas, libros , catálogos, son piezas de comunicación que se generan bajo una estructura de ordenamiento pautada por el diseño potenciando la comunicación efectiva y optimizando la experiencia de usuario.\n\nIn Design es una herramienta del portafolio Adobe que permite maquetar generar desde bocetos preliminares hasta materiales de impresión en forma ágil , diseñando la base de la estructura organizativa de las piezas editoriales gráficas, con manejo de tipografías, párrafo, títulos , epígrafes y manipulación de imágenes. Para los diseñadores es un atributo destacable el manejo de In Design en las aptitudes incluidas en CV y portfolios\n\nSe puede crear diseños gráficos con tipografías de las mejores compañías del mundo e imágenes de Adobe Stock. Además, se puede compartir contenidos y comentarios en PDF. InDesign tiene todo lo que se necesita para crear y publicar libros, revistas digitales, libros electrónicos, posteres, PDF interactivos y mucho más.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3084/curso-de-adobe-indesign-maquetacion-y-diseno-editorial?id=999193472",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23652365-Dise%C3%B1o%20Editorial%20y%20Maquetaci%C3%B3n%20con%20In%20Design.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Fotografía Profesional",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  23.483",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Leandro Martino, Leandro Martino",
+    "summary": "Dirigido a personas que ya hicieron el Taller de Fotografia - Nivel inicial o tienen los conocimientos básicos para manejar la cámara en modo manual (M), lo mínimo de Adobe Lightroom y quieren empezar a profundizar su voz creativa.\n\nEmpezaremos a entender los aspectos discursivos, artisticos y técnicos para poder hacer fotografía de retratos, calle y series narrativas básicas.\n\nEntenderemos los beneficios del archivo RAW y empezaremos a revelar con Adobe Lightroom.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3062/curso-de-fotografia-profesional?id=999193368",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20552055.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Ilustración Digital",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  58.739",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Rocio Folgueira",
+    "summary": "El curso permite conocer y dominar las distintas técnicas de ilustración digital utilizando el software adecuado para tal fin.\n\nPodrás aprender los fundamentos de la ilustración tradicional y las últimas tecnologías digitales disponibles. Podrás utilizar las herramientas digitales para crear ilustraciones y piezas gráficas con aplicaciones tanto artísticas como comerciales.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/792/ilustracion-digital?id=999190772",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/251792.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Fotografía Narrativa",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "7 Semanas",
+    "price": "$  24.907",
+    "modalities": [
+      "Consultas en vivo con tutores",
+      "Clases practicas a distancia",
+      "Clases grabadas",
+      "Consultas en vivo con tutores"
+    ],
+    "teachers": "Leandro Martino, Leandro Martino",
+    "summary": "Este curso busca ampliar los conocimientos técnicos relacionados al uso del color y la luz natural para conocer las posibilidades creativas que brinda la narrativa fotográfica.\n\n\nPor otra parte poner énfasis en la fotografía como experiencia personal dentro de lo cotidiano. Captar facetas de la existencia, el ambiente del lugar, la alegría, la ira, la ternura o no, de la vida diaria.\n\nTambién trabajaremos sobre la construcción de sentido en la creación fotográfica a partir de la comprensión y uso del lenguaje visual.\n\nY por último, lograr que tus fotos trabajen para vos, destacarte en el ámbito fotográfico que desees adentrarte.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2899/curso-de-fotografia-narrativa?id=999192454",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19981998.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Diplomatura de Fotografía Documental",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "22 Semanas",
+    "price": "$  125.529",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Leandro Martino, Leandro Martino",
+    "summary": "La fotografía documental tiene un extenso ámbito de aplicación que va desde la capacicdad en definir qué es y qué no es la fotografía documental, identificar las diferentes corrientes y etapas de la fotografía documental hasta diferenciar los propósitos de la fotografía documental o reconocer a las principales figuras del documentalismo. Hay diversos enfoques de la fotografía documental que se pueden aplicar, en este diplomado se trabajará desde el enfoque centrado en la persona, en lo humanista de la sociedad dando una revisión teórica a otras maneras de abordar el documentalismo fotográfico.\n\nAsismimo, se revisarán técnicas y herramientas tanto clásicas como modernas. En el aspecto práctico dentro del diplomado, la fotografía documental tradicional aglutina dos aspectos. Por un lado, un lenguaje que se articula mediante una serie de criterios que intentan encubrir la estancia del fotógrafo/a en el escenario de su encuadre, y, por otro, teniendo en cuenta que su presencia es ineludible, su no intervención en la toma.\n\nEste diplomado pretende brindar herramientas de conocimiento teórico y práctico de la fotografia documental para comparar los estilos, tratamientos y temas en el documentalismo fotográfico, identificar géneros y subgéneros, reflexionar sobre la importancia del Documentalismo Fotográfico y también poder lograr interpretar un cuerpo de obra documental.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2190/diplomatura-de-fotografia-documental?id=999190225",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19991999.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Diseño y realización de personajes",
+    "startDate": "Inicio de cursada\n 10/10/2023",
+    "duration": "16 Lecciones",
+    "price": "$  60.189",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Sabina Daldovo, Ingrid Kitainik",
+    "summary": "Clases en vivo: Martes de 19 a 22 hs.\n\nPara contar una historia se necesita de lso personajes que formen parte de ella, desarrollar su perfil , definir sus características, su personalidad, su situación socio cultural y su rol en el relato son lso primeros pasos.\n\nEn este curso te capacitaremos en el diseño y desarrollo de personajes para videojuegos, comics, avatares de comunicación , cuentos y producciones audiovisuales. Desde la concepción del perfil hasta el desarrollo del mismo con herramientas analógicas y digitales como Photoshop o Sai 2. Todo lo que imaginaste se hace realidad. Podés ser parte de la industria del diseño artístico digital.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3048/curso-de-diseno-y-realizacion-de-personajes?id=999193243",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23482348.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Introducción al prototipado de proyectos",
+    "startDate": "Inicio de cursada\n 11/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  25.723",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Lorena Alejandra Maceratesi, Mariana Florencia Fiorillo, Lorena Alejandra Maceratesi",
+    "summary": "Este trayecto de carácter más bien interactivo y dinámico, concentrará buenas prácticas para poder construir y pensar prototipos de productos y servicios, ampliando el proceso al desarrollo digital, a fin de llegar a mejores soluciones. El uso correcto de esta herramienta, no sólo reduce tiempos en la producción, sino que elimina gran parte de los posibles errores en la etapa de desarrollo, optimiza costos y además tiene un mejor resultado al momento de entrar en contacto con el usuario. La dinámica se centra en la exploración del diseño de prototipos orientados a realizar interacciones con los usuarios, en los procesos y herramientas que comprenden una experiencia. A través del uso de esta metodología se podrá comprender todo el contexto de uso de un producto o servicio y testear sus funcionalidades reales a partir del usuario.Este curso es de carácter experimental y proyectual, y permitirá tener las herramientas necesarias para poder transitar todos los procesos del diseño de prototipos interactivos a partir de diferentes caminos. Además busca que sus participantes descubran una metodología centrándose en soluciones pensadas para sus usuarios, usando como eje principal el uso de armado de prototipos con diferentes fidelidades y recursos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1349/introduccion-al-prototipado-de-proyectos?id=999191518",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/5454.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Seminario de prototipado rápido para interfaces digitales",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  8.223",
+    "modalities": [],
+    "teachers": "Lorena Alejandra Maceratesi, Mariana Florencia Fiorillo, Lorena Alejandra Maceratesi",
+    "summary": "Clases en vivo: Miércoles de 16 a 18 hs.\n\nAprende a crear prototipos rápidos de tus interfaces digitales para validar ideas rápidamente. Saber prototipar, no sólo ahorra tiempo y dinero. También te permite mejorar rápidamente tus diseño y crear un lenguaje común con tu equipo.\n\n\nEl uso correcto de esta herramienta, reduce tiempos en la producción, ya que elimina gran parte de los posibles errores en etapas tempranas, optimiza costos y mejora los resultados al momento de entrar en contacto con el usuario.\n\nHacer un prototipo de las ideas que quieres desarrollar te permitirá entender el comportamiento del diseño. Este artefacto permite ver la calidad de los flujos de navegación, te aproxima al resultado final y te da herramientas para comunicarlo a los demás.\n\nEn este seminario trabajaremos activamente en la construcción de un prototipo. Entenderás que cosas debe incluir para alcanzar tus objetivos. Verás el paso a paso, como una receta de cocina, para implementar en el día a día de un proceso de diseño.\n\nEste seminario es interactivo y dinámico, encontrarás buenas prácticas para poder construir y pensar prototipos, mejorando el proceso de diseño y desarrollo, a fin de puedas llegar a mejores soluciones.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2564/seminario-de-prototipado-rapido-para-interfaces-digitales?id=999190763",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/5454.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Content Manager - Contenido digital para redes sociales",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  42.195",
+    "modalities": [
+      "Consultas en vivo con tutores",
+      "Clases practicas a distancia",
+      "Clases grabadas",
+      "Consultas en vivo con tutores"
+    ],
+    "teachers": "Santiago Nobile, Pablo Poliero",
+    "summary": "¿Necesitás contenidos audiovisuales para las redes sociales, pero no sos diseñador?, ¿te gustaría aprender a realizar flyers y videos? En este taller práctico podrás obtener los conocimientos para elaborar contenido digital, mediante el uso de herramientas digitales libres y gratuitas.\n\nPotencia tu marca, servicio o producto mediante la elaboración de contenido multimedial de imagen y vídeo especialmente diseñado para las redes sociales más utilizadas.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2860/curso-de-content-manager-contenido-digital-para-redes-sociales?id=999192207",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17901790.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Diseño de interfaz de usuario (UI)",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "13 Semanas",
+    "price": "$  93.609",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maia Bouza, Eliana Crivaro",
+    "summary": "El Diseño de Interfaz de Usuario (más conocido como diseño “UI”) es el proceso por el cual se construyen interfaces en software o diversos sistemas informáticos. Las interfaces de usuario sirven como intermediarios entre usuarios y sistemas, permitiendo una comunicación efectiva.\n\nEl Diseño UI pertenece al conjunto de disciplinas que componen la Experiencia de Usuario (UX), y se articula por lo tanto con otras como Usabilidad y Diseño de Interacción (IxD) y UX Writing, siempre centrándose en las necesidades de los usuarios.\n\nMuchas de las interfaces que utilizamos diariamente son visuales. Como diseñadores debemos comprender las estructuras de percepción de las personas para lograr buenas experiencias. Por ello, en el primer módulo nos enfocaremos en el diseño visual y percepción. En el segundo módulo veremos cómo escribir para interfaces, para permitir que el usuario entienda claramente qué acciones está llevando a cabo y agilizar la experiencia de usuario. Por último, en el tercer módulo contemplaremos aquellas prácticas, procesos y metodologías específicas enfocadas a UI.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2185/curso-de-diseno-de-interfaz-de-usuario-ui?id=999190736",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18951895-Curso-de-Dise%C3%B1o-de-interfaz-de-usuario-UI.jpg&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Seminario Packaging",
+    "startDate": "Inicio de cursada\n 17/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  14.801",
+    "modalities": [],
+    "teachers": "Maria Pia Coppede Novelli",
+    "summary": "Clases en vivo: Viernes 18.30hs (2 encuentros)\n\nEn este curso de Packaging se abordarán los conceptos fundamentales del diseño y desarrollo de envases y embalajes de alta calidad, con el fin de cumplir con las expectativas y normativas del mercado. El packaging es un aspecto crucial en la decisión de compra de un producto, y su diseño puede marcar la diferencia entre el éxito o fracaso de una marca.\n\nCada estudiante aprenderá los conocimientos y habilidades necesarios para diseñar y desarrollar envases y embalajes efectivos y atractivos, a través de la exploración de los distintos tipos de materiales, técnicas de producción, y herramientas de diseño. Además, se brindará una formación detallada sobre los estándares y normativas que rigen la industria del packaging, y se explorarán las tendencias más actuales del mercado.\n\nAl concluir este curso, cada alumno habrá adquirido un amplio conocimiento sobre el diseño y desarrollo de envases y embalajes de alta calidad, y estará preparado para aplicarlos en su carrera profesional o emprendimiento. Los estudiantes habrán obtenido las habilidades necesarias para diseñar y producir envases y embalajes que cumplan con las expectativas y normativas del mercado, aportando un valor diferencial a la marca y el producto en cuestión.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3107/seminario-packaging?id=999193581",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23082308.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Diseño Gráfico Digital - Nivel Intermedio",
+    "startDate": "Inicio de cursada\n 18/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  70.524",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Luciana Barraza",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3059/curso-de-diseno-grafico-digital-nivel-intermedio?id=999193467",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23612361.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Experto Universitario de Programación en videojuegos con Unreal Engine",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "16 Semanas",
+    "price": "$  158.302",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende",
+    "summary": "Una de las industrias que recauda mas dinero que el cine son los videojuegos. Gracias a sus diversas aplicaciones, formatos y demografías de consumidores es una industria que puede abarcar un terreno muy amplio, y que cada vez es mas grande. Tanto para el desarrollo de juegos comerciales como personales es importante contar con herramientas que nos ahorren tiempo, sencillas de usar, eficientes y con gran poder. Unreal cumple todos esos requisitos y más. Lanzado por primera vez en 1998 y en constante desarrollo, este motor de videojuegos es uno de los mas poderosos, integrando múltiples tecnologías utilizadas por grandes empresas para el desarrollo de juegos, y todo esto de una manera que oculta toda la complejidad, exponiendo una interfaz muy simple de utilizar. En el nivel inicial de este curso vemos como utilizar Blueprints para crear la lógica de juego simple, pero el mercado pide programadores que sepan utilizar C++ para mantener proyectos avanzados. En este curso continuaremos lo antes aprendido aplicándolo en C++ y aprenderemos nuevos conceptos para hacer un juego en Primera Persona utilizando todas las herramientas que Unreal ofrece para ello.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1412/experto-universitario-de-programacion-en-videojuegos-con-unreal-engine?id=999192419",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1412.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Experto Universitario en Diseño Gráfico Digital",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "33 Semanas",
+    "price": "$  174.542",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Luciana Barraza",
+    "summary": "El campo de trabajo del diseñador gráfico se encuentra expandiéndose actualmente en el ámbito del diseño digital, con las herramientas líderes como Illustrator y Photoshop. ¿Entonces ,cuál es el campo laboral del diseñador gráfico hoy en día? Los nuevos roles de trabajo son el de generador de contenido gráfico y audiovisual para marketing digital y redes sociales, o bien, el diseñador visual para sitios web.\n\nMediante este Experto Universitario, podrás obtener un manejo amplio de las herramientas de Adobe Illustrator y Photoshop. Podrás además explorar herramientas técnicas avanzadas de los programas como el manejo completo de capas y acciones, arte digital, fotomontaje y animación audiovisual para poder armar y tu porfolio profesional.\n\nAl final de este Experto Universitario, podrás realizar tus propias piezas publicitarias de arte digital: diseños realizados con fotomontaje, animaciones específicas para poder publicar en las redes sociales o sitios web, aplicables a campañas publicitarias.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/3089/experto-universitario-en-diseno-grafico-digital?id=999193470",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23982398-Experto%20Universitario%20en%20Dise%C3%B1o%20Gr%C3%A1fico%20Digital.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Diseño Gráfico Digital - Nivel Inicial",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "11 Semanas",
+    "price": "$  64.646",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Luciana Barraza, Mariano Zanella",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3069/curso-de-diseno-grafico-digital-nivel-inicial?id=999193362",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20252025.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Coolhunting",
+    "startDate": "Inicio de cursada\n 01/11/2023",
+    "duration": "10 Semanas",
+    "price": "$  35.880",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Ayelen Carrete",
+    "summary": "El curso de Tendencias se relaciona con la búsqueda e interpretación de los cambios socio-culturales que se atraviesan a nivel mundial, y como estos inciden de manera directa en los gustos y hábitos de los consumidores. Actualmente, se trata de una de las profesiones más novedosas y con gran salida laboral.\n\nCada temporada, vemos cómo surgen nuevos colores, texturas, géneros textiles, estampas, morfologías, prendas y estilos que se presentan en nuevas colecciones y lenguajes.\n\nEn este curso de Coolhunting aprenderás a observar, identificar y analizar las tendencias de moda, para aplicarlas a su propio negocio de manera anticipada, y establecer tu propio método. Esta es la clave para emprender en moda.\n\nLo que lograrás al finalizar el curso:\n\nConocer los conceptos básicos de una tendencia.\n\nDefinir los tipos de tendencias que existen.\n\nIdentificar los indicios de cambios sociales.\n\nComprender la importancia de una tendencia en un negocio de moda.\n\nObtener las herramientas del método coolhunting para detectar y definir tendencias.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2920/curso-de-coolhunting?id=999194048",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/static/no-image.png",
+    "category": "Diseño"
+  },
+  {
+    "title": "Programador Web Inicial - Front End Developer",
+    "startDate": "Inicio de cursada\n 08/11/2023",
+    "duration": "21 Semanas",
+    "price": "$  141.597",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino, Santiago Nobile",
+    "summary": "El curso de Programador Web Inicial está pensado para aquellas personas que deseen adquirir conocimientos para desempeñarse en el ámbito de diseño o programación y, además, quieran adquirir nuevos saberes basados en los avances de las tecnologías de última generación y en lenguajes orientados a realización de sitios web dinámicos.\n\nInternet ha creado en el mundo un nuevo modo de conectarse, de trabajar y de estudiar. Ha remodelado esquemas de comunicación entre las personas y organizaciones. Conociendo la inmensa potencialidad de la red de redes, los profesionales del área no pueden desconocer la forma de desarrollar aplicaciones en los lenguajes más populares de la web, ya que es esto es esencial para diferenciarse del simple diseño de páginas estáticas.\n\nAl finalizar el curso los participantes estarán habilitados para realizar aplicaciones básicas para sitios web, utilizando los lenguajes de mayor demanda en el mercado.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1831/programador-web-inicial-front-end-developer?id=999191657",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17001700.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Experto Universitario en Programación Web Full Stack",
+    "startDate": "Inicio de cursada\n 09/11/2023",
+    "duration": "13 Semanas",
+    "price": "$  129.649",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino",
+    "summary": "Dada la cantidad de bibliotecas y frameworks desarrollados en javascript en los últimos años, este lenguaje ha tomado una gran repercusión. En base a javascript, ya no solo podemos desarrollar aplicaciones web RIA. Por ejemplo, con node JS, podremos aplicar javascript para servir código del lado del servidor.\n\nEn los últimos tiempos dos tecnologías han pujado y tomado gran repercusión: React JS y Angular. En el primer caso esta biblioteca, desarrollada por Facebook, surgió para programar aplicaciones con mejor performance aplicando el concepto de virtual DOM. Por el lado de Angular, es un framework basado en el patrón MVC, el cual se caracteriza por su desarrollo basado en componentes.\n\nRealizando el Experto Universitario en Javascript los participantes podrán elaborar íntegramente proyectos Front End utilizando el lenguaje y las teconologías .JS que enriquecen el trabajo.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1584/experto-universitario-en-programacion-web-full-stack?id=999191652",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1584.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Diplomatura en Audio Digital",
+    "startDate": "Inicio de cursada\n 15/11/2023",
+    "duration": "16 Semanas",
+    "price": "$  120.045",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik",
+    "summary": "El audio digital es una disciplina muy amplia con múltiples aplicaciones, desde la radio hasta los videojuegos, pasando por el cine y muchas otras formas de expresión audiovisuales. El objetivo de esta Diplomatura es brindarte herramientas para que puedas abordar tu trabajo con audio de manera adecuada y que produzcas material que pueda suplir con las exigencias de la industria.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1262/diplomatura-en-audio-digital?id=999191711",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/465diplomatura%20en%20audio%20digital.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Introducción al Audio Digital",
+    "startDate": "Inicio de cursada\n 15/11/2023",
+    "duration": "4 Semanas",
+    "price": "$  32.607",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1256/introduccion-al-audio-digital?id=999191713",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Diplomatura-en-Audio-Digital.jpg&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Audio for Games",
+    "startDate": "Inicio de cursada\n 16/11/2023",
+    "duration": "8 Semanas",
+    "price": "$  73.425",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Christian Martin Silvosa, Federico Alzugaray, Dante Poggio, Ingrid Kitainik",
+    "summary": "El objetivo de este curso es facilitar herramientas de composición y producción musical orientada a videojuegos, para su posterior implementación mediante middlewares de audio (Wwise) en motores como por ejemplo Unity o Unreal.\n\nSi bien los conocimientos previos en materias como composición, orquestación y producción musical serán de gran utilidad para un entendimiento más profundo del material; estos no son necesarios para llevar adelante la cursada, la cual tendrá una modalidad teórica-práctica desde el primer momento, incentivando tanto el trabajo individual como el grupal. Es importante aclarar que el lenguaje utilizado intentará ser lo menos técnico posible, facilitando de esta forma el acceso a los conceptos principales.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/823/audio-for-games?id=999191429",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Audio-for-Games.jpg&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Professional Full-Stack Developer",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "26 Semanas",
+    "price": "$  213.430",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano",
+    "summary": "Comenzaremos por React JS, una biblioteca desarrollada por Facebook cuya principal ventaja es su alta performance. Con React JS haremos principal foco en la creación de interfaces de usuario utilizando el patrón de diseño MVC (modelo-vista-controlador). React JS al igual que Angular se destaca por la facilidad de desarrollo de aplicaciones SPA (Single Page Application) brindando a los usuarios una experiencia mas fluida. Entre sus caracteristicas podemos encontrar el virtual DOM, mejora de performance, modularidad y un claro flujo de datos. Angular es un conjunto de librerías apoyadas por Google que nos servirá para solucionar las necesidades actuales de la informática, en cuanto a desarrollo multiplataforma de aplicaciones grandes que se asemejan a las de escritorio. Angular aporta las herramientas necesarias para crear sitios utilizando las directivas que nos provee el framework de manera de enriquecer nuestro HTML, creando código semántico, utilizando el patrón de Diseño MVC. Node JS es un plataforma súper-rápida, especialmente diseñada para realizar operaciones de entrada/salida (Input/Output o simplemente I/O en inglés) en redes informáticas por medio de distintos protocolos. Es, además, uno de los actores que ha provocado, junto con HTML5, que Javascript gane gran relevancia en los últimos tiempos, pues ha conseguido llevar al lenguaje a nuevas fronteras como es el trabajo del lado del servidor. Esta Diplomatura está compuesto de tres cursos que pueden ser realizados en forma independiente. Quienes los cursen y aprueben recibirán el certificado de Professional Full Stack Developer.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1479/professional-full-stack-developer?id=999191030",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1479.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Desarrollo en React JS",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "14 Semanas",
+    "price": "$  90.905",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1335/desarrollo-en-react-js?id=999192061",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/6363.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Introducción al Design Thinking",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "4 Semanas",
+    "price": "$  26.209",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Lorena Alejandra Maceratesi, Mariana Florencia Fiorillo, Lorena Alejandra Maceratesi",
+    "summary": "Este curso les ofrece una introducción a la metodología de pensamiento innovador. A través del desarrollo de este pensamiento, los profesionales, podrán obtener mejores productos, servicios, procesos, estrategias, espacios, arquitecturas y experiencias. Design thinking es una metodología que se utiliza para ofrecer soluciones innovadoras, creativas y efectivas a problemas de la vida cotidiana.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1701/introduccion-al-design-thinking?id=999192185",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1701.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Diplomatura en programación web full stack con React JS",
+    "startDate": "Inicio de cursada\n 24/11/2023",
+    "duration": "25 Semanas",
+    "price": "$  177.299",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino",
+    "summary": "Esta Diplomatura Universitaria, está pensada desde nivel inicial para aquellos que aún no programan, hasta lograr un nivel avanzado en la programación de desarrollos web dinámicos.\n\nActualmente el mercado laboral, tanto en su forma freelance como de empleo formal, solicitan desarrolladores web Full Stack, esto significa que los desarrolladores deben poseer los concimientos y habilidades para realizar el diseño visual de su desarrollo web ( Desarrollo Front End), asi como también puedan programar en los lenguajes y fremeworks más solicitados para estos desarrollos pcon el fin de interactuar con el servidor y las bases de datos del sitio web. (Desarrlo web Back End).\n\nLa Diplomatura está compuesta por seis módulos que se realizan en forma nivelada y según el grado de complejidad en los contenidos, en primer lugar los contienidos dedicados al Front End y luego los contenidos aplicados a desarrollos Full Stack, completando asi un programa general e integrador para la formación ideal en la inclusión efectiva en el mundo laboral.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1969/diplomatura-en-programacion-web-full-stack-con-react-js?id=999190841",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1590.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Animación 3D para Videojuegos con Blender",
+    "startDate": "Inicio de cursada\n 06/12/2023",
+    "duration": "12 Semanas",
+    "price": "$  75.245",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luis Roach, Ingrid Kitainik",
+    "summary": "Existen alrededor de 100 compañías activas de desarrollo de juegos en Argentina, enconstante búsqueda de talentos, entre ellos artistas 3DEsta industria mundial ha sido impulsada los últimos años por un avance de la tecnología,como lo son los dispositivos móviles con alta capacidad de cómputo, las gafas de realidadvirtual y las tiendas de venta online. Esto ha generado mayor demanda en los puestos detrabajo en los distintos estudios de desarrollo.Muchos de los contenidos de estas producciones están conformados por arte 3D. Estecurso online ofrece la capacitación para obtener las aptitudes necesarias para la creaciónde assets 3D para videojuegos. Comprendiendo modelado, texturización, esculpido, riggingy animación para videojuegos con conceptos y metodologías de optimización para 3D entiempo real.El curso de Animación 3D para videojuegos con Blender te permitirá conocer el softwaredesde un nivel básico hasta llegar a un nivel avanzado, para terminar creando tus propios modelos 3D para videojuegos, con la posibilidad de ser luego trabajado en un motor de juego como Unity o Unreal Engine.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1341/animacion-3-d-para-videojuegos-con-blender?id=999192134",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/180180.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Desarrollo con Angular",
+    "startDate": "Inicio de cursada\n 12/12/2023",
+    "duration": "6 Semanas",
+    "price": "$  71.143",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Fernando Andreassi, Alberto Enuel Monzon Oga",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/946/desarrollo-con-angular?id=999192295",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/270270.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Edición de Audio y Proceso de Señales Digitales",
+    "startDate": "Inicio de cursada\n 13/12/2023",
+    "duration": "4 Semanas",
+    "price": "$  32.607",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1258/edicion-de-audio-y-proceso-de-senales-digitales?id=999191715",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/371371.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Diseño Gráfico Digital - Nivel Avanzado",
+    "startDate": "Inicio de cursada\n 10/01/2024",
+    "duration": "10 Semanas",
+    "price": "$  45.207",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Luciana Barraza",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3060/curso-de-diseno-grafico-digital-nivel-avanzado?id=999193468",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23622362.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Síntesis y sampling",
+    "startDate": "Inicio de cursada\n 10/01/2024",
+    "duration": "4 Semanas",
+    "price": "$  32.607",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Luciano Cabrera, Federico Alzugaray, Ingrid Kitainik",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1260/sintesis-y-sampling?id=999191717",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/372372.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Diseño de juegos y Juguetes",
+    "startDate": "Inicio de cursada\n 09/02/2024",
+    "duration": "10 Lecciones",
+    "price": "$  46.510",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende, Santiago Nobile, Ingrid Kitainik",
+    "summary": "Clases en vivo: Viernes de 19 a 22 hs.\n\nEste curso está orientado a que el alumno aprenda una metodología de trabajo a la hora de encarar un proceso creativo de diseño de un producto lúdico. Teniendo qué está en la vanguardia dentro y fuera del circuito industrial y cómo entrenar nuestro pensamiento. Usaremos entre otras cosas la idea de inclusión no solo como parte de un de un deber social, sino como un detonador que potencie nuestra perspectiva sensorial y nuestro trabajo creativo. Prototiparemos poniéndole el cuerpo a la idea fuera del entorno virtual y después analizaremos cómo encausar nuestra idea en distintos contextos\n\nLa creatividad es en parte resolver necesidades pragmáticas y/o estéticas usando los recursos con los que contamos. Una vez desarrollada esta habilidad podremos aprevechas realmente mejores recursos y destrezas.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2969/diseno-de-juegos-y-juguetes?id=999193247",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23412341.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Taller de Fotografía - Nivel Inicial",
+    "startDate": "Inicio de cursada\n 09/04/2024",
+    "duration": "8 Semanas",
+    "price": "$  43.337",
+    "modalities": [
+      "Consultas en vivo con tutores",
+      "Clases practicas a distancia",
+      "Clases grabadas",
+      "Consultas en vivo con tutores"
+    ],
+    "teachers": "Leandro Martino, Leandro Martino",
+    "summary": "La Fotografía nos presenta una oportunidad para desacelerar y conocer aquello que damos por hecho. Las mejores fotografías son de cosas ordinarias. Como dijo Dorothea Lange: \"Una cámara es un instrumento que enseña a la gente a ver sin una cámara\".\n\nEste taller responde a la nueva situación actual, en la que aprenderás conceptos, autores, técnicas y composición. Conocerás cómo revisar lectura fotográfica, visado de imágenes y proyectos.\n\nA través de esta formación te iniciarás en la fotografía y profundizarás tus conocimientos generales en historia y lenguaje visual. Contarás con los conocimientos para componer, revelar fotografías y manejar la cámara en modo manual.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2188/taller-de-fotografia-nivel-inicial?id=999193543",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19971997.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Diseño Textil e indumentaria: figurín de modas",
+    "duration": "9 Semanas",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "",
+    "summary": "El mundo del desarrollo textil ha crecido durantes los años y ha permitido que las pequeñas y medianas empresas se sumen al desarrollo y tendencia de indumentaria gracias a los nuevos canales digitales de promoción y desarrollo. Actualmente el mercado busca profesionales del sector que manejen tanto los conceptos tradicionales de diseño, como así también las nuevas herramientas digitales que posibilitan nuevos horizintes profesionales.\n\nEn el curso figurín de modas, los estudiantes aprenderán la importancia del dominio del dibujo proyectual para comunicar una idea de diseño. Este proceso se logra a partir del conocimiento sobre la figura humana y la relación que mantiene con el diseño de indumentaria.\n\nAl finalizar la capacitación podrás manejar las tecnologías y herramientas de diseño vectorial más utilizadas para el diseño de indumentaria textil digital aplicados al desarrollo de figurines de moda, como medio para su desarrollo y aplicación.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3284/curso-de-diseno-textil-e-indumentaria-figurin-de-modas?id=999194000",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/static/no-image.png",
+    "category": "Diseño"
+  },
+  {
+    "title": "Desarrollo y armado de colecciones de moda",
+    "duration": "4 Semanas",
+    "price": "$  7.800",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Glenys Bravo, Liset Losardo",
+    "summary": "El curso pretende dar al estudiante una vision estrategica, creativa, proyectual y comunicativa acerca del mercado femenino. La idea es potenciar su capacidad de lectura contextual aplicada al desarrollo creativo y productivo de colecciones de moda en el segmento correspondiente, sin dejar de lado su valor e identidad como diseñador y gestor, entendiendo la marca y su valor comercial como un referente de campo en lo que respecta desarrollo del curso.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2186/desarrollo-y-armado-de-colecciones-de-moda?id=999189604",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17951795.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Taller de Storytelling para productos digitales",
+    "duration": "5 Semanas",
+    "price": "$  13.263",
+    "modalities": [
+      "Consultas en vivo con tutores",
+      "Clases practicas a distancia",
+      "Clases grabadas",
+      "Consultas en vivo con tutores"
+    ],
+    "teachers": "Magali Bayon, Natalia Varela",
+    "summary": "Las historias están por todos lados y las nuevas formas de contarlas entrecruzan formatos, elementos, dispositivos y pantallas; al mismo tiempo las audiencias quieren formar parte activa de nuestras historias y sumergirse en los mundos que proponemos, y eso representa nuevos desafíos creativos a la hora de crear nuestras narrativas y proyectos. El Storytelling es una de las estrategias más utilizadas para combinar narrativas y nuevos formatos, centrándose en las audiencias: una narrativa que conecta con la audiencia, pensado y generado propuestas para los diversos espacios digitales actuales.\n\nEn este curso se aborda de manera introductoria las nociones centrales de la estrategia del Storytelling para contar y desarrollar historias dentro del contexto dinámico y participativo que propone el mundo digital. \n\nAbordaremos el Storytelling como una herramienta que le permite a los y las creadoras trabajar sobre los aspectos narrativos de sus proyectos, pensando en los recursos comunicacionales que les permitan alcanzar y llegar a sus audiencias, descubriendo cuál es la versatilidad de la estrategia del Storytelling tiene para integrarse a sus diferentes proyectos, propuestas o desarrollos.  El Storytelling, como herramienta, les permitirá potenciar proyectos narrativos, proyectos centrados en aprendizajes, estrategias comunicacionales o comerciales. La estrategia de Storytelling también puede ser llevada a productos digitales para redes, proyectos centrados en elementos multimediales y transmedia, o ser abordada como un recurso que enriquece las presentaciones de proyectos.\n\nEl curso invita al estudiante a indagar de manera creativa y crítica sobre el Storytelling, a buscar los elementos que potencian sus narrativas y proyectos desde aspectos estéticos y expresivos, recorriendo metodologías de producción, herramientas, y posibilidades comunicacionales, para ser aplicadas a sus proyectos presentes o futuros. Desarrollando un proyecto personal, el y la estudiante podrá poner en valor, según sus propios objetivos, los recursos del Storytelling",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1782/taller-de-storytelling-para-productos-digitales?id=999189316",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/16191782.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Fundamentos del UX Writing",
+    "duration": "6 Semanas",
+    "price": "$  44.538",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Adrian Giorgio",
+    "summary": "En este taller aprenderás qué es un UX Writer y cuáles son las tareas que realiza, cómo definir la voz y tono de tu marca, qué significa el Brief en UX y cuáles son los elementos que lo componen, algunos tips de escritura UX para que apliques a tu redacción, y, por último, los tipos y características de las distintas piezas de la experiencia digital.\n\nLas clases se presentan como un espacio de formación e intercambio donde realizarás una serie de desafíos prácticos destinados a aplicar los contenidos aprendidos.\n\nComo proyecto final integrador, deberás entregar un ejercicio de UX a partir del análisis de un producto digital de un marca ficticia, propuesta al inicio del curso por el profesor. Este proyecto final tendrá en cuenta los siguientes aspectos: voz y tono, protopersona y mapa de empatía, contexto y objetivos, y la propuesta de contenidos de dos piezas digitales.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2193/fundamentos-del-ux-writing?id=999190232",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20792079.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso de Fundamentos de Visual Thinking para la elaboración de presentaciones efectivas",
+    "duration": "6 Semanas",
+    "price": "$  13.800",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "",
+    "summary": "“Creamos significado al ver” Wujec, T. ( 2009), el visual thinking o pensamiento visual es una técnica que nos permite transmitir un mensaje mediante gráficos sencillos y texto breve.\n\nLa utilización del pensamiento visual, como herramienta de facilitación gráfica, en diferentes ámbitos, se ha visto incrementada en el último tiempo por su gran impacto en las presentaciones, y por la facilidad de entendimiento que introduce a su producto final.\n\nDesde temprana edad transmitimos ideas y sensaciones mediante la expresión artística; la educación formal, y la utilización de métodos estructurados en la elaboración de materiales, resúmenes, informes, etc., lleva a perder esa creatividad que, con el tiempo, y falta de práctica, crea un sentimiento de inseguridad para dibujar. Este curso busca acercar al participante a sus inicios,a retomar ese conocimiento de expresar, en clave visual, aquello que necesita o quiere decir.\n\nEl curso ofrecerá un espacio de práctica, apoyado en un marco conceptual para que cada estudiante se reencuentre con su habilidad y cree una aproximación a un estilo y técnica propia en la realización de resúmenes y presentaciones visuales, utilizando diferentes herramientas gráficas, analógicas y/o digitales.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2951/curso-de-fundamentos-de-visual-thinking-para-la-elaboracion-de-presentaciones-efectivas?id=999193107",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23322332.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Game Design",
+    "duration": "14 Lecciones",
+    "price": "$  46.299",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Florencia Rodriguez Sandez, Ingrid Kitainik",
+    "summary": "Clases en vivo: Jueves de 19 a 22 hs.\n\nLos juegos forman parte de nuestra vida diaria y podemos encontrarlos en todos lados. Ya sea para aprender, vender, enseñar o divertirse, los videojuegos constituyen una importante herramienta pero para que alcancen sus objetivos hay que estudiar cómo generar la experiencia correcta.\n\nSumate a este curso para explorar todos los conceptos que rodean el desarrollo de la experiencia y llevar tus conocimientos en videojuegos a un nivel profesional.\n\nVamos a ver todo el proceso de generación de ideas, prototipado, análisis MDA, fundamentos, análisis del mercado, géneros, documentación y presentaciones para ganar herramientas y habilidades para encarar el desarrollo de juegos que puedan destacar en el mercado, ser competitivos y originales.\n\nSe espera que quienes participen del curso puedan articular este material con el resto de las cursadas relacionadas a desarrollo de videojuegos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3092/game-design?id=999193541",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23492349-Game%20Design.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Curso Básico de Fotografía Móvil",
+    "duration": "4 Lecciones",
+    "price": "$  12.307",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Leandro Martino",
+    "summary": "Clases en vivo: jueves 18 hs.\n\nLa tecnología digital se desarrolla en forma continua y la fotografía se nutre de sus innovaciones y avances. Mediante diferentes aplicaciones y la continua mejora de sus cámaras, los celulares pueden lograr tomas e imágenes de excelente calidad que nos permitirán casi emular las fotografías tomadas con cámaras profesionales, como las réflex o semi-reflex. Asimismo, las redes sociales nos invitan a compartir imágenes tomas en forma instantánea.\n\nIntroducirnos en el mundo de la fotografía con dispositivos móviles va más allá de aprender a obtener buenas fotos con el celular, porque hay infinitas posibilidades de incorporar trucos y tips para hacer y editar fotografías para redes sociales, foto-producto y para mostrar lo que aparece frente a nuestros ojos, con diferentes encuadres y distintas vistas, ángulos y objetos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2252/curso-basico-de-fotografia-movil?id=999193474",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21062106.png&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Programador Web Avanzado",
+    "duration": "14 Semanas",
+    "price": "$  123.998",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Jon Gibaut, Yanel Ricarte",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1234/programador-web-avanzado?id=999190781",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Programador-Web-Avanzado.jpg&height=132&width=300",
+    "category": "Diseño"
+  },
+  {
+    "title": "Desarrollo web con PHP y Wordpress",
+    "duration": "13 Semanas",
+    "price": "$  33.019",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2127/desarrollo-web-con-php-y-wordpress?id=999193621",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20432043.png&height=132&width=300",
+    "category": "Diseño"
+  }
+]

@@ -18,32 +18,35 @@ async function getCursosURLs() {
         }
     });
 
-    let allCourseURLs = [];
+    let allCourseData = [];
     const totalPages = 25;
 
     for (let pageIndex = 0; pageIndex <= totalPages; pageIndex++) {
-        const url = `https://sceu.frba.utn.edu.ar/e-learning/listado/Categorias[turismo-hoteleria-y-gastronomia]${pageIndex ? `?from=${pageIndex}` : ''}`;
+        const url = `https://sceu.frba.utn.edu.ar/e-learning/listado/Categorias[salud-y-medicina]${pageIndex ? `?from=${pageIndex}` : ''}`;
         await page.goto(url);
 
-        const courseURLsOnPage = await page.evaluate(() => {
-            const urls = [];
+        const courseDataOnPage = await page.evaluate(() => {
+            const data = [];
             const courseLinkElements = document.querySelectorAll('a.MuiTypography-root.MuiTypography-inherit.MuiLink-root.MuiLink-underlineAlways.css-1cv6iia');
-            
-            courseLinkElements.forEach(linkElement => {
-                urls.push(linkElement.href);
+            const imgElements = document.querySelectorAll('picture.MuiBox-root img');
+
+            courseLinkElements.forEach((linkElement, index) => {
+                const courseUrl = linkElement.href;
+                const imgUrl = imgElements[index]?.src || '';
+                data.push({ courseUrl, imgUrl });
             });
         
-            return urls;
+            return data;
         });
 
-        allCourseURLs = allCourseURLs.concat(courseURLsOnPage);
+        allCourseData = allCourseData.concat(courseDataOnPage);
     }
 
     await browser.close();
 
-    // Guardar las URLs en un archivo .txt separadas por comas
-    fs.writeFileSync('courseURLs_turismo_UTN.txt', allCourseURLs.map(url => `'${url}'`).join(',\n'));
-    console.log('URLs guardadas en courseURLs.txt');
+    // Guardar las URLs de los cursos e imágenes en un archivo JSON
+    fs.writeFileSync('courseData_salud_UTN.json', JSON.stringify(allCourseData, null, 2));
+    console.log('Datos de los cursos guardados en courseData_turismo_UTN.json');
 }
 
 getCursosURLs();

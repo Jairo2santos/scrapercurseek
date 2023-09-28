@@ -1,0 +1,418 @@
+[
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3194/curso-de-programacion-en-javascript-y-typescript-nivel-avanzado?id=999193741",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22082208-Programaci%C3%B3n-en-Javascript-y-Typescript-avanzado.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/3083/diplomatura-en-desarrollo-de-aplicaciones-moviles?id=999193462",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23642364-Diplomatura%20en%20Desarrollo%20Mobile%20con%20Flutter.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1051/desarrollo-con-node-js?id=999192298",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Desarrollo-con-NodeJS.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1830/professional-webmaster?id=999191802",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17011701.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2882/curso-de-resolucion-por-elementos-finitos-con-python?id=999192427",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1556.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3027/curso-de-interfaces-graficas-y-procesamiento-de-datos-con-arduino?id=999193215",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19651965.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/352/experto-universitario-en-hacking-etico-ethical-hacking?id=999190754",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/414414.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/351/experto-universitario-de-seguridad-de-la-informacion?id=999190749",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Experto-Universitario-de-Seguridad-de-la-Informaci%C2%A2n.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2993/curso-de-micro-python-nivel-inicial?id=999193118",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22452245.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1440/fundamentos-de-bases-de-datos-avanzado?id=999191631",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11681168.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2173/django-nivel-avanzado-en-produccion?id=999191578",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19541954.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2265/experto-universitario-de-game-design?id=999190793",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16821682.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/596/programacion-en-base-de-datos-oracle-lenguaje-pl-sql?id=999191624",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/239239.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3188/curso-de-r?id=999193717",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24522452-Curso-de-R.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1983/diplomatura-en-product-management?id=999191287",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15641564.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/888/experto-universitario-en-seguridad-de-dispositivos-moviles-e-inalambricos?id=999191820",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/428428.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2122/desarrollo-web-con-javascript?id=999191041",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Desarrollo-Web-con-Javascript.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3131/curso-de-visualizacion-de-datos-con-tableau-inicial?id=999193606",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16961696.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/372/modulo-complementario-para-certificar-experto-universitario-en-hacking-etico-ethical-hacking?id=999191817",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/448448.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1270/fundamentos-de-spring-framework-para-java?id=999191090",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/378378.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2949/curso-de-data-science?id=999193053",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23032303.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2187/aprendiendo-a-programar-con-arduino?id=999190837",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19631963.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1427/python-3-nivel-intermedio?id=999190957",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/12441244.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/336/diplomatura-en-programacion-java?id=999190850",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/411411.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2123/php-y-my-sql-intermedio?id=999191537",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20312031.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3108/curso-de-visualizacion-de-datos-con-tableau-avanzado?id=999193569",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22592259-Curso%20de%20Visualizaci%C3%B3n%20de%20Datos%20con%20Tableau%20-%20Avanzado.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/373/modulo-complementario-para-certificar-experto-universitario-de-seguridad-de-la-informacion?id=999190751",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/449449.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/998/data-scientist-con-r?id=999191009",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Data-Scientist-con-R.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/337/diplomatura-en-programacion-net?id=999190941",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/412412.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/407/desarrollo-de-videojuegos?id=999191094",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/199199.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1000/curso-de-desarrollo-de-aplicaciones-multiplataforma-con-kivy?id=999192485",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10831083.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/487/fundamentos-de-las-bases-de-datos?id=999193143",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/222222.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3190/curso-de-diseno-de-circuitos-electronicos-pcb?id=999193743",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23382338-Dise%C3%B1o-circuitos-impresos-asistido-computadora.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3051/data-engineering?id=999193214",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23472347.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3222/curso-de-inteligencia-artificial-para-videojuegos?id=999193838",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24572457-Curso-Inteligencia-Artificial-para-Videojuegos.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2250/curso-basico-de-reparacion-y-mantenimiento-de-celulares?id=999192888",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21162116.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3217/curso-de-azure-cloud-services?id=999193802",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24202420-Curso-de-Azure-Cloud-Services.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2171/django-nivel-intermedio-diseno-de-plataformas?id=999191572",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19531953.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3142/curso-de-pseint-con-gpt?id=999193775",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23342334-Pseint-GPT.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1055/programacion-de-video-juegos-con-unity-nivel-inicial?id=999192415",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/300300.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/997/especialista-en-big-data-con-apache-hadoop?id=999191872",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Especialista-en-Big-Data-con-Apache-Hadoop.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1114/desarrollo-de-videojuegos-para-principiantes-con-unreal?id=999192421",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/323323.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1054/experto-universitario-en-programacion-de-video-juegos-con-unity?id=999192413",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/299299.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/554/bases-de-matlab-con-aplicaciones-a-las-ciencias-e-ingenierias-basico?id=999192019",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/4/Curso-online-Bases-de-Matlab-con-Aplicaciones-a-las-ciencias-e-ingenier%C2%B0as.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/630/diplomatura-en-business-intelligence?id=999190947",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/417417.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2308/curso-de-deep-learning-redes-neuronales-desde-cero?id=999191565",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19681968.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2119/professional-front-end-developer?id=999191034",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20172017.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1413/diplomatura-en-python?id=999190952",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10801080.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2118/desarrollo-web-en-html-5-y-css-3?id=999191038",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20192019.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1428/python-3-nivel-inicial?id=999190962",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/12431243.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/486/professional-testing-master?id=999190893",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/221221.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2640/curso-de-fundamentos-de-la-programacion?id=999191015",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/170170.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3058/curso-de-como-mejorar-la-productividad-con-bitrix-24?id=999193391",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23442344.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1365/especialista-en-datawarehouse-y-etl?id=999190263",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10251025.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2174/diplomatura-de-django-framework?id=999191569",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19551955.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2172/django-nivel-inicial-arquitectura?id=999191576",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19521952.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3022/curso-de-excel-intermedio?id=999193186",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23562356.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1268/dev-ops-integracion-y-agilidad-continua?id=999191709",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/376376.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1831/programador-web-inicial-front-end-developer?id=999191657",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17001700.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2128/experto-universitario-en-php-y-my-sql?id=999190845",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20292029.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2121/php-y-my-sql-inicial?id=999191534",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20302030.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1584/experto-universitario-en-programacion-web-full-stack?id=999191652",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1584.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1896/curso-de-professional-testing-master-nivel-avanzado?id=999191298",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11841184.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2906/curso-de-aws-cloud-computing?id=999192850",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23062306.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1294/diplomatura-en-bases-de-datos?id=999191292",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/390390.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/790/python-3-paso-a-paso?id=999191774",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/107107.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1481/curso-de-diseno-de-videojuegos-produccion-y-programacion-integral?id=999191426",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14631463.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1479/professional-full-stack-developer?id=999191030",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1479.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2275/curso-de-machine-learning-con-python?id=999191926",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19671967.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1335/desarrollo-en-react-js?id=999192061",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/6363.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2126/desarrollo-web-en-bootstrap?id=999191765",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20392039.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1969/diplomatura-en-programacion-web-full-stack-con-react-js?id=999190841",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1590.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1385/bases-de-matlab-con-aplicaciones-a-las-ciencias-e-ingenierias-avanzado?id=999192022",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/227227.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2124/desarrollo-web-en-html-5-css-3-y-javascript-nivel-avanzado?id=999191044",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20372037.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/946/desarrollo-con-angular?id=999192295",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/270270.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2125/php-y-my-sql-avanzado?id=999191540",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20322032.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2115/programador-web-inicial?id=999192204",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20412041.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1351/programacion-de-videojuegos-avanzado-con-unreal?id=999192423",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Programaci%C2%A2n-de-Videojuegos-con-Unreal.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1056/programacion-de-videojuegos-con-unity-nivel-avanzado?id=999192417",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Programaci%C2%A2n-de-Video-Juegos-con-Unity-Nivel-Avanzado.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1426/python-3-nivel-avanzado?id=999190965",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1426.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3050/programacion-en-c-para-videojuegos?id=999193874",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23532353.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1022/diplomatura-en-analisis-de-negocios-business-analysis?id=999193759",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/2961022.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2585/curso-de-redes-opticas?id=999194049",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17461746.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/531/diplomatura-en-programacion-sap-abap?id=999193769",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/4/Curso-online-Diplomatura-en-Programaci%C2%A2n-SAP-ABAP.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2117/diplomatura-en-diseno-web-y-multimedial?id=999193767",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20232023.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2267/diplomatura-de-gestion-de-inteligencia-estrategica-4-0?id=999194052",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/360360.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2992/curso-de-programacion-low-code-con-power-plaform?id=999193115",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23192319.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/maestria/1756/especializacion-en-ingenieria-en-telecomunicaciones?id=999186746",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1787ESPECIALIZACI%C3%93N%20EN%20INGENIER%C3%8DA%20EN%20TELECOMUNICACIONES.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/maestria/1757/maestria-en-ingenieria-en-sistemas-de-informacion?id=999186745",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17861786.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1745/experto-universitario-en-programacion-con-especializacion-en-un-lenguaje?id=999186742",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17811745.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3189/curso-de-desarrollo-de-aplicaciones-con-ia-open-source-chat-gpt-y-otros-ll-ms?id=999193697",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24272427-desarrollo-de-aplicaciones-AI-open-source-chatGPT.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2844/tecnicatura-en-ciberseguridad?id=999192084",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22762276.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2858/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos?id=999192118",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22722272.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2859/tecnicatura-en-ciencia-de-datos-e-ia?id=999192125",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22732273.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1474/introduccion-a-la-programacion-en-android-con-kotlin?id=999188115",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1474.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/628/introduccion-a-la-programacion-en-android-con-java?id=999188361",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/245245.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1167/curso-basico-de-perito-judicial-informatico?id=999188945",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Curso-b%E2%80%A0sico-de-Perito-Judicial-Inform%E2%80%A0tico.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/webinario/2875/charla-informativa-mercado-laboral-it-desafios-y-oportunidades-a-nivel-internacional?id=999192284",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22812281.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2851/tecnicatura-universitaria-en-ciudades-inteligentes?id=999192115",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21192119.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1655/curso-de-revit?id=999190291",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16721672.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2925/curso-de-diseno-con-solidworks-nivel-intermedio-conjuntos?id=999192916",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22942294.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2207/diplomatura-de-professional-backend-developer?id=999193623",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/461461.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1234/programador-web-avanzado?id=999190781",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Programador-Web-Avanzado.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2127/desarrollo-web-con-php-y-wordpress?id=999193621",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20432043.png&height=132&width=300"
+  }
+]

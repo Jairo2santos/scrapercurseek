@@ -1,0 +1,1683 @@
+[
+  {
+    "title": "Curso de Programación en Javascript y Typescript. Nivel avanzado",
+    "startDate": "Inicio de cursada\n 26/09/2023",
+    "duration": "10 Semanas",
+    "price": "$  83.200",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Brian Alexis Galli",
+    "summary": "Esta capacitación está pensada para aquellas personas que deseen profundizar sus conocimientos en Javascript e incorporar el manejo de Typescript.\n\nEn este curso realizarás integraciones y Optimización de código más complejas, trabajar con nuevas y antiguas Apis del lenguaje aún vigente. Ahorro de recursos con una visión más abarcada de los que es JavaScript. Aprenderás a comprender el lenguaje en su sintaxis más pura basada en prototipos orientados a partir de objetos e integraciones complejas.\n\nTambién aprenderás todas las bases para trabajar con el lenguaje de programación del lado del cliente. Aprenderás desde las partes básicas de Javascript hasta temas avanzados como manejo de objetos, clases, asincronismo, APIs del navegador y el uso de funcionalidades de ECMAScript 6 hacia adelante.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3194/curso-de-programacion-en-javascript-y-typescript-nivel-avanzado?id=999193741",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22082208-Programaci%C3%B3n-en-Javascript-y-Typescript-avanzado.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Desarrollo de Aplicaciones Móviles",
+    "startDate": "Inicio de cursada\n 27/09/2023",
+    "duration": "16 Lecciones",
+    "price": "$  124.938",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Ingrid Kitainik",
+    "summary": "Clases en vivo: Lunes y Miercoles de 19 a 22 hs.\n\nEn el mundo actual la programación y el desarrollo de apps. Se ha vuelto esencial a la hora de conseguir empleo y con ello se necesitan el conocimiento de herramientas agiles y muy rápidas para la contruccion y diseño de las mismas Flutter es el framework de Google para desarrollar interfaces móviles casi nativas en iOS y Android, basado en los principios de Material Design y Cupertino (iOS) tendrás un look and feel totalmente natural en tus aplicaciones. Como nuevo alumno, obtendrá un enfoque práctico para desarrollar aplicaciones con Dart y Python y por qué tantos desarrolladores consideran que estos lenguajes son esenciales al crear aplicaciones.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/3083/diplomatura-en-desarrollo-de-aplicaciones-moviles?id=999193462",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23642364-Diplomatura%20en%20Desarrollo%20Mobile%20con%20Flutter.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo con NodeJS",
+    "startDate": "Inicio de cursada\n 27/09/2023",
+    "duration": "6 Semanas",
+    "price": "$  71.143",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Fernando Andreassi, Alberto Enuel Monzon Oga",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1051/desarrollo-con-node-js?id=999192298",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Desarrollo-con-NodeJS.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Professional Webmaster",
+    "startDate": "Inicio de cursada\n 28/09/2023",
+    "duration": "25 Semanas",
+    "price": "$  179.557",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino",
+    "summary": "Este curso combina las principales tecnologías de diseño y programación de aplicaciones Web, proporcionando a los estudiantes el nivel de especialización profesional ideal para insertarse en forma inmediata y exitosa en este campo laboral en permanente expansión.\n\nSe trata de una formación intensiva que aborda tanto el diseño y desarrollo, como tambien la parte de programación dinámica web.\n\nActualmente el mercado laboral requiere expertos en desarrollo web en cada sector. El curso brindará al alumno las herramientas necesarias que actualmente piden las agencias de diseño y los clientes en general, para poder crear sitios web adaptables a varios formatos de imágenes (celulares, tablets, pc, etc), crear animaciones web, y comprender y perfeccionar la sintaxis de código a la hora de diseñar.\n\nAdemás, los participantes aprenderán a dominar las tecnologías de Javascript y conectar a Base de Datos SQL con NodeJS, creando un perfil de desarrollador completo e integral.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1830/professional-webmaster?id=999191802",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17011701.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Resolución por Elementos Finitos con Python",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "duration": "10 Semanas",
+    "price": "$  64.285",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez",
+    "summary": "Cuando queremos encontrar soluciones aproximadas a problemas físicos, en lugar de usar métodos variacionales clásicos como el de Ritz o Galerkin, podemos utilizar el método de los elementos finitos. La ventaja de utilizar esta metodología que requiere el uso de una computadora es poder encontrar las funciones de aproximación para analizar casos que pueden llegar a ser muy complejos.\n\nEste curso de Resolución por Elementos Finitos está orientado a utilizar el lenguaje de programación de Python para comprender cuál es la teoría detrás del método de los elementos finitos y guiarte en la incorporación de plataformas que faciliten la implementación y resolución de problemas.\n\nEn la primera parte del curso, aprenderás la teoría, comprendiendo paso a paso la resolución de ecuaciones parciales lineales del tipo elípticas en 1 dimensión, deduciendo y explicando la forma fuerte y la forma débil de resolución y la equivalencia entre ambas mientras avanzarás en el conocimiento de las bases físicas y matemáticas requeridas en cada paso.\n\nEn la segunda parte del curso Resolución por Elementos Finitos con Python, comprenderás herramientas como Fenics y CAELINUX que te permitirán tratar problemas unidimensionales, bidimensionales o tridimensionales con condiciones de contorno complejas. En el caso de Fenics para comprender el uso de la plataforma analizaremos la ecuación de poisson, la ecuación del calor y la resolución de ecuaciones no lineales. En el caso de CAELINUX analizaremos las etapas de creación de piezas complejas, mallado de piezas y resolución de problemas tridimensionales de tensión - deformación.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2882/curso-de-resolucion-por-elementos-finitos-con-python?id=999192427",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1556.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Interfaces gráficas y procesamiento de datos con Arduino",
+    "startDate": "Inicio de cursada\n 29/09/2023",
+    "duration": "8 Semanas",
+    "price": "$  55.315",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Christian Makinson, Juan Marcelo Barreto Rodriguez",
+    "summary": "La plataforma de Arduino fue creada a partir de Processing, inicialmente pensada para aprender a programar dentro del contexto de las artes visuales. Muchos diseñadores gráficos han encontrado su vocación en Processing, creando aplicaciones para escritorio y dispositivos móviles, y expandiendo sus horizontes hasta la creación de videojuegos para la web o aplicaciones tan complejas como el control de semáforos de una ciudad de forma visual.\n\nProcessing es el complemento ideal para Arduino, cuenta con una interfaz muy similar y se puede programar actualmente en varios lenguajes como java y python. La comunicación entre estas plataformas nos permitirá pasar rápidamente de un montaje en Arduino al mundo visual de aplicaciones con processing y viceversa.\n\nSi ya has realizado aplicaciones IoT, con este curso verás que las posibilidades de creación de proyectos de este tipo se pueden expandir en forma exponencial.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3027/curso-de-interfaces-graficas-y-procesamiento-de-datos-con-arduino?id=999193215",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19651965.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Experto Universitario en Hacking Etico (Ethical Hacking)",
+    "startDate": "Inicio de cursada\n 03/10/2023",
+    "duration": "24 Semanas",
+    "price": "$  152.283",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Andres Schmitz, Oscar Leonardo Banchiero, Lucas Garcia",
+    "summary": "La generalización y expansión del uso de las tecnologías, telecomunicaciones e informática en los diferentes contextos empresariales, académicos, personales y públicos, hacen de las TICs una base común para todas nuestras actividades.Esta plataforma además de ser mantenida en su funcionamiento, debe ser protegida con el fin de controlar que los activos informáticos no sean presa de ataques, fraudes o mal uso por los delincuentes informáticos, empleados desleales o terceros mal intencionados.El entendimiento de la seguridad informática en la práctica comprende entender las plataformas existentes en el mercado, la administración de las mismas, y asegurarlas. Así también es de interés riguroso el monitoreo de vulnerabilidades o debilidades, posibles riesgos, y como mitigarlos. Permitiendo conocer sobre técnicas de intrusión, chequeos de seguridad, modalidad de ataques y defensa.Área, campo o disciplinas de conocimiento del curso:TelecomunicacionesAdministración de ServidoresAdministración de Redes de DatosSeguridad InformáticaComputaciónEthical Hacking",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/352/experto-universitario-en-hacking-etico-ethical-hacking?id=999190754",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/414414.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Experto Universitario de Seguridad de la Información",
+    "startDate": "Inicio de cursada\n 03/10/2023",
+    "duration": "25 Semanas",
+    "price": "$  152.283",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Andres Schmitz, Oscar Leonardo Banchiero, Oscar Andres Schmitz, Lucas Garcia",
+    "summary": "La generalización y expansión del uso de las tecnologías, telecomunicaciones e informática en los diferentes contextos empresariales, académicos, personales y públicos, hacen de las TICs una base común para todas nuestras actividades.Esta plataforma además de ser mantenida en su funcionamiento, debe ser protegida con el fin de controlar que los activos informáticos no sean presa de ataques, fraudes o mal uso por los delincuentes informáticos, empleados desleales o terceros mal intencionados.La comprensión de la seguridad de la información desde la función del oficial de seguridad, hace de ésta una posición clave en la gestión y entendimiento de la protección de estos activos. Desde aquí, es preciso entender cómo los elementos informáticos, los activos de información, los procesos y la concientización de las personas, conforman la consolidación de la seguridad en la organización. Y este curso prepara a los participantes para ejecutar con éxito dicha tarea.Área, campo o disciplinas de conocimiento del curso:TelecomunicacionesAdministración de ServidoresAdministración de Redes de DatosSeguridad InformáticaComputaciónSeguridad de la InformaciónSeguridad Informática",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/351/experto-universitario-de-seguridad-de-la-informacion?id=999190749",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Experto-Universitario-de-Seguridad-de-la-Informaci%C2%A2n.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de MicroPython nivel inicial",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  49.335",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maximo Huykman, Juan Marcelo Barreto Rodriguez",
+    "summary": "El despertar tecnológico de los últimos años nos ha permitido contar con microcontroladores programados con Python. Este es uno de los lenguajes de alto nivel que más se ha expandido y evolucionado, convirtiéndose en uno de los lenguajes de programación dinámicos más populares que existen. Es utilizado para la programación de interfaces gráficas y bases de datos, programación web tanto en el cliente como en el servidor y tiene una amplia aceptación en el mundo científico. Es utilizado en aplicaciones para las supercomputadoras más rápidas del mundo, por los adultos que buscan desarrollar sus propias empresas con soluciones inteligentes y por los niños que recién están comenzando a programar. Y no importa qué hay debajo de Python porque ya no necesitamos un científico para manejar un microprocesador/ microntrolador.\n\nMicroPython es una implementación del lenguaje de programación Python 3, escrita en C, optimizada para poder ejecutarse en un microcontrolador. MicroPython es un compilador completo del lenguaje Python a bytecode y un motor e intérprete en tiempo de ejecución del bytecode que funciona con el hardware del microcontrolador. Se incluye una selección de bibliotecas fundamentales de Python y módulos que permiten al programador el acceso al hardware en bajo nivel.\n\nUsando MicroPython y microntroladores (sin necesidad de lenguaje de bajo nivel) podrás crear tus propias aplicaciones, controles, sistemas de sensores, unirte al camino de la Ciencia y satisfacer las necesidades de la humanidad.\n\nResumiendo, podemos decir que en este curso aprenderás a reconocer la plataforma de hardware y manejar los aspectos necesarios del lenguaje, así como sus librerías de forma de poder trabajar con:\n\n1) Señales analógicas.\n\n2) Señales digitales.\n\n3) Sensores y actuadores.\n\nAprenderás mediante ejemplos prácticos con y sin conexión inalámbrica.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2993/curso-de-micro-python-nivel-inicial?id=999193118",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22452245.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Fundamentos de Bases de Datos - Avanzado",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  58.503",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Ricardo Daniel Perez, Mariano Gecik, Mariano Gecik",
+    "summary": "Este curso ha sido creado para realizar un diseño completo de una base de datos y luego realizar prácticas de SQL desde \"sencillas\" a \"avanzadas\", sobre problemáticas profesionales reales, y por último, aprender como mejorar las consultas de SQL para que sean mas rápidas o performantes. Es el curso que le sigue a Fundamentos de Bases de Datos y se realiza en base de datos Oracle, que es la base de datos relacional más útilizada en el mercado informático mundial.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1440/fundamentos-de-bases-de-datos-avanzado?id=999191631",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11681168.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Django Nivel Avanzado – En producción",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  58.941",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2173/django-nivel-avanzado-en-produccion?id=999191578",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19541954.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Experto Universitario de Game Design",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  81.627",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jose Hiebaum, Ingrid Kitainik",
+    "summary": "Si querés convertir tu pasión por los videojuegos en tu profesión, o si sos de los que a lo largo de su vida se ha pasado horas jugando y que ahora quiere convertirse en desarrollador profesional y ganarse la vida en el sector del videojuego tendrás que formarte adecuadamente para ello. Y uno de los principales problemas a los que se enfrentan quienes quieren dedicarse a crear y diseñar videojuegos es que no saben dónde prepararse y adquirir las habilidades necesarias para el desarrollo profesional. Opciones hay muchas, pero es interesante saber cuál será tu perfil y cuáles serán las aptitudes que quieras o necesites potenciar. Esta diplomatura te permitirá abordar la profesión de manera introductoria como para dimensionar cuán multidisciplinaria es la industria, y elegir así en qué orientación querrás especializarte. A lo largo de este curso aprenderás a crear videojuegos desde la concepción, documentación y prototipado sin necesidad de saber programar.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2265/experto-universitario-de-game-design?id=999190793",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16821682.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Programación en Base de Datos Oracle - Lenguaje PL-SQL",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  58.483",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "",
+    "summary": "Todo motor de base de datos presenta la posibilidad de programar en su lenguaje de programación, para desarrollar procesos en forma eficaz y eficiente. De esta manera, procesos que se realizan en lenguajes de alto nivel se pueden mejorar, construyendo directamente los mismos en estos lenguajes de programación, que se ejecutan directamente en la memoria del motor de base de datos. Conocer y saber utilizar esta herramienta, le permitirá a la persona que tome este curso, insertarse en el mercado laboral informático, ya que Oracle es una de las principales bases de datos del mundo de las DB.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/596/programacion-en-base-de-datos-oracle-lenguaje-pl-sql?id=999191624",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/239239.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de R",
+    "startDate": "Inicio de cursada\n 04/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  67.600",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Martin Jaureguy",
+    "summary": "R se ha convertido en uno de los lenguajes más utilizados en el campo del análisis de datos, con una comunidad activa y una amplia gama de herramientas y paquetes disponibles para explorar y visualizar información.\n\nEn este curso, aprenderás los fundamentos esenciales de R, desde las bases de sintaxis hasta técnicas avanzadas para manipular y analizar datos de manera efectiva. El curso no solo se enfoca en aspectos técnicos, sino que también aborda temas importantes como la visualización de datos y la interpretación de resultados.\n\nAdemás, con la ayuda de distintas librerías podrás ampliar tus capacidades para poder aplicar todo lo aprendido en casos reales.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3188/curso-de-r?id=999193717",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24522452-Curso-de-R.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Product Management",
+    "startDate": "Inicio de cursada\n 05/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  149.910",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Ignacio Madrid, Gonzalo Suarez Del Cerro, Maite Iglesias, Laura Ricchio, Maria Laura Tripaldi, Hernan Ricchio, Giuliana Vazquez, Mariela Perez, Stefania Isi, Ulises Martins",
+    "summary": "El mundo actual está regido por nuevos actores, nuevas herramientas y fundamentalmente por nuevas reglas. El momento actual es también definido como la era Digital, en donde los grandes volúmenes de datos y el estado actual de la tecnología generan un mercado mucho más orientado a Productos que a Proyectos y herramientas tradicionales.\n\nLos productos que se generan actualmente son tan innovadores y responden a un modelo de negocios tan distinto que requieren una especialización en product management más allá de las técnicas y prácticas generales.\n\nLos ejemplos son casi infinitos, desde cualquier aplicación para un smartphone, pasando también por las clásicas páginas web de e-commerce, hasta soluciones internas por ejemplo de RRHH que den soporte a un área organizacional. Todo recibe un abordaje de Producto por sobre un proyecto u operaciones y es casi una regla contar con soluciones que de una forma directa o indirecta precisen de un rol central que lidere todo lo referido al producto: El Product Manager.\n\nNuestra Diplomatura propone una formación holística y de avanzada sobre la gestión de productos, otorgando herramientas para poder gestionar un Producto desde su creación y lanzamiento hasta su eventual retiro.\n\nEs un entrenamiento avanzado que cubre todo el marco de actividades que un Product Manager debe liderar, desde Product Discovery y Product Strategy hasta Product Delivery: Experiencia de Usuario, Datos, Mentalidad Ágile, Software y Estrategia de Producto, entre otros.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1983/diplomatura-en-product-management?id=999191287",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15641564.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Experto Universitario en seguridad de dispositivos móviles e inalámbricos",
+    "startDate": "Inicio de cursada\n 05/10/2023",
+    "duration": "16 Semanas",
+    "price": "$  103.320",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Leonardo Banchiero",
+    "summary": "La generalización y expansión del uso de las tecnologías, telecomunicaciones e informática en los diferentes contextos empresariales, académicos, personales y públicos, hacen de las TICs una base común para todas nuestras actividades. La plataforma inalámbrica y móvil, es muy vulnerable debido a su posición física y su débil conocimiento de estructura segura por lo que debe ser protegida con el fin de controlar que sean presa de ataques, fraudes o mal uso por los delincuentes informáticos, empleados desleales o terceros mal intencionados. Basándonos en la cantidad infinita de dispositivos inalámbricos que podemos encontrar, éstos ya son parte de la estructura de la red, por lo que habrá que tomar las medidas necesarias, cumpliendo las metodologías de la seguridad. Área, campo o disciplinas de conocimiento del curso: Telecomunicaciones Administración de Servidores Administración de Redes de Datos Seguridad Informática Computación Seguridad de la Información Seguridad Informática",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/888/experto-universitario-en-seguridad-de-dispositivos-moviles-e-inalambricos?id=999191820",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/428428.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo Web con Javascript",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  75.555",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maria Victoria Lopez, Jose Luis Condori",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2122/desarrollo-web-con-javascript?id=999191041",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Desarrollo-Web-con-Javascript.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Visualización de Datos con Tableau - Inicial",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  45.000",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Martin Emilio Perez, Mariano Gecik",
+    "summary": "Actualmente, el análisis de datos se ha convertido en una disciplina presente, en cualuier empresa u organización. Ya no son tareas desarrolladas por un área de IT, sino también, aprecen otros ámbitos involucrados, como el área de negocios.\n\nTableau es la herramienta de análisis y visualización de datos más utilizada en el mundo de los negocios. Su potente software permite aprovechar al máximo el poder de los datos para tomar mejores decisiones.\n\nEn este curso aprenderás a usar esta herramienta, con la finalidad decrear y gestionar Tableros de control - Dashboards para la toma de decisiones.\n\nNo son necesarios conocimientos avanzados en tecnología.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3131/curso-de-visualizacion-de-datos-con-tableau-inicial?id=999193606",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16961696.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Modulo Complementario para Certificar Experto Universitario en Hacking Ético (Ethical Hacking)",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  76.345",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Andres Schmitz, Oscar Leonardo Banchiero, Lucas Garcia",
+    "summary": "Este módulo está diseñado para introducir al cursante en el mundo del Hacking, haciéndole conocer las herramientas y metodologías necesarias para realizar tareas de análisis de vulnerabilidades y tests de penetración, con una filosofía enfocada a la ética profesional.\n\n\nSolicitá tu admisión\n\n1) Registrate en el botón Inscripción para solicitar la admisión.\n2) Enviá el certificado de aprobación del Experto Universitario de Seguridad de la Información a través del formulario del Panel del Alumno en formato digital (.PDF).",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/372/modulo-complementario-para-certificar-experto-universitario-en-hacking-etico-ethical-hacking?id=999191817",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/448448.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Fundamentos de Spring Framework para Java",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  110.812",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Marcelo Samia, Maria Laura Tripaldi, Ulises Martins",
+    "summary": "Desde sus inicios Spring se ha convertido en un estándar de facto para construir aplicaciones empresariales en Java y actualmente es uno de los frameworks más maduros de la industria. Este estándar brinda la base para la definición y el trabajo de los grupos de programadores a nivel empresarial, definiendo los fundamentos necesarios para desarrollar aplicaciones usando otras tecnologías que interactúan con Spring como servidores contenedores, bases de datos accedidas por JDBC, Hibernate o JPA, interfaces usando MVC y servicios Web y REST, mensajes sincrónicos y asincrónicos como también seguridad con foco en el correcto uso de APIs dentro del marco de trabajo y su correcta aplicación. El entrenamiento explica programación distribuida usando tanto XML como anotaciones para poder utilizar ambos tipos de configuraciones y establece las bases de su correcta aplicación en diferentes tecnologías aplicadas como servicios Web o REST. La capacitación concluye integrando todos los conceptos aprendidos en el curso a través de ejemplos y ejercitación a detalle. De esta manera, los participantes podrán lograr construir una aplicación empresarial completa utilizando el framework Spring.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1270/fundamentos-de-spring-framework-para-java?id=999191090",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/378378.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Data Science",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  67.275",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Virginia Marich, Virginia Marich",
+    "summary": "Tiempo atrás, muchos de los actuales profesionales en Ciencias de Datos, nos encontrábamos del otro lado de la pantalla, como tú ahora, buscando cursos para convertirnos en Data Scientist, pero en ese momento: ¿Realmente sabíamos lo que era ser un Data Scientist?, seguramente para la mayoría esa respuesta es “No” o al menos, no al 100%.\n\nSi tú estás en la misma situación, permíteme decirte que llegaste al lugar correcto. En este curso aprenderás a discernir qué hacé un “Data Scientist”, cuales son las diferencias respecto a otros roles que puedes encontrar en las plataformas de empleo y, además lograrás introducirte en las habilidades y herramientas informáticas que son utilizadas para desempeñar en este rol.\n\nQuizás suene a mucho contenido, pero todo va a ser justificado con ejemplos reales por los que atravesaría un Data Scientist en su trabajo, lo que hará más fácil tu aprendizaje, de forma tal que no solo te introduzcas en qué debe saber un data scientist, sino también cómo se siente desempeñar día a día este tipo de rol en la industria.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2949/curso-de-data-science?id=999193053",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23032303.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Aprendiendo a Programar con Arduino",
+    "startDate": "Inicio de cursada\n 06/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  55.721",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Christian Makinson, Juan Marcelo Barreto Rodriguez",
+    "summary": "Arduino es una plataforma de desarrollo electrónico open source, basado en un software y hardware flexible y fácil de usar, ideal para principiantes, tanto en programación como en electrónica digital. La plataforma nos permite programar de forma rápida y simple una plaqueta con conexiones analógicas y digitales de forma de poder controlar la interacción con diferentes tipos de sensores, motores, luces y otros tipos de componentes electrónicos y gráficos.\n\nEn este curso de programación, aprenderás de la manera más práctica posible avanzando sobre los conceptos esenciales de la programación y de Arduino, que rápidamente llevarás a la práctica. Es el paso inicial de la diplomatura de Arduino y el internet de las cosas, que te permitirá formar las bases sólidas para luego, en los cursos posteriores, poder avocarte al mundo del internet de las cosas y de la creación de Interfaces gráficas para la interacción con nuestros proyectos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2187/aprendiendo-a-programar-con-arduino?id=999190837",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19631963.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Python 3 - Nivel Intermedio",
+    "startDate": "Inicio de cursada\n 10/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  68.708",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1427/python-3-nivel-intermedio?id=999190957",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/12441244.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Programación Java",
+    "startDate": "Inicio de cursada\n 11/10/2023",
+    "duration": "14 Semanas",
+    "price": "$  215.469",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Ulises Martins, Marcelo Samia, Maria Laura Tripaldi",
+    "summary": "La tecnología Java®es concebida originariamente por Sun Microsystems® como una plataforma (un entorno donde se puede correr un programa) para dispositivos embebidos pero fue el desarrollo de aplicaciones para la Web lo que determinó su éxito rotundo en la Industria, Java es tanto un lenguaje de programación como una plataforma. La base de la plataforma Java es la Java Virtual Machine (JVM), un software que ejecuta programas Java. Existen versiones de la JVM para distintos entornos de hardware, y dispositivos móviles, que nos permiten ejecutar el mismo código Java en distintas máquinas. Esto es lo que da a la tecnología su característica de portabilidad. Hoy en día es una tecnología sumamente utilizada y es gratuita; no solamente la plataforma, sino además librerías adicionales a las Standard, frameworks, entornos de desarrollo (IDE) y más recientemente, soluciones de cloud computing gratuitas donde alojar (con ciertas restricciones) nuestra aplicación (AWS, Google Cloud). La Diplomatura en Programación Java propone enseñar, de forma escalonada y progresiva, la tecnología Java a detalle y con profundidad, de manera tal de sentar las bases fundacionales para la futura especialización profesional. El estudiante trabajará con entornos de desarrollo completos con el objetivo de familiarizarse con las herramientas que se utilizan en la práctica.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/336/diplomatura-en-programacion-java?id=999190850",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/411411.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "PHP y MySQL Intermedio",
+    "startDate": "Inicio de cursada\n 11/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  58.739",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2123/php-y-my-sql-intermedio?id=999191537",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20312031.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Visualización de Datos con Tableau - Avanzado",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "4 Semanas",
+    "price": "$  45.000",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Martin Emilio Perez, Mariano Gecik",
+    "summary": "Actualmente, el análisis de datos se ha convertido en una disciplina presente, en cualquier empresa u organización. Ya no son tareas desarrolladas por un área de IT, sino también, aparecen otros ámbitos involucrados, como el área de negocios.\n\nTableau es la herramienta de análisis y visualización de datos más utilizada en el mundo de los negocios. Su potente software permite aprovechar al máximo el poder de los datos para tomar mejores decisiones.\n\nEn este curso aprenderás el manejo de Tableros de control y Dashboards de una forma avanzada para poder tomar decisiones más efectivas.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3108/curso-de-visualizacion-de-datos-con-tableau-avanzado?id=999193569",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22592259-Curso%20de%20Visualizaci%C3%B3n%20de%20Datos%20con%20Tableau%20-%20Avanzado.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Modulo Complementario para Certificar Experto Universitario de Seguridad de la Información",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "12 Semanas",
+    "price": "$  76.345",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Oscar Andres Schmitz, Oscar Leonardo Banchiero",
+    "summary": "La generalización y expansión del uso de las tecnologías, telecomunicaciones e informática en los diferentes contextos empresariales, académicos, personales y públicos, hacen de las TIC una base común para todas nuestras actividades.\n\nEsta plataforma además de ser mantenida en su funcionamiento, debe ser protegida con el fin de controlar que los activos informáticos no sean presa de ataques, fraudes o mal uso por los delincuentes informáticos, empleados desleales o terceros mal intencionados.\n\nEl entendimiento de la seguridad de la información desde la función del oficial de seguridad, hace de éste una posición clave en la gestión y entendimiento de la protección de estos activos.\n\n\n\n\nSolicitá tu admisión\n1) Registrate en el botón Inscripción para solicitar la admisión.\n2) Enviá el certificado de aprobación del Experto Universitario de Hacking Ético (Ethical Hacking) a través del formulario del Panel del Alumno en formato digital (.PDF).",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/373/modulo-complementario-para-certificar-experto-universitario-de-seguridad-de-la-informacion?id=999190751",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/449449.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Data Scientist con R",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "6 Semanas",
+    "price": "$  91.612",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Laura Cristina Siri, Susana Isabel Sarmiento Reina, Guillermo Garofalo, Ulises Martins",
+    "summary": "R es un lenguaje y entorno de programación de software libre para análisis estadístico, cálculo numérico y representaciones gráficas (modelos lineales y no lineales, tests estadísticos, análisis de series temporales, algoritmos de clasificación y otros). Por su parte Big Data es el término que se utiliza para describir los grandes volúmenes de datos que componen Internet y la posibilidad de obtener información sobre ellos. Actualmente compañías como Google, Amazon, Facebook, Netflix, Walmart, GAP, IBM y General Electric, entre otras, están liderando procesos de gestión masiva de información y reclutando “Data Scientists” en la nueva era que deviene de Big Data. El trabajo de un buen Científico de Datos es hacer descubrimientos “buceando” en un océano de datos cada vez más masivos y complejos. Identifican potenciales fuentes ricas en datos valiosos y acercan la brecha entre los datos, la información y finalmente las decisiones de negocio. Este entrenamiento tiene como objetivo familiarizar a los participantes con R y sus principales algoritmos más difundidos. Se espera que los participantes incorporen criterios para diseñar y utilizar repositorios de datos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/998/data-scientist-con-r?id=999191009",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Data-Scientist-con-R.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Programación .NET",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "16 Semanas",
+    "price": "$  215.469",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Marcelo Samia, Adriano Javier Nicolas Ferraro Medina, Ulises Martins",
+    "summary": "El “.NET Framework 1.0” lanzado por Microsoft en los comienzos de la década anterior, tuvo desde su comienzo un éxito inmediato, tanto por su soporte como también por la facilidad de desarrollo con respecto a otras tecnologías más difíciles de implementar. Con el tiempo, el Framework se fue afianzando y actualmente la suite es uno de los lenguajes de programación más difundidos y aceptados a nivel mundial. Siempre actualizándose la plataforma suma año a año mejoras y adeptos. La Diplomatura en Programación .NET propone enseñar, de forma escalonada y progresiva, la tecnología .NET a detalle y con profundidad, de manera tal de sentar las bases fundacionales para la futura especialización profesional. El estudiante trabajará con entornos de desarrollo completos con el objetivo de familiarizarse con las herramientas que se utilizan en la práctica.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/337/diplomatura-en-programacion-net?id=999190941",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/412412.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo de Videojuegos",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "14 Semanas",
+    "price": "$  101.161",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Guido Varela Coletta",
+    "summary": "La industria de los videojuegos viene creciendo a pasos agigantados año tras año, potenciándose de la mano de los avances tecnológicos y la apertura a un público masivo a través de los dispositivos móviles. En este curso aprenderás todo lo necesario para ser parte de esta industria, no sólo desde el punto de vista técnico, sino también desde los fundamentos teóricos que implican desarrollar videojuegos ya que, además de funcionar correctamente y verse bien, deben cumplir con la funcionalidad básica de todo juego: entretener. A su vez conocerás cómo funciona la industria, cuáles son sus procesos y como se relacionan todos y cada uno de los engranajes que la componen convirtiéndola en una de las industrias más multidisciplinarias hasta el día de la fecha. A lo largo del curso utilizaremos Unity, uno de los motores líderes del mercado. Con este motor desarrollaremos distintos prototipos que permitirán ver muchas de las problemáticas con las que te enfrentarás en tu día a día como desarrollador de videojuegos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/407/desarrollo-de-videojuegos?id=999191094",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/199199.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Desarrollo de aplicaciones multiplataforma con Kivy",
+    "startDate": "Inicio de cursada\n 12/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  41.224",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Nicolas Fevola, Juan Marcelo Barreto Rodriguez",
+    "summary": "Kivy es una plataforma de desarrollo de código abierto escrita en Python, destinada a la implementación de aplicaciones de rápida generación, que hace uso de interfaces de usuario innovadoras, como ser la utilización de pantallas multitáctiles. Es ideal para ser utilizada por programadores de Python que quieran llevar adelante proyectos multiplataformas elegantes y de fácil creación. Este curso le ofrecerá a todos los programadores deseosos de visualizar los resultados de sus aplicaciones una interfase gráfica con diseño acorde a formatos de escritorio o aplicaciones móviles.\n\nDesde el año 2015 google a comenzado a invertir esfuerzo en kivy, lanzando kivyMD, mejorando el look and feel con el aspecto innovador de google,\n\nLa colaboración en el proceso de creación de aplicaciones para android se ha simplificado gracias al esfuerzo y la colaboración de github.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1000/curso-de-desarrollo-de-aplicaciones-multiplataforma-con-kivy?id=999192485",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10831083.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Fundamentos de las Bases de Datos",
+    "startDate": "Inicio de cursada\n 13/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  41.115",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Mariano Gecik, Martin Emilio Perez",
+    "summary": "Una base de datos es un conjunto de datos almacenados. Un Sistema de Gestión de Bases de Datos (o SGBD), es un conjunto de programas, herramientas y lenguajes que proporcionan los elementos necesarios para operar con los datos. Todo sistema requiere un soporte de datos adecuado, que se implementa, principalmente, utilizando bases de datos transaccionales. El entendimiento del funcionamiento de las bases de datos y cómo los datos están organizados en ellas, es indispensable en cualquier lenguaje de programación. Ya sea se trate de conocer los principios de modelado de datos, las bases funcionales de las consultas del lenguaje SQL o, simplemente, para complementar los conocimientos de Desarrollo de Software, el curso de Fundamentos de las bases de datos, resulta de interés fundacional para cualquier profesional que esté en proceso de formación de sus habilidades y conocimientos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/487/fundamentos-de-las-bases-de-datos?id=999193143",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/222222.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Diseño de circuitos electrónicos (PCB)",
+    "startDate": "Inicio de cursada\n 13/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  49.400",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maximo Huykman, Juan Marcelo Barreto Rodriguez",
+    "summary": "Desde la popularización de los microcontroladores, su programación se volvió accesible para cualquier usuario interesado, generando un sin fin de opciones de código diferente. Sin embargo, no se difundieron de la misma manera los procedimientos constructivos del hardware necesario para respaldar estos proyectos.\n\nEn este curso, aprenderás aspectos del diseño y fabricación del hardware, desde conceptos básicos de electrónica hasta la fabricación de PCB, recorriendo temas como circuitos esquemáticos, simulaciones, datasheets, diseño de gabinetes y consideraciones de seguridad.\n\nPodrás encontrar en este curso todo lo necesario para comenzar a llevar tus proyectos a la práctica.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3190/curso-de-diseno-de-circuitos-electronicos-pcb?id=999193743",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23382338-Dise%C3%B1o-circuitos-impresos-asistido-computadora.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Data Engineering",
+    "startDate": "Inicio de cursada\n 17/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  59.800",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Guido Franco",
+    "summary": "En un mundo cada vez más digitalizado, los datos se han convertido en un recurso estratégico para las organizaciones. La capacidad de recolectar, unificar y gestionar eficientemente los datos es fundamental para impulsar la ciencia de datos, la inteligencia artificial y la analítica avanzada, y así obtener información valiosa que impulse la toma de decisiones informadas.\n\nEn este curso vas a adquirir los conocimientos y habilidades necesarias para ser capaz de aprovechar el potencial de los datos en su máximo esplendor. Vas a aprender las técnicas y herramientas fundamentales para recolectar, limpiar, transformar y almacenar datos de manera efectiva, permitiendo su posterior análisis y aplicación en diversos contextos empresariales.\n\nLa importancia de la ingeniería de datos radica en su capacidad para unificar y organizar información de múltiples fuentes, creando un ecosistema de datos confiable y coherente. Esto facilita la implementación de modelos de inteligencia artificial, la generación de insights predictivos y la optimización de procesos empresariales. Al dominar los fundamentos de la ingeniería de datos, vas a estar en condiciones de desempeñar un papel crucial en el crecimiento y éxito de las organizaciones en la era de los datos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3051/data-engineering?id=999193214",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23472347.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Inteligencia Artificial para Videojuegos",
+    "startDate": "Inicio de cursada\n 17/10/2023",
+    "duration": "10 Lecciones",
+    "price": "$  83.200",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Ingrid Kitainik",
+    "summary": "Clases en vivo: Miércoles de 19:00 a 22:00 hs\n\nEn este curso tus personajes y enemigos adquirirán la capacidad de moverse de manera autónoma y evitar obstáculos de forma realista, creando una experiencia de juego sumamente inmersiva.\n\nTus juegos destacarán por su profesionalismo y calidad. Los movimientos fluidos y realistas de los personajes, combinados con comportamientos inteligentes, elevarán la satisfacción de tus jugadores y te ayudarán a destacar en la industria de los videojuegos.\n\nAl finalizar este curso contarás con los conocimientos y herramientas necesarias para optimizar tu flujo de trabajo. Podrás generar rápidamente áreas de navegación, configurar agentes de movimiento y establecer comportamientos avanzados sin perder tiempo valioso.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3222/curso-de-inteligencia-artificial-para-videojuegos?id=999193838",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24572457-Curso-Inteligencia-Artificial-para-Videojuegos.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso Básico de Reparación y Mantenimiento de Celulares",
+    "startDate": "Inicio de cursada\n 18/10/2023",
+    "duration": "6 Semanas",
+    "price": "$  20.930",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Vanesa Viviana Fernandez",
+    "summary": "El uso de la telefonía móvil se ha popularizado en todo el mundo. El celular ya es una herramienta imprescindible, no sólo para nuestras comunicaciones privadas, sino en nuestros trabajos y necesidades sociales para identificarnos y realizar diferentes trámites. De más está decir que resulta imprescindible que nuestro móvil funcione correctamente, porque sin él ya es prácticamente imposible realizar una infinidad de acciones necesarias de nuestra vida en sociedad.\n\nPor supuesto que, como cualquier instrumento tecnológico, está sujeto a fallas y roturas, por los que su reparación, puesta a punto y mantenimiento resultan imprescindibles. Aquí se abre un mercado de servicio muy promisorio y en constante crecimiento y actualización.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2250/curso-basico-de-reparacion-y-mantenimiento-de-celulares?id=999192888",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21162116.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Azure Cloud Services",
+    "startDate": "Inicio de cursada\n 18/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  54.600",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Ignacio Anessi",
+    "summary": "Si eres un apasionado de la informática, la nube y la transformación digital, llegaste al lugar adecuado. Este no es solo un curso, es el camino inicial para dominar una de las plataformas de nube más influyentes y demandadas en la industria: Microsoft Azure.\n\nImagínate poder crear servicios escalables, implementar soluciones de vanguardia y desplegar recursos en la nube con tan solo unos clics. Azure no solo simplifica la complejidad tecnológica, sino que también abre las puertas a la colaboración global, la flexibilidad y la agilidad en el mundo empresarial. Desde startups hasta corporaciones multinacionales, todos están adoptando el Cloud Computing para optimizar sus operaciones y brindar experiencias excepcionales a sus usuarios.\n\nEste curso no solo te enseñará los conceptos fundamentales de Azure, sino que te llevará en un viaje de descubrimiento a través de sus servicios más innovadores. Desde máquinas virtuales y almacenamiento hasta bases de datos y redes, estarás preparado para enfrentar los desafíos tecnológicos actuales y futuros.\n\nAl finalizar este curso serás capaz de conocer y manejar los servicios principales de Microsoft Azure comprendiendo su infraestructura global, sus beneficios y sus ventajas. Además, podrás estimar costos y desplegar servicios en cuestión de minutos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3217/curso-de-azure-cloud-services?id=999193802",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24202420-Curso-de-Azure-Cloud-Services.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Django - Nivel Intermedio – Diseño de plataformas",
+    "startDate": "Inicio de cursada\n 19/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  58.941",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2171/django-nivel-intermedio-diseno-de-plataformas?id=999191572",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19531953.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Pseint con GPT",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  39.000",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Ulises Martins",
+    "summary": "Con un enfoque interactivo y práctico, este curso te proporcionará los fundamentos de la programación y también te mostrará cómo el uso de herramientas modernas como PSeInt y GPT pueden hacer que el aprendizaje sea más accesible e intuitivo.\n\nRevisaremos la lógica detrás de la programación, la creación de algoritmos y cómo aplicar estos conceptos para crear soluciones de software. Nuestra metodología se centra en la comprensión de la lógica de la programación mediante el uso de pseudocódigo y asistidos por ChatGPT como un asistente continuo que te ayuda en tu formación y evolución como programador.\n\nEs un aprendizaje ideal para principiantes que desean comenzar en el apasionante mundo de la programación y adquirir nuevas habilidades para desarrollar programas.\n\nEl curso se divide en varios módulos que abordan desde la introducción al pensamiento computacional hasta la programación orientada a objetos. Cada unidad cuenta con ejemplos prácticos y ejercicios que te ayudarán a consolidar los conceptos aprendidos.\n\nPara culminar, pondrás en práctica tus nuevas habilidades con un emocionante proyecto final: Simular la funcionalidad básica de una red social.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3142/curso-de-pseint-con-gpt?id=999193775",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23342334-Pseint-GPT.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Programación de Video Juegos con Unity. Nivel Inicial",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  82.550",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Federico Zinni, Maximiliano Depetris",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1055/programacion-de-video-juegos-con-unity-nivel-inicial?id=999192415",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/300300.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Especialista en Big Data con Apache Hadoop",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  66.366",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Guillermo Garofalo, Ulises Martins",
+    "summary": "Big Data es el término que se utiliza para describir los grandes volúmenes de datos que componen Internet y la posibilidad de obtener información sobre ellos. La información en Internet está formada por datos estructurados, y por desestructurados, que en cantidad superan tres veces a los primeros y que provienen mayormente de las herramientas de redes sociales. Actualmente en menos de un minuto: se generan cerca de 100.000 tweets, se descargan 25.000 aplicaciones, 300.000 personas se loguean a Facebook y se ven 1,5 millones de videos en YouTube. Se estima que en 2014 cada día fueron creados cerca de 3 trillones de bytes de datos y se espera que para el año 2020 haya 35 zettabytes de información. La disciplina dedicada a los datos masivos y que se ocupa de todas las actividades relacionadas con los sistemas que manipulan grandes conjuntos de datos es Big Data. Las dificultades más habituales vinculadas a la gestión de estas cantidades de datos se centran en la captura, el almacenamiento, búsqueda, distribución (compartir), análisis y visualización de los datos. Dentro de las herramientas para trabajar con Big Data Apache Software Foundation creó Hadoop. Haddop es un marco de trabajo de software basado en Java y que soporta aplicaciones distribuidas bajo una licencia de software libre – freeware. Permite a las aplicaciones trabajar con miles de nodos y petabytes de datos. La formación de Especialista en Big Data tiene como objetivo familiarizar a los participantes con el uso de las técnicas y herramientas más difundidas de Hadoop. Se espera que los participantes incorporen criterios para saber cuándo emplear y cuando no emplear las técnicas y herramientas de Big Data.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/997/especialista-en-big-data-con-apache-hadoop?id=999191872",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Especialista-en-Big-Data-con-Apache-Hadoop.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo de Videojuegos para principiantes con Unreal",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "8 Semanas",
+    "price": "$  84.100",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende, Ingrid Kitainik",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1114/desarrollo-de-videojuegos-para-principiantes-con-unreal?id=999192421",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/323323.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Experto Universitario en Programación de Video Juegos con Unity",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "16 Semanas",
+    "price": "$  143.251",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Federico Zinni, Maximiliano Depetris",
+    "summary": "Una de las industrias que recauda más dinero que el cine son los videojuegos. Gracias a sus diversas aplicaciones, formatos y demografías de consumidores es una industria que puede abarcar un terreno muy amplio, y que cada vez es más grande. Tanto para el desarrollo de juegos comerciales como personales es importante contar con herramientas que nos ahorren tiempo, sencillas de usar, eficientes y con gran poder.Unity cumple todos esos requisitos y más. Con más de 10 años de experiencia, este motor de videojuegos es uno de los mas poderosos, integrando múltiples tecnologías utilizadas por grandes empresas para el desarrollo de juegos, y todo esto de una manera que oculta toda la complejidad, exponiendo una interfaz muy simple de utilizar.Sin embargo, ningún motor escapa a la necesidad de conocer algún lenguaje de programación, tanto visual como textual, que permita al desarrollador crear el juego de la manera que el necesite. Este curso abarca tanto el uso de las tecnologías elementales de Unity, como la programación con las mismas, en el lenguaje C#.Este Experto esta compuesto por dos cursos, que pueden ser tomados en forma independiente: 1) Programación de Video Juegos con Unity. Nivel inicial y 2) Programación de Video Juegos con Unity. Nivel avanzado. Por lo tanto, quienes aprueben los dos cursos recibirán el Certificado de Experto Universitario en Programación de Video Juegos con Unity.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1054/experto-universitario-en-programacion-de-video-juegos-con-unity?id=999192413",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/299299.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Bases de Matlab con Aplicaciones a las ciencias e ingenierías - Básico",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  22.903",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Patricio Fay, Patricio Fay",
+    "summary": "Matlab es un software de gran eficiencia computacional, lo que constituye un complemento muy adecuado, tanto para la enseñanza de las ciencias matemáticas como para la simulación a nivel industrial, científico y tecnológico de modelos matematicos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/554/bases-de-matlab-con-aplicaciones-a-las-ciencias-e-ingenierias-basico?id=999192019",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/4/Curso-online-Bases-de-Matlab-con-Aplicaciones-a-las-ciencias-e-ingenier%C2%B0as.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Business Intelligence",
+    "startDate": "Inicio de cursada\n 20/10/2023",
+    "duration": "14 Semanas",
+    "price": "$  128.254",
+    "modalities": [],
+    "teachers": "Jesus Ignacio Matias Urteaga, Susana Isabel Sarmiento Reina, Alejo Martin Lazzati, Guillermo Garofalo, Ulises Martins",
+    "summary": "Desde los primeros sistemas de soporte a las decisiones (DSS), data warehouses y sistemas de información ejecutiva se persigue el uso de datos para facilitar la toma de decisiones. La Inteligencia de Negocio o Business Intelligence (BI) es la capacidad de comprender las interrelaciones de los hechos presentados para orientar las acciones de la organización hacia una meta deseada. Mediante las herramientas y técnicas de ETL (extraer, transformar y cargar) se extraen los datos de distintas fuentes y se depuran y preparan (homogeneización y limpieza) para una posterior carga en un repositorio de datos. A posteriori, la principal actividad de BI es la explotación de los datos de la mejor manera posible, creando información y soportando la toma de decisiones. En esta Diplomatura se preparara a los participantes para trabajar eficazmente dentro del sector de BI. Durante las 12 semanas de la formación integral y completa los participantes se familiarizaran con las herramientas conceptuales más empleadas en el campo y adquirirán criterios sobre su correcta aplicabilidad. La formación comprende también los conceptos más avanzados en la especialidad, como ser los temas de Redes Neuronales, Algoritmos genéticos, Text Mining, Speachto Text y BIG Data. Se trabaja también en mostrar cómo operan las principales herramientas comerciales (sistemas de información) con mayor penetración en el mercado del software así como también las de uso libre.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/630/diplomatura-en-business-intelligence?id=999190947",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/417417.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Deep Learning: Redes neuronales desde cero",
+    "startDate": "Inicio de cursada\n 24/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  41.441",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Enrique Nicanor Mariotti, Juan Marcelo Barreto Rodriguez",
+    "summary": "El sub-campo del mundo del Machine Learning llamado Deep Learning ha ganado amplia popularidad en el último tiempo ya que está detrás de considerables avances tecnológicos actuales.\n\nEs así como el proceso de aprendizaje a través de Redes Neuronales se diferencia principalmente de los métodos tradicionales del Machine Learning (aprendizaje automático) porque necesita poca o nula intervención humana en la elección de los “features”, que son significativos para el modelo que mejor se ajusta a los datos disponibles del problema.\n\nComprende cómo el Deep learning o Aprendizaje Profundo conglomera una serie de métodos íntimamente ligados a los modelos de redes neuronales artificiales, los cuales, se idearon originalmente para replicar la dinámica neuronal del cerebro de manera simplificada con el objetivo de resolver problemas concretos en el área de las ciencias y la ingeniería.\n\nEn este curso aprenderás paso a paso diversos aspectos del mundo de las Redes Neuronales artificiales de manera progresiva. Emplearás el lenguaje de programación de Python y herramientas modernas de uso extendido en la industria y la academia: Tensorflow y Keras.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2308/curso-de-deep-learning-redes-neuronales-desde-cero?id=999191565",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19681968.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Professional Front End Developer",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "32 Semanas",
+    "price": "$  235.060",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "",
+    "summary": "Los Professional Frontend Developers son los encargados de maquetar la estructura semántica del contenido (HTML), codificar el diseño en hojas de estilo (CSS) y agregar la interacción con el usuario (Javascript).\n\nCon HTML5, desde el frontend, es posible hacer geolocalización, dibujo vectorial, guardar datos en el disco del usuario e insertar audio y video, entre otras cosas.\n\nCon CSS3, podemos crear diseños altamente complejos sin la necesidad de imágenes cortadas sólo usando código, bordes redondeados, sombras, degradados, fondos múltiples, entre otros.\n\nPor último, Javascript y sus frameworks añaden el componente de interactividad y conexión al servidor. Con JQuery podemos implementar librerías y darle mayor dinamismo a nuestros sitios.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2119/professional-front-end-developer?id=999191034",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20172017.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Python",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "30 Semanas",
+    "price": "$  185.509",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez",
+    "summary": "Python es un lenguaje multiplataforma que puede ser programado mediante POO (Programación Orientada a Objetos), su sintaxis es simple y elegante, a la vez que mantiene claras diferencias con lenguajes como Java, C, C#, PHP y Javascript, que nos permite trabajar en desarrollos de escritorio, web, aplicaciones móviles, videojuegos, etc. La gran cantidad de módulos y paquetes utilizables para el desarrollo de forma gratuita hacen de Python un lenguaje en el cual no tengamos que estar todo el tiempo tratando de reinventar la rueda.\n\nLa Diplomatura en Python ha surgido como una necesidad a partir de las expectativas del mercado. Contarás con con una educación completa y escalonada que parta de conceptos básicos del lenguaje y arribarás al conocimiento de estructuras complejas, como pueden ser los decoradores o las meta clases.\n\nTrabajarás utilizando ejercicios prácticos de uso cotidiano en la vida del programador, aprendiendo las bases necesarias para tus futuros desarrollos.\n\nIMPORTANTE: Antes de iniciar la Diplomatura, recomendamos que aquellos alumnos que nunca han trabajado con un lenguaje de programación, editores de texto de programas, y que presentan dificultades en el manejo de programas en general realicen el curso de Python Paso a Paso, en donde se tiene por objetivos específicos:\n\nAprender el alcance del lenguaje\nRealizar la instalación y configuración del equipo de trabajo.\nInstalar todas las herramientas necesarias para poder seguir el curso de python inicial sin atrasarse.\nComprender el alcance del lenguaje y en qué áreas puede ser utilizado.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1413/diplomatura-en-python?id=999190952",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10801080.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo Web en Html5 y Css3",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  67.158",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maria Victoria Lopez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2118/desarrollo-web-en-html-5-y-css-3?id=999191038",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20192019.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Python 3 - Nivel Inicial",
+    "startDate": "Inicio de cursada\n 25/10/2023",
+    "duration": "10 Semanas",
+    "price": "$  68.708",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1428/python-3-nivel-inicial?id=999190962",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/12431243.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Professional Testing Master",
+    "startDate": "Inicio de cursada\n 27/10/2023",
+    "duration": "5 Semanas",
+    "price": "$  54.967",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "David Lopez, Juan Carlos Tripaldi, Juan Jose Lopez, Ulises Martins",
+    "summary": "El testing de software es un conjunto de actividades que se pueden planear anticipadamente y ejecutar como un proceso sistemático. Por esta razón se debe definir un modelo para el proceso de software (un conjunto de pasos en los que se pueden incluir técnicas específicas de diseño de casos de prueba y métodos de testing). En la bibliografía se han propuesto varias estrategias de testing, todas las cuales tienen las siguientes características generales: Para realizar un testing efectivo se deben realizar revisiones técnicas efectivas. Mediante esto se eliminan muchos errores antes de comenzar el testing. El testing comienza a nivel componente y funciona “hacia afuera”, hacia la integración del sistema completo. Distintas técnicas de testing son apropiadas para distintos enfoques de ingeniería de software y en distintos momentos. El testing lo dirige el desarrollador de software y (para proyectos medianos a grandes) un grupo de testers independiente. Testing y depuración (debugging) son actividades independientes, pero el debugging debe estar contemplado en toda estrategia de testing. Una estrategia de testing debe contemplar tests de bajo nivel, necesarios para verificar que un pequeño fragmento de código fuente fue implementado correctamente, así como también tests de alto nivel para validar que la funcionalidad del sistema responde a los requerimientos del cliente. Una estrategia debe proveer una guía para el ejecutor y un conjunto de hitos (milestones) para el gerente de proyecto. Debido a que los pasos de la estrategia de testing se ejecutan en un momento en que la presión de los tiempos (deadlines) comienza a aumentar, el progreso debe ser medible y los problemas deben descubrirse lo antes posible.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/486/professional-testing-master?id=999190893",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/221221.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Fundamentos de la Programación",
+    "startDate": "Inicio de cursada\n 27/10/2023",
+    "duration": "9 Semanas",
+    "price": "$  49.335",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Emilio Esteban Rasic",
+    "summary": "Este curso forma parte del Experto Universitario en Programación con especialización en un Lenguaje\n\nLos fundamentos de programación son los principios básicos que se utilizan en el desarrollo de los programas informáticos. Los programadores necesitan tener una comprensión sólida de estos fundamentos para poder escribir código para nuevos programas, así como para poder depurar y mantener los ya existentes.\n\nMás allá del propósito final que se le quiera dar a un componente de software o su aplicación, todos los desarrollos de software tienen como bases fundacionales la necesidad de modelar en forma abstracta una realidad dentro de un contexto determinado, a través de la utilización de soluciones basadas en el pensamiento lógico y computacional, llamadas algoritmos.\n\nEstos conceptos primarios son aplicables a los distintos lenguajes de programación, plataformas, entornos y metodologías de desarrollo de software. Con este curso de programación, aprenderás estos conceptos, que resultan esenciales y necesarios para sentar las bases del pensamiento resolutivo que te permitirá iniciar el camino hacia las distintas técnicas de desarrollo de software, como por ejemplo, las especializaciones en los lenguajes Java/JEE, MS .NET o en PHP.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2640/curso-de-fundamentos-de-la-programacion?id=999191015",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/170170.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Cómo mejorar la productividad con Bitrix24",
+    "startDate": "Inicio de cursada\n 01/11/2023",
+    "duration": "5 Semanas",
+    "price": "$  26.163",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Andrea Mangone, Leandro Di Matteo",
+    "summary": "¿Estás buscando formas eficientes de optimizar tus tareas diarias y mejorar la productividad de tu equipo? ¡Estás en el lugar correcto! En este curso, exploraremos una poderosa herramienta colaborativa: Bitrix24.\n\nBitrix24 es una plataforma integral que ofrece una amplia gama de herramientas para la gestión de proyectos, comunicación, colaboración y automatización de tareas. Con sus características avanzadas y su interfaz intuitiva, Bitrix24 te permite centralizar todos tus procesos de trabajo en un solo lugar, lo que resulta en una mayor eficiencia y productividad.\n\nDurante este curso, aprenderás a utilizar las diferentes funciones de Bitrix24 para mejorar tu flujo de trabajo y alcanzar tus objetivos de manera más eficiente.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3058/curso-de-como-mejorar-la-productividad-con-bitrix-24?id=999193391",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23442344.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Especialista en Datawarehouse y ETL",
+    "startDate": "Inicio de cursada\n 01/11/2023",
+    "duration": "6 Semanas",
+    "price": "$  84.284",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Alejo Martin Lazzati, Guillermo Garofalo, Susana Isabel Sarmiento Reina, Layla Scheli, Claudia Piaggio, Ulises Martins",
+    "summary": "Las organizaciones son cada vez más dependientes del inteligente uso de sus datos para la toma de decisiones.Esos datos para ser útiles deben estar almacenados en una plataforma que sea compatible con múltiples consultas concurrentes de gran complejidad y que no traben la operación normal. A estas plataformas se las conoce como \"almacenes de datos\" o Al mismo tiempo es preciso que esta información esté libre de errores y deformaciones que se producen al cargar los datos en las aplicaciones transaccionales y que podrían arruinar el esfuerzo analítico que se busca construir sobre ellos.Estos conjuntos de datos deben también actualizarse en forma periódica para ir incorporando la nueva información que generan las aplicaciones transaccionales que soportan la operación. Los procedimientos que se encargan de esa actualización se llaman ETL (Las siglas de extracción, transformación y carga)Tanto el diseño del almacén de datos como de los ETL requieren de técnicas de optimización que, de no aplicarse, atascos, inconsistencias.En este curso les proporcionamos a los participantes conocimientos y herramientas para implementar almacenes de datos y realizar los procesos de limpieza y carga correspondientes.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1365/especialista-en-datawarehouse-y-etl?id=999190263",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10251025.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura de Django framework",
+    "startDate": "Inicio de cursada\n 02/11/2023",
+    "duration": "30 Semanas",
+    "price": "$  159.136",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Juan Marcelo Barreto Rodriguez",
+    "summary": "Crear una plataforma web moderna requiere poder cubrir muchos aspectos, como la maquetación, la creación de un panel de administración, la integración con diferentes bases de datos y servidores, la implementación de protocolos https, la posibilidad de comunicación con otras plataformas, entre muchos otros temas. En el transcurso de esta diplomatura nos dedicaremos a escudriñar cada aspecto del framework y su interacción con otras plataformas y framworks de desarrollo, tanto en el área del frontend como del backend.\n\nCada nivel de la diplomatura está desarrollado para guiar al alumno de forma paulatina:\n\nEn el nivel inicial conoceremos la arquitectura del framework y trabajaremos sobre la creación del desarrollo del backend y del frontend de forma responsive. Daremos respuestas a preguntas tales como: ¿Qué es Django?, ¿Cuál es la arquitectura de Django framework?, ¿Cómo se desarrollan sus aplicaciones?, ¿Cómo realizar un frontend con código html, css, css3, Bootstrap, Sass y GreenSock?, ¿Cómo crear una página web con html?, ¿Cómo crear sitios escalables?\n\nEn el nivel intermedio nos avocaremos a temas específicos como el trabajo con signals, templetags, el desarrollo de páginas intermedias para el panel admin, el uso de localstorage y de la comunicación asíncrona con el servidor de forma de ver en profundidad las herramientas que el framework nos brinda. También abordaremos la implementación de GSAP (GreenSock) y AJAX de forma de poder crear animaciones que mejoren la experiencia del usuario haciendo nuestras páginas más atractivas y fáciles de navegar.\n\nEn el tercer nivel nos dedicaremos a abordar los temas centrales de la puesta del proyecto en producción, abordando temas tales como: ¿Cómo se lleva a producción?, ¿Qué pasa cuando no solo quiero subirlo a un hosting sino que quiero crear mi propio vps?, ¿Qué es un vps?, ¿Qué servidor uso?, ¿Conviene usar un solo servidor?, ¿Cómo lo configuro?, ¿Cómo me comunico con otras plataformas?, ¿Cómo establezco un protocolo https?, ¿Cómo integro una tarjeta de crédito?, ¿Cómo se puede integrar Django en el desarrollo de un backend y usar otro framework como frontend?, ¿Cómo utilizar Apache, junto con Nginx, y Node.js?, ¿Debo usar un hosting web?, ¿Qué pasa si se usar angular.js, vue.js o reactjs y quiero usar Django como backend?, ¿Es posible usar Mongodb al igual que MariaDB, MySQL o Oracle?, ¿Cómo creó una RestApi?, ¿Cómo optimizo el SEO?, ¿Se pueden integrar tarjetas de crédito mediante Mercado Pago?\n\nEl alumno encontrará en esta diplomatura todo lo necesario para llevar sus ideas de proyectos a la práctica.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2174/diplomatura-de-django-framework?id=999191569",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19551955.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Django Nivel Inicial - Arquitectura",
+    "startDate": "Inicio de cursada\n 02/11/2023",
+    "duration": "10 Semanas",
+    "price": "$  58.941",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2172/django-nivel-inicial-arquitectura?id=999191576",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19521952.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Excel Intermedio",
+    "startDate": "Inicio de cursada\n 03/11/2023",
+    "duration": "6 Semanas",
+    "price": "$  21.678",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Carolina Alejandra Zabala",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3022/curso-de-excel-intermedio?id=999193186",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23562356.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "DevOps, integración y agilidad continua",
+    "startDate": "Inicio de cursada\n 03/11/2023",
+    "duration": "6 Semanas",
+    "price": "$  91.612",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Hernan Ricchio, David Fichtenbaum, Javier Madero, Ulises Martins",
+    "summary": "El desarrollo de Software evolucionó desde la programación individual en una sola ubicación hacia el trabajo distribuido en cientos de personas desarrollando por todo el mundo, desde un único lenguaje de programación a escenarios multi lenguajes, desde un flujograma a Arquitecturas en la nube. A nivel aplicaciones y sitios web actualmente es frecuente contar con miles de usuarios nuevos en cortísimos tiempos, estresando el nivel de calidad necesario. En esta evolución el testing del software, como último bastión de la calidad, también progresó desde el testing unitario, a la automatización, la integración continua y actualmente DevOps. DevOps marca la última tendencia en el avance de los modelos de Ciclo de Vida de desarrollo del Software, integrando al mantenimiento y al ambiente de producción como parte integral de todo el proceso. Especialistas y referentes mundiales del la industria del Software como Kent Beck o Gene Kim recomiendan ampliamente la utilización de DevOps para todo tipo de organizaciones. Este curso forma a los participantes para que puedan extender sus conocimientos sobre desarrollo y mantenimiento de Software en las últimas tendencias de la temática de Entrega continua y Operaciones, DevOps.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1268/dev-ops-integracion-y-agilidad-continua?id=999191709",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/376376.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Programador Web Inicial - Front End Developer",
+    "startDate": "Inicio de cursada\n 08/11/2023",
+    "duration": "21 Semanas",
+    "price": "$  141.597",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino, Santiago Nobile",
+    "summary": "El curso de Programador Web Inicial está pensado para aquellas personas que deseen adquirir conocimientos para desempeñarse en el ámbito de diseño o programación y, además, quieran adquirir nuevos saberes basados en los avances de las tecnologías de última generación y en lenguajes orientados a realización de sitios web dinámicos.\n\nInternet ha creado en el mundo un nuevo modo de conectarse, de trabajar y de estudiar. Ha remodelado esquemas de comunicación entre las personas y organizaciones. Conociendo la inmensa potencialidad de la red de redes, los profesionales del área no pueden desconocer la forma de desarrollar aplicaciones en los lenguajes más populares de la web, ya que es esto es esencial para diferenciarse del simple diseño de páginas estáticas.\n\nAl finalizar el curso los participantes estarán habilitados para realizar aplicaciones básicas para sitios web, utilizando los lenguajes de mayor demanda en el mercado.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1831/programador-web-inicial-front-end-developer?id=999191657",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17001700.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Experto Universitario en PHP y MySQL",
+    "startDate": "Inicio de cursada\n 08/11/2023",
+    "duration": "27 Semanas",
+    "price": "$  163.158",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte",
+    "summary": "Actualmente, el diseño web no es suficiente para presentar productos completos que nos permitan realizar, por ejemplo, ventas online. Es necesario que los diseñadores web se interioricen en el mundo del back- end para poder desarrollar web dinámicas que contemplen conexiones de nuestras bases de datos con el servidor mediante el lenguaje PHP.\n\nEl lenguaje PHP, conjuntamente con las bases de datos MySQL, permitirá crear sitios web dinámicos con posibilidad de enriquecer tu producto final y darle mayor interactividad.\n\nEl Experto Universitario en PHP y MySQL está desarrollado en tres cursos de aprendizaje progresivo. En primer lugar, tenemos el módulo de PHP y MySQL Inicial que te permitirá interiorizarte en las bases de datos relacionales y dar los primeros pasos con el lenguaje PHP. En segundo término, está el módulo de PHP y MySQL intermedio, en donde aprenderás a realizar aplicaciones y funcionalidades con el lenguaje. Por último, encontrarás el curso de PHP y MySQL nivel avanzado en donde trabajaremos con programación orientada a objetos y frameworks con alta demanda en el mercado laboral.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2128/experto-universitario-en-php-y-my-sql?id=999190845",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20292029.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "PHP y MySQL inicial",
+    "startDate": "Inicio de cursada\n 08/11/2023",
+    "duration": "9 Semanas",
+    "price": "$  58.739",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2121/php-y-my-sql-inicial?id=999191534",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20302030.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Experto Universitario en Programación Web Full Stack",
+    "startDate": "Inicio de cursada\n 09/11/2023",
+    "duration": "13 Semanas",
+    "price": "$  129.649",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino",
+    "summary": "Dada la cantidad de bibliotecas y frameworks desarrollados en javascript en los últimos años, este lenguaje ha tomado una gran repercusión. En base a javascript, ya no solo podemos desarrollar aplicaciones web RIA. Por ejemplo, con node JS, podremos aplicar javascript para servir código del lado del servidor.\n\nEn los últimos tiempos dos tecnologías han pujado y tomado gran repercusión: React JS y Angular. En el primer caso esta biblioteca, desarrollada por Facebook, surgió para programar aplicaciones con mejor performance aplicando el concepto de virtual DOM. Por el lado de Angular, es un framework basado en el patrón MVC, el cual se caracteriza por su desarrollo basado en componentes.\n\nRealizando el Experto Universitario en Javascript los participantes podrán elaborar íntegramente proyectos Front End utilizando el lenguaje y las teconologías .JS que enriquecen el trabajo.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1584/experto-universitario-en-programacion-web-full-stack?id=999191652",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1584.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Professional Testing Master Nivel Avanzado",
+    "startDate": "Inicio de cursada\n 10/11/2023",
+    "duration": "8 Semanas",
+    "price": "$  117.528",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "David Lopez, Gustavo La Sala, Ulises Martins",
+    "summary": "Este entrenamiento tiene como valor proveer a profesionales y estudiantes que se desarrollan en el mercado de tecnología informática, y particularmente en el área de testing de software, los conocimientos y skills necesarios para complementar la temática tratada en el curso Professional Testing Master. El curso se enfoca en temas específicos avanzados como ser Testing Ágil, Testing de aplicaciones móviles, Testing estático, Behavior-Driven Development (BDD), métricas, entre otros. A su vez se profundiza desde una perspectiva actual temas importantes como testing de seguridad y de performance, y se ahonda en las actividades de administración del testing (tales como planificación, estimación y reporting, entre otras). Los temas mencionados se ubican previamente en el contexto del ciclo de vida del software, presentando el fundamental modelo en V. Cabe mencionar que el curso persigue dar un sentido práctico a la teoría, aportando ejemplos y presentando o refiriendo a las herramientas más relevantes del mercado.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1896/curso-de-professional-testing-master-nivel-avanzado?id=999191298",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11841184.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de AWS cloud computing",
+    "startDate": "Inicio de cursada\n 10/11/2023",
+    "duration": "8 Semanas",
+    "price": "$  65.780",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Juan Ignacio Anessi",
+    "summary": "El Cloud Computing es una de las disciplinas más buscadas en la actualidad y en la cual aun faltan profesionales que lleven a cabo las diferentes tareas. Como especialistas, debemos ser capaces de reconocer los diferentes ámbitos de aplicación, así como también las diferentes áreas en las cuales podemos formarnos. El Cloud computing nos da una visión mucho más amplia de la clásica infraestructura que conocemos desde hace años. Este proceso de transformación digital, nos lleva a especializarnos en la administración de servicios en la nube y a enforcarnos en un nuevo paradigma.\n\nEste curso te brindará los elementos teóricos y prácticos necesarios para comprender los principales conceptos del cloud computing, en este caso, a tráves de la plataforma de Amazon Web Services. Además conocerás los servicios principales de la plataforma desarrollando y profundizando en cada uno de ellos.\n\nAl finalizar este curso serás capaz de conocer y manejar los servicios principales de Amazon Web Services, comprendiendo su infraestructura global, sus beneficios y sus ventajas. Además podrás estimar costos y desplegar servicios en cuestión de minutos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2906/curso-de-aws-cloud-computing?id=999192850",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23062306.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Bases de Datos",
+    "startDate": "Inicio de cursada\n 17/11/2023",
+    "duration": "12 Semanas",
+    "price": "$  84.284",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Laura Cristina Siri, Guillermo Garofalo, Susana Isabel Sarmiento Reina, Ulises Martins",
+    "summary": "Este curso nace ante la necesidad de contar con una oferta académica con la extensión y alcance en profundidad para bases de datos, abarcativas desde sus inicios hasta los modelos más actuales como ser in-memory. Actualmente los cursos tradicionales tienen un alcance menor. Desde los primeros sistemas se tuvo la necesidad de almacenar información de manera que pudiera ser recuperada y actualizada. Los volúmenes involucrados han venido creciendo de manera constante, a su vez, los tiempos de acceso se han derrumbado tanto para el acceso secuencial como para el aleatorio; incidiendo en el caudal de información que se puede manejar, pues ha escalado más allá de cualquier esperanza inicial. Sin embargo, pese a todo este crecimiento, nos hemos visto en la necesidad de crear nuevas estrategias que nos permitan ir más allá. Las necesidades actuales de los sistemas, aplicaciones, páginas web y otros componentes de Software son crecientes y generan nuevos desafíos antes impensados para la capacidad para almacenar y procesar información. Nos proponemos recorrer en este entrenamiento el proceso de crecimiento de los datos y de las estrategias que se usan para gestionarlos así como los principales problemas en la frontera con otras disciplinas como el desarrollo de software, la inteligencia de negocios y las arquitecturas de software y hardware. En esta Diplomatura se preparara a los participantes para trabajar eficazmente dentro del sector de Bases de Datos. Durante las 12 semanas los participantes se familiarizarán con las herramientas conceptuales más empleadas en el campo y adquirirán criterios sobre su correcta aplicación. La formación comprende también los conceptos más avanzados en la especialidad, como ser los temas de bases de datos relacionales, distribuidas, orientadas a objetos, documentales y modelos cloud, como el propuesto por Amazon por ejemplo. Se trabaja también en mostrar cómo operan las principales herramientas comerciales (sistemas de información) con mayor penetración en el mercado del software así como también las de uso libre.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1294/diplomatura-en-bases-de-datos?id=999191292",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/390390.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Python3 – Paso a paso",
+    "startDate": "Inicio de cursada\n 17/11/2023",
+    "duration": "6 Semanas",
+    "price": "$  37.378",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez",
+    "summary": "Bienvenidos a este curso de Python Paso a Paso, el mismo ha sido confeccionado como paso previo a la Diplomatura en Python de forma de introducir a aquellas personas que nunca han tenido contacto con un lenguaje de programación en los conceptos más básicos del lenguaje, desde cómo realizar la instalación, cómo utilizar un editor de texto o realizar el seguimiento de errores en el código desarrollado. Python es un lenguaje que posee muchas aplicaciones y hoy en día se puede utilizar para realizar sitios web escalables, realizar cálculos estructurales complejos con elementos finitos, videojuegos, entre otras muchas aplicaciones. Durante este curso nos familiarizaremos con lo básico del lenguaje tratando de contestar a las preguntas más habituales que los nuevos alumnos pueden tener.\n\nIMPORTANTE: Este curso está pensado para aquellas personas que nunca han trabajado con un lenguaje de programación, editores de texto de programas, y que no tienen experiencia en la instalación de herramientas habitualmente utilizadas en el desarrollo del lenguaje.\n\nNo es un curso recomendado para quienes ya poseen conocimientos previos o quieran avanzar rápidamente en el conocimiento del lenguaje. En este caso, recomendamos el curso de python inicial perteneciente a la Diplomatura en python.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/790/python-3-paso-a-paso?id=999191774",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/107107.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Diseño de Videojuegos: Producción y programación integral",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "18 Semanas",
+    "price": "$  106.781",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Diego Morejon, Ingrid Kitainik",
+    "summary": "El mercado de videojuegos ha crecido en los últimos años, tanto para el desarrollo de productos internos como para exportación. Junto con este crecimiento también aumentó la complejidad de los mismos, y a su vez también aumentaron los diferentes perfiles necesarios a la hora de formar un equipo de desarrollo. Debido a ello, para alguien que quiere insertarse en la industria es difícil saber elegir a qué área le gustaría dedicarse. En este curso se propone dar una introducción sobre los perfiles profesionales fundamentales en el diseño de videojuegos, para que luego el alumno sepa a qué área le gustaría abocarse. Una de las industrias que recauda más dinero que el cine son los videojuegos. Gracias a sus diversas aplicaciones, formatos y demografías de consumidores es una industria que puede abarcar un terreno muy amplio, y que cada vez es más grande. Tanto para el desarrollo de juegos comerciales como personales es importante contar con profesionales especializados en diferentes áreas para lograr un producto de excelencia. En este curso el alumno obtendrá una introducción básica a los tres perfiles fundamentales que todo equipo de videojuegos debe tener: programación de videojuegos , game design y arte (incluyendo gráficos y audio), es decir , diseño integral de videojuegos De la parte de programación se verá cómo desarrollar un prototipo básico utilizando un motor de desarrollo de videojuegos junto con las bases de su lenguaje de programación. En el área de Game Design se verán las bases teóricas del juego y cómo utilizarlas para pensar las mecánicas y dinámicas del mismo, así como también poder balancearlas. En el área de arte se verán las bases del modelado 3D y de producción de audio para videojuegos, finalmente los conceptos bases para la producción de videojuegos, Con las bases de cada área el alumno podrá decidir a cuál le gustaría dedicarse, y para que tenga la experiencia completa realizará un prototipo de juego . Para ello verán y aplicarán las metodologías de producción de videojuegos más conocidas para hacer un correcto seguimiento y planificación del mismo.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1481/curso-de-diseno-de-videojuegos-produccion-y-programacion-integral?id=999191426",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14631463.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Professional Full-Stack Developer",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "26 Semanas",
+    "price": "$  213.430",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano",
+    "summary": "Comenzaremos por React JS, una biblioteca desarrollada por Facebook cuya principal ventaja es su alta performance. Con React JS haremos principal foco en la creación de interfaces de usuario utilizando el patrón de diseño MVC (modelo-vista-controlador). React JS al igual que Angular se destaca por la facilidad de desarrollo de aplicaciones SPA (Single Page Application) brindando a los usuarios una experiencia mas fluida. Entre sus caracteristicas podemos encontrar el virtual DOM, mejora de performance, modularidad y un claro flujo de datos. Angular es un conjunto de librerías apoyadas por Google que nos servirá para solucionar las necesidades actuales de la informática, en cuanto a desarrollo multiplataforma de aplicaciones grandes que se asemejan a las de escritorio. Angular aporta las herramientas necesarias para crear sitios utilizando las directivas que nos provee el framework de manera de enriquecer nuestro HTML, creando código semántico, utilizando el patrón de Diseño MVC. Node JS es un plataforma súper-rápida, especialmente diseñada para realizar operaciones de entrada/salida (Input/Output o simplemente I/O en inglés) en redes informáticas por medio de distintos protocolos. Es, además, uno de los actores que ha provocado, junto con HTML5, que Javascript gane gran relevancia en los últimos tiempos, pues ha conseguido llevar al lenguaje a nuevas fronteras como es el trabajo del lado del servidor. Esta Diplomatura está compuesto de tres cursos que pueden ser realizados en forma independiente. Quienes los cursen y aprueben recibirán el certificado de Professional Full Stack Developer.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1479/professional-full-stack-developer?id=999191030",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1479.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Machine Learning con Python",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "8 Semanas",
+    "price": "$  52.178",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Enrique Nicanor Mariotti, Juan Marcelo Barreto Rodriguez",
+    "summary": "El aprendizaje automático o aprendizaje de máquinas (Machine learning) está creciendo rápidamente conforme crece la necesidad de que las máquinas tomen decisiones, sobre todo en tareas que pueden ser repetitivas o exijan una atención constante del personal humano. El proceso de aprendizaje requiere un amplio conocimiento del uso de estadísticas aplicadas al desarrollo de algoritmos y el uso de herramientas que permitan analizar y visualizar los datos recolectados, preparar los mismos y crear modelos que se ajusten a las condiciones de uso cotidianas para finalmente realizar un trabajo de evaluación y posterior puesta en producción de los modelos.\n\nCada una de estas etapas posee su propio grado de dificultad y conocimiento, que iremos abordando a lo largo del curso ayudándonos por un lenguaje robusto y consistente como lo es python, que cuenta con una vasta experiencia en el tratamiento y análisis de datos.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2275/curso-de-machine-learning-con-python?id=999191926",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19671967.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo en React JS",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "14 Semanas",
+    "price": "$  90.905",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1335/desarrollo-en-react-js?id=999192061",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/6363.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo web en Bootstrap",
+    "startDate": "Inicio de cursada\n 22/11/2023",
+    "duration": "5 Semanas",
+    "price": "$  26.650",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Maria Victoria Lopez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2126/desarrollo-web-en-bootstrap?id=999191765",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20392039.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en programación web full stack con React JS",
+    "startDate": "Inicio de cursada\n 24/11/2023",
+    "duration": "25 Semanas",
+    "price": "$  177.299",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Flavia Ursino",
+    "summary": "Esta Diplomatura Universitaria, está pensada desde nivel inicial para aquellos que aún no programan, hasta lograr un nivel avanzado en la programación de desarrollos web dinámicos.\n\nActualmente el mercado laboral, tanto en su forma freelance como de empleo formal, solicitan desarrolladores web Full Stack, esto significa que los desarrolladores deben poseer los concimientos y habilidades para realizar el diseño visual de su desarrollo web ( Desarrollo Front End), asi como también puedan programar en los lenguajes y fremeworks más solicitados para estos desarrollos pcon el fin de interactuar con el servidor y las bases de datos del sitio web. (Desarrlo web Back End).\n\nLa Diplomatura está compuesta por seis módulos que se realizan en forma nivelada y según el grado de complejidad en los contenidos, en primer lugar los contienidos dedicados al Front End y luego los contenidos aplicados a desarrollos Full Stack, completando asi un programa general e integrador para la formación ideal en la inclusión efectiva en el mundo laboral.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1969/diplomatura-en-programacion-web-full-stack-con-react-js?id=999190841",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1590.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Bases de Matlab con Aplicaciones a las ciencias e ingenierías - Avanzado",
+    "startDate": "Inicio de cursada\n 07/12/2023",
+    "duration": "4 Semanas",
+    "price": "$  22.903",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Patricio Fay, Patricio Fay",
+    "summary": "Actualmente, el intercambio y procesamiento de datos en problemas de ingenieria y ciencias aplicadas en general es muy importante y de un volumen bastante considerable, lo que hace adecuado el uso de un software que ayude a la manipuacion de los mismos. Otro problema de interes es el encontrar modelos aproximados y con una cota de error manejable en sus datos matematicos. Matlab constituye una herramienta que complementa de manera notoria el procesamiento de datos y manejo de modelos numericos. El presente curso pretende introducir al usuario de Matlab en el manejo e intercambio de datos con otros programas, asi como en la elaboracion de scripts propios y con un fin especifico.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1385/bases-de-matlab-con-aplicaciones-a-las-ciencias-e-ingenierias-avanzado?id=999192022",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/227227.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo web en HTML 5, CSS3 y Javascript (nivel avanzado)",
+    "startDate": "Inicio de cursada\n 07/12/2023",
+    "duration": "9 Semanas",
+    "price": "$  69.956",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Maria Victoria Lopez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2124/desarrollo-web-en-html-5-css-3-y-javascript-nivel-avanzado?id=999191044",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20372037.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo con Angular",
+    "startDate": "Inicio de cursada\n 12/12/2023",
+    "duration": "6 Semanas",
+    "price": "$  71.143",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Fernando Andreassi, Alberto Enuel Monzon Oga",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/946/desarrollo-con-angular?id=999192295",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/270270.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "PHP y MySQL Avanzado",
+    "startDate": "Inicio de cursada\n 13/12/2023",
+    "duration": "9 Semanas",
+    "price": "$  58.739",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2125/php-y-my-sql-avanzado?id=999191540",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20322032.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Programador Web Inicial",
+    "startDate": "Inicio de cursada\n 13/12/2023",
+    "duration": "13 Semanas",
+    "price": "$  148.308",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "",
+    "summary": "Este curso te permitirá aprender conocimientos para desempeñarse en el ámbito de diseño o programación, así como adquirir nuevos conocimientos basados en los avances de las tecnologías de última generación, en lenguajes orientados a la realización de sitios web dinámicos.\n\nAl finalizar el curso, los participantes estarán capacitados para realizar aplicaciones básicas para sitios web, utilizando los lenguajes de mayor demanda en el mercado.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2115/programador-web-inicial?id=999192204",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20412041.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Programación de Videojuegos Avanzado con Unreal",
+    "startDate": "Inicio de cursada\n 15/12/2023",
+    "duration": "8 Semanas",
+    "price": "$  84.100",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende, Ingrid Kitainik",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1351/programacion-de-videojuegos-avanzado-con-unreal?id=999192423",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Programaci%C2%A2n-de-Videojuegos-con-Unreal.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Programación de Videojuegos con Unity. Nivel Avanzado",
+    "startDate": "Inicio de cursada\n 15/12/2023",
+    "duration": "8 Semanas",
+    "price": "$  82.550",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Federico Zinni, Maximiliano Depetris",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1056/programacion-de-videojuegos-con-unity-nivel-avanzado?id=999192417",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Programaci%C2%A2n-de-Video-Juegos-con-Unity-Nivel-Avanzado.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Python 3 - Nivel Avanzado",
+    "startDate": "Inicio de cursada\n 19/12/2023",
+    "duration": "10 Semanas",
+    "price": "$  68.708",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Juan Marcelo Barreto Rodriguez, Gabriela Veronica Aquino, Juan Marcelo Barreto Rodriguez",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1426/python-3-nivel-avanzado?id=999190965",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1426.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Programación en C++ para Videojuegos",
+    "startDate": "Inicio de cursada\n 02/02/2024",
+    "duration": "12 Lecciones",
+    "price": "$  52.338",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Jorge Manuel Gutierrez Allende, Santiago Nobile, Ariel Restagno Barros, Ingrid Kitainik",
+    "summary": "Clases en vivo: Miercoles de 19 a 22 hs.\n\nUnreal es uno de los Motores Gráficos más utilizado en la industria de los Videjuegos. Al necesitar profesionales formados en este motor gráfico en una industria creciente en nuestro país, brindamos en este curso una capacitación básica en el lenguaje de programación utilizado en este motor gráfico, C++\n\nAbordaremos las problemáticas que se presentan al programar un videojuego y formaremos futuros desarrolladores capaces de afrontar y solucionar los desafíos de programación utilizando Unreal Engine, creando asi el perfil de profesional que busca el sector.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3050/programacion-en-c-para-videojuegos?id=999193874",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23532353.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Análisis de Negocios (Business Analysis)",
+    "startDate": "Inicio de cursada\n 23/02/2024",
+    "duration": "12 Semanas",
+    "price": "$  80.617",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Jesus Ignacio Matias Urteaga, Carlos Alberto Mari, Juan Carlos Tripaldi, Ulises Martins",
+    "summary": "Las necesidades organizacionales se identifican, priorizan y gestionan. La forma de poder implementarlas es mediante el Análisis de Requerimientos (requisitos), incluyendo el análisis de los interesados, por ejemplo los sponsors organizacionales. El Análisis de Negocio es el principal enlace entre las personas del negocio, los interesados, y el equipo de un proyecto o el equipo de implementación que logra una solución. En esta Diplomatura se describen cada una de las áreas de conocimiento que establece el International Institute of Business Analysis (IIBA) en su Business Analysis Body of Knowledge (BABOK®), así como también se trabajan todos los conceptos y procesos propuestos por el PMI® en su certificación Professional in Business Analysis (PMI-PBA)®. Se pretende preparar a los participantes, en el término de 8 semanas, en el uso de las principales técnicas de análisis de negocios y de análisis de requerimientos de un proyecto.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1022/diplomatura-en-analisis-de-negocios-business-analysis?id=999193759",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/2961022.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Redes ópticas",
+    "startDate": "Inicio de cursada\n 01/03/2024",
+    "duration": "10 Semanas",
+    "price": "$  104.650",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Daniel Torrabadella, Daniel Torrabadella",
+    "summary": "En el rubro Telecomunicaciones se observa en los últimos años un cambio sostenido en cuanto a tecnología, donde la fibra óptica y los sistemas ópticos en los años 90 quedaba solo destinado al “Backbone ó Core” de los operadores, para ir migrando al acceso de la red móvil para finalmente llegar en estos tiempos hasta la casa de los clientes en lo que se conoce fibra al hogar ó Fiber to the home (FTTH).\n\nEl fenómeno de convergencia se da, en el marco de la visión de medios de transmisión, en el empleo de fibra óptica en todas las redes de telecomunicaciones de Transporte y Acceso fijo (FTTH) o móvil (FTTM), así como en redes públicas y/o privadas.\n\nCon este curso, comenzarás a conocer las \"Redes de Fibra Óptica\" de manera integral y dominar las diferentes técnicas relacionadas con la teoría y el desafío de los proyectos ópticos, así como su mantenimiento. Esto conforma un valioso valor agregado para el técnico, que lo posiciona de una forma especial en el mercado laboral de la región de América latina. Es importante destacar que, en nuestra región, la demanda de profesionales con estos conocimientos y competencias específicas en proyectos de redes ópticas se incrementará sostenidamente en la mayoría de los países.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2585/curso-de-redes-opticas?id=999194049",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17461746.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Programación SAP ABAP",
+    "startDate": "Inicio de cursada\n 05/03/2024",
+    "duration": "19 Semanas",
+    "price": "$  128.254",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Marcelo Ubaldo Lopez Nocera, Ulises Martins",
+    "summary": "Las grandes, pequeñas y medianas empresas, pertenecientes a las más diversas industrias, se han profesionalizado en la actualidad, a tal punto, que requieren el uso de herramientas integrales que las asistan en la planificación, la toma de decisiones y el seguimiento del trabajo realizado a lo largo de toda la gestión de su operatoria cotidiana (on going operations), nos referimos a los denominados ERP (Enterprise Resource Planning). Fundamentalmente, los ERPs, son un apoyo tecnológico a la gestión organizacional, de modo tal que un sistema único centraliza la información de toda la operatoria contable, financiera, comercial, productiva, logística, de ventas, de recursos humanos, de transporte de mercaderías y del resto de las operaciones. La herramienta ERP más difundida a nivel mundial es un producto de SAP® conocido como SAP R/3. SAP R/3 es programable mediante el lenguaje nativo “Advanced Business Application Programming” o ABAP, el cual permite el tailoring de las necesidades propias de cada caso, adaptándolas ad hoc a la situación particular de cada organización que implemente la herramienta. Por otra parte ABAP, es el lenguaje de que se utiliza para programar en gran parte del portfolio de productos de SAP (por ejemplo SAP mySAP Business suite o SAP Banking Services, entre otros). Esta Diplomatura, ofrece una formación completa en la programación del software más utilizado actualmente como herramienta de gestión empresarial, SAP® ERP, como así también, se centra en un lenguaje que se utiliza en otros productos y servicios, el lenguaje nativo propietario ABAP",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/531/diplomatura-en-programacion-sap-abap?id=999193769",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/4/Curso-online-Diplomatura-en-Programaci%C2%A2n-SAP-ABAP.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura en Diseño Web y Multimedial",
+    "startDate": "Inicio de cursada\n 29/03/2024",
+    "duration": "18 Semanas",
+    "price": "$  159.896",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Jose Luis Condori",
+    "summary": "El crecimiento actual del desarrollo multimedial en el entorno de la web 2.0 (que contempla aplicaciones como redes sociales, foros, blogs, etc.) requiere actualmente de profesionales capacitados con una formación constante en las nuevas tecnologías de diseño, que se implementan en forma acelerada tanto en el ámbito social como laboral.\n\nEn la Diplomatura en Diseño Web y Multimedial aprenderás a analizar e implementar las principales tecnologías de diseño para el desarrollo web, proporcionándote el nivel de formación profesional ideal en este campo de permanente expansión.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2117/diplomatura-en-diseno-web-y-multimedial?id=999193767",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20232023.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura de Gestión De Inteligencia Estratégica 4.0",
+    "startDate": "Inicio de cursada\n 03/04/2024",
+    "duration": "15 Semanas",
+    "price": "$  81.176",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Msc Nancy Veronica Perez, Mi Ra Kim",
+    "summary": "La globalización de la tecnología y el conocimiento, como la transformación digital, exige a las organizaciones (empresariales, académicas o estatales) competir en un entorno (mundial, regional o local) cada vez más complejo, incierto y cambiante. Surgen, así, constantemente nuevos productos, servicios, procesos, tecnologías, materiales y softwares, donde tenemos que tratar de defender nuestra presencia en el mercado y acceder a otros nuevos.\n\nEn un entorno integrado, la producción de datos y la cantidad de información es abrumadora; los decisores de las organizaciones necesitan de instrumentos que les ayuden a orientar sus estrategias. Para ello tienen que valerse de herramientas de gestión de la información y el conocimiento usadas en el mundo, como es la Inteligencia Estratégica (IE).\n\nLa IE es un proceso de exploración, rastreo exhaustivo, análisis selectivo y producción de información y conocimientos específicos sobre un campo, tema o problema determinado. Es decir, la utilización de la IE es una forma de producir conocimiento para la conducción adecuada de una organización desde los sectores gerenciales para la toma de decisiones de una empresa, o las áreas principales de las Universidades y/o para una eficiente administración pública del Estado.\n\nLas organizaciones deben estar informadas sobre su entorno, especialmente para identificar aquellos cambios que supongan amenazas o beneficios para sus intereses. Necesitan conocer las tecnologías emergentes y aquellas que quedaron obsoletas, así como también las últimas líneas de investigación y los nuevos productos y servicios presentes en el mercado.\n\nAnte esta nueva situación, aumenta la exigencia para que las organizaciones accedan a la información de manera organizada, sistematizada y continua en el tiempo, pudiendo complementarse con las tecnologías de información y de comunicación (TIC).\n\nConocer las potencialidades de nuevas herramientas de gestión de información y del conocimiento, nos permitirán realizar búsquedas y análisis de información estratégica, confiable, precisa y de calidad, para el fortalecimiento de capacidades estratégicas y competitivas para la toma de decisiones.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2267/diplomatura-de-gestion-de-inteligencia-estrategica-4-0?id=999194052",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/360360.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Programación low code con Power Plaform",
+    "duration": "11 Semanas",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "",
+    "summary": "Sabemos que hoy en día las organizaciones necesitan resolver situaciones de negocio de forma rápida y eficiente. No pueden darse el lujo de insumir tanta cantidad de recursos (tiempo, esfuerzo, dinero) como les llevaría con tecnologias habituales. Es por eso que Microsoft nos trae una solución líder en el mundo Low Code para mejorarle la vida a las empresas, denominada Power Platform.\n\nEn este curso aprenderás a utilizar de manera rápida y eficiente las herramientas más importantes de Power Platform. Vas a poder crear aplicaciones de negocio utilizando Power Apps, realizar flujos automatizados con Power Automate y generar reportes gerenciales valiosos con Power BI. También aprenderás a integrar estas herramientas y utilizar otras de un mundo aún más grande, llamado Microsoft 365 (SharePoint, Teams, Outlook, etc).\n\nAl finalizar el curso estarás capacitado para diseñar soluciones corporativas de rápida implementación para cualquier organización que utilice Microsoft 365 y Power Platform ayudándolos a alcanzar resultados óptimos en sus problemas del día a día.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2992/curso-de-programacion-low-code-con-power-plaform?id=999193115",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23192319.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Especialización en Ingeniería en Telecomunicaciones",
+    "modalities": [
+      "Educación combinada",
+      "Clases online + presenciales."
+    ],
+    "teachers": "",
+    "summary": "Los cursos de posgrado a distancia del Centro de e-Learning UTN.BA permiten cursar a distancia algunos de los seminarios que componen la Especialización semipresencial en Ingeniería en Telecomunicaciones de la Escuela de Posgrado de UTN BA.\nBrindan a los alumnos la libertad de formarse a su ritmo y de forma completamente online, recibiendo créditos académicos para la especialización en Ingeniería en Telecomunicaciones de UTN.BA.\n\n \nSobre la Especialización en Ingeniería en Telecomunicaciones\n\nPrepara profesionales con una sólida formación en áreas científicas y tecnológicas, capacitados para el análisis, planificación, implementación y operación de las actividades relacionadas con las telecomunicaciones. \nLos graduados están habilitados para generar, desarrollar y gestionar proyectos de innovación y gestión de conocimientos tecnológicos con visión nacional y transferirlos adecuadamente a la industria local; desarrollar tecnologías para atender las necesidades de las redes de telecomunicaciones nacionales y resolver problemas de las telecomunicaciones desde una perspectiva ética integral, creando propuestas sustentables en el tiempo. \n\n \n\nMás información aquí\n\n \n\nCurso de Posgrado online\n\nPodrán realizar los siguientes cursos de posgrado en modalidad a distancia, los cuales otorgan créditos académicos para la Especialización en Ingeniería en Telecomunicaciones:\n\nSeminario de posgrado Programabilidad en Redes de datos\n\nDuración: 4 Semanas\n\nSeminario de posgrado Redes de acceso fijo\n\nDuración: 4 Semanas",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/maestria/1756/especializacion-en-ingenieria-en-telecomunicaciones?id=999186746",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1787ESPECIALIZACI%C3%93N%20EN%20INGENIER%C3%8DA%20EN%20TELECOMUNICACIONES.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Maestría en Ingeniería en Sistemas de Información",
+    "modalities": [
+      "Educación combinada",
+      "Clases online + presenciales."
+    ],
+    "teachers": "",
+    "summary": "Los cursos de posgrado a distancia del Centro de e-Learning UTN.BA permiten cursar a distancia uno de los seminarios que componen la Maestría semipresencial en Ingeniería en Sistemas de la Información de la Escuela de Posgrado de UTN BA. \nBrindan a los alumnos la libertad de formarse a su ritmo y de forma completamente online, recibiendo créditos académicos para la maestría en Ingeniería en Sistemas de la Información de UTN.BA.\n\n \n\nSobre la Maestría en Ingeniería en Sistemas de la Información\nForma profesionales del área informática y afines con título de grado, dotándolos de habilidades para conocer los aspectos tecnológicos más destacados de la disciplina, relacionados con la conversión, almacenamiento, protección, procesamiento, transmisión y recuperación de la información; aplicar metodologías de avanzada para el modelado y construcción de sistemas de información y priorizar el enfoque interdisciplinario y el trabajo para crear, mantener y potenciar programas de investigación y desarrollo científico/tecnológico.\n \n\nMás información aquí\n\n \n\nSeminario de posgrado online\n\nPodrán realizar los siguientes seminarios de posgrado en modalidad a distancia, los cuales otorgan créditos académicos para la Maestría en Sistemas de Información:\n\nSeminario de posgrado Diseño de aplicaciones basadas en Smart Contract (Contratos Inteligentes) para Blockchain\n\nDuración: 8 Semanas",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/maestria/1757/maestria-en-ingenieria-en-sistemas-de-informacion?id=999186745",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17861786.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Experto Universitario en Programación con especialización en un Lenguaje",
+    "duration": "28 Semanas",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "",
+    "summary": "Plan de estudios \nFundamentos de la Programación\n(3 meses)\nMás un lenguaje\nJAVA\t.NET\tPHP y MySQL\nDiplomatura en  Programación Java\n(4 meses)\tDiplomatura en  Programación .NET\n(4 meses)\tExperto Universitario en PHP y MySQL\n(6 meses)\nCertificado de aprobación  de:\nExperto Universitario en Programación con especialización en:\nJAVA\t.NET\tPHP y MySQL\nDestinatarios\n\nLa especialidad está dirigida a todos aquellos estudiantes interesados sentar las bases teóricas y prácticas del desarrollo de software, y que cuenten o no con conocimientos y/o experiencia previa.\n\nRequisitos previos\n\nNo se requieren conocimientos ni requisitos particulares previos.\n\nModalidad educativa\n\nLa modalidad es totalmente a distancia a través del Campus Virtual FRBA. Las actividades que se realizarán serán:\n\nLectura y estudio del material de cada clase, con dos clases semanales\nForos de discusión semanal propuestos por el docente en base a la teoría correspondiente\nConsulta al docente a través de e-mail\nActividades individuales y/o grupales de aplicación práctica semanal y por unidad temática\n\nSe trata de una modalidad básicamente asincrónica, que supera la instancia de autoestudio por la implementación de foros proactivos coordinados por el profesor-tutor. Estos foros cumplen cuatro funciones pedagógico-didácticas fundamentales:\n\nSon el lugar para la presentación de las dudas, consultas y opiniones críticas de los alumnos;\nSon el principal espacio para la generación de retroalimentación (feed back) entre profesores-tutores y alumnos y alumnos entre sí;\nEs el lugar específico para la discusión, coordinada por el profesor-tutor, de todos los temas tratados en los módulos de la especialidad o curso y\nEs el lugar para el aprendizaje entre pares de los alumnos.\n\nLas clases irán acompañadas de materiales (presentación de diapositivas, complementadas por documentos narrativos con los fundamentos teóricos y ejemplos prácticos), que ayudarán a los participantes en la comprensión e incorporación de cada uno de los temas desarrollados.\n\nModalidad de evaluación y acreditación\n\nCada tramo elegido posee su propia modalidad de evaluación y acreditación.\n\nCertificación\n\nSe extenderá un certificado de la Secretaría de Cultura y Extensión Universitaria, FRBA, UTN, al finalizar y aprobar la especialidad. Aquellos estudiantes que, aun habiendo participado activamente en los todos los módulos, no aprobaran las evaluaciones, recibirán un certificado de participación en la especialidad.\n\nDirección y cuerpo docente\nUlises Martins (PMP® - ITIL V3 Certified)\n\nUlises Martins es Ingeniero en Sistemas de Información de la Universidad Tecnológica Nacional (UTN). Posee un Postgrado en Ingeniería en Calidad (UTN), un Postgrado en Gestión Tecnológica (Universidad Austral) y las certificaciones Project Management Professional, Agile Certified Practitioner, Certified ScrumMaster e ITIL Foundation. Habiendo comenzado su carrera en 1996, trabajó en diversas posiciones (soporte, desarrollo, testing, integración, arquitectura y gestión de proyectos) en distintas organizaciones multinacionales.\n\nSu experiencia laboral comprende más de 20 años trabajando en proyectos de IT en compañías como Accenture, Telefónica de Argentina, Banco Santander, IBM, Capgemini, Banco Galicia, Banco de Córdoba y SAP.\n\nDe los distintos desafíos en los que trabajó se destacan el liderazgo de un equipo de más de 70 personas (SW Factory), Proyectos complejos distribuidos en Latinoamérica, Servicios de infraestructura para todas las sucursales y casas centrales de Banco Santander en Argentina, Proyectos de outsourcing para España y la Migración de Datos del sistema CORE Banking de Banco Galicia a SAP Banking Services (2M de Cuentas y 102M de movimientos).\n\nA nivel académico dirige el Posgrado de Gestión de Proyectos en la Universidad Tecnológica Nacional y es el creador y coordinador de diversos cursos a distancia, eLearning.\n\nActualmente se desempeña como Gerente de Programas para Latinoamérica en Kimberly-Clark.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1745/experto-universitario-en-programacion-con-especializacion-en-un-lenguaje?id=999186742",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17811745.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Desarrollo de Aplicaciones con IA (Open Source, ChatGPT y otros LLMs)",
+    "duration": "4 Semanas",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "",
+    "summary": "La Inteligencia Artificial (IA) lleva años de inversión en investigación y desarrollo. Como consecuencia de ello los modelos de lenguaje generativo como ChatGPT han dado un salto cualitativo que realmente pone en jaque a las aplicaciones tradicionales que no cuenten con algún nivel de “inteligencia” para ayudar a los usuarios, desde un simple chatbot y asistencias en la creación de contenidos hasta sugerencias sobre las acciones a realizar… todo recibe un empuje adicional de IA que años atrás hubiera sido imposible.\n\nEn este curso, aprenderás los conocimientos y habilidades para diseñar y desarrollar aplicaciones bien estructuradas utilizando Inteligencia Artificial, concretamente mediante modelos LLM y utilizando las mismas herramientas y técnicas empleadas por los productos de IA más avanzados.\n\nAdemás de los casos más populares como ser OpenAi ChatGPT, Google Vertex o Anthropic Claude te centrarás especialmente en los modelos open source (por ejemplo Meta LLAMA) en donde es posible lograr excelentes resultados sin depender de costosas soluciones y contando además con todo el soporte y evolución que se dan en las comunidades de código abierto.\n\nAl final del curso, estarás equipado con la experiencia necesaria para construir tus propias aplicaciones de alta calidad impulsadas por LLMs (ChatBots o cualquier tipo de desarrollo que pueda ser impulsado por Algoritmos de Inteligencia Artificial).",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3189/curso-de-desarrollo-de-aplicaciones-con-ia-open-source-chat-gpt-y-otros-ll-ms?id=999193697",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24272427-desarrollo-de-aplicaciones-AI-open-source-chatGPT.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Tecnicatura en Ciberseguridad",
+    "duration": "2 Años y medio",
+    "modalities": [],
+    "teachers": "",
+    "summary": "La Tecnicatura Universitaria -modalidad a distancia- en ciberseguridad, surge como la propuesta de formación de profesionales con una perspectiva sistémica y científica para abordar el ciberespacio, y por ende el cibercrimen.  \n\nEn consecuencia, el desarrollo  laboral incluirá tareas como diagnósticos en el ámbito de la ciberseguridad, intervención para aplicar técnicas y estrategias ante un hecho de ciberseguridad.\n\nObjetivo general\n\nSe apunta  a la formación especializada de profesionales  en el área de la ciberseguridad en  organizaciones –públicas o privadas- y/o de modo particular participando activamente de los proyectos en interacción con los agentes relacionados.\n\nPerfil del Egresado \nPoseerá conocimientos y capacidades para el trabajo de tipo multidisciplinario, el desarrollo de iniciativas en creación de emprendimientos, la elaboración de soluciones en situaciones de ciberdelitos a incidentes de ciberseguridad.\nPodrá diseñar e implementar estructuras para la gestión de la ciberseguridad en ámbitos privados y públicos.\n¿Por qué estudiar con nosotros?\n\nPodrás adaptar los tiempos al ritmo que le son propios de quienes deben combinar el trabajo con el estudio. La enseñanza- aprendizaje combina recursos, materiales, medios y estrategias didácticas que favorecen el desarrollo del aprendizaje autónomo y colaborativo. ",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2844/tecnicatura-en-ciberseguridad?id=999192084",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22762276.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Tecnicatura Universitaria en Desarrollo y Producción de Videojuegos",
+    "duration": "2 Años y medio",
+    "modalities": [],
+    "teachers": "",
+    "summary": "Próximamente\n\nLa industria de los videojuegos ha experimentado un crecimiento significativo en las últimas décadas, convirtiéndose en una forma de entretenimiento ampliamente difundida en diversas plataformas y géneros. Esto ha tenido un impacto relevante en la cultura, el arte, la educación y la economía. Los avances tecnológicos han mejorado la calidad de los videojuegos en términos de gráficos, jugabilidad, narrativa y características sociales.\n\n\nLa Tecnicatura en Desarrollo y Producción de Videojuegos surge como respuesta a la creciente necesidad de formar profesionales capacitados en el desarrollo y la producción de videojuegos. En esta industria, se requieren conocimientos técnicos y habilidades especializadas que abarcan desde el diseño interactivo y la programación hasta el arte digital, la animación, la narrativa y el diseño de sonido, entre otros aspectos fundamentales. Además, la industria de los videojuegos está en constante evolución, lo que significa que requiere constantemente profesionales altamente capacitados y creativos capaces de innovar y ajustarse a las últimas tendencias y tecnologías emergentes.\n\n¿A quiénes está dirigida?\n\nEste Tecnicatura Universitaria fue desarrollada como una oferta académica para personas interesadas en desempeñarse profesionalmente en equipos de desarrollo de videojuegos, como así tmbién quienes buscan generar proyectos y emprendimientos propios o para encargos de terceros. Su perfil integral brindará las herramientas y habilidades blandas necesarias para desenvolverse en las en todas las áreas involucradas en la creación de videojuegos.\n\nRequisitos previos\n\nTítulo secundario legalizado y/o convalidado\n\nPerfil del egresado\n\nEl Técnico Universitario en Desarrollo y Producción de Videojuegos estará preparado para:\n\nFormar parte del equipo de desarrollo de videojuegos de cualquier tipo, Pc, Consolas, Mobile.\n\nParticipar como parte del equipo de Technical Artist, desarrollar o colaborar en los procesos de arte y música de los proyectos.\n\nAsesorar en la post producción y comercialización de videojuegos.\nIntegrar equipos de trabajos multidisciplinarios en el área.\nPrograma de estudio\n\nCarga horaria: 1830 horas reloj\n\nDuración: 2 año y medio\n\nNIVEL 1\nCUATRIMESTRE\nProgramación 1\nProbabilidad\nDiseño de Juegos\nArte 2 D\nCUATRIMESTRE\nInglés 1\nProgramación 2\nGame Design\nArte 3 D\nAudio Interactivo 1\n\n\nNIVEL 2\nCUATRIMESTRE\nProgramación 3\nMotores de Desarrollo 1\nTechnical Art\nAudio Interactivo 2\nCUATRIMESTRE\nInglés 2\nNarrativa\nEstructura de datos\nMotores de desarrollo 2\nProducción de Videojuegos\n\n\nNIVEL 3\nCUATRIMESTRE\nÁrea optativa*: electiva 1\nÁrea optativa*: electiva 2\nÁrea optativa*: electiva 3\nPráctica Supervisada\n* Programación, Producción o Diseño\n\n\n\n¿Por qué estudiar con nosotros?\n\nSi buscás una propuesta académica de alto nivel que te permita construir tu propio aprendizaje y estudiar cuándo y dónde quieras, te invitamos a sumarte a esta carrera.\n\nLas clases de la Licenciatura en Tecnología Educativa se dictan completamente a distancia, a través de nuestro Campus Virtual. El Aula Virtual está disponible las 24 horas del día, lo que te permitirá organizar tus horarios y actividades cotidianas en relación a la cursada, y elegir el ritmo, horarios y lugar de estudio de acuerdo a tus preferencias y posibilidades personales.\n\nVas a aprender con docentes experimentados en la educación a distancia, que se actualizan continuamente para dar clases con un nivel académico de excelencia.\n\nMetodología\n\nForos proactivos de interacción y comunicación.\n\nEspacios de intercambio de experiencias y retroalimentación.\n\nMúltiples medios de comunicación con los docentes.\n\nMaterial de lectura obligatoria y complementaria.\n\nClases de consulta en tiempo real, que quedan grabadas en el Campus.\n\nAdmisión\n\nAntes de solicitar la admisión a la carrera, verificá que posees un título habilitante.\n\nPaso 1\nPaso 2\n\nRegistrate en nuestra web\n\nHaz clic en el botón “Inscripción”, completa tus datos y regístrate.\nAccederás al Panel de alumno. Allí, selecciona “Solicitar admisión” a la carrera.\nAvanza al segundo paso y envíanos la documentación requerida.\n\nUna vez realizado el registro y solicitada la admisión podrás avanzar al segundo paso y enviarnos la documentación requerida.\n\nRégimen de permanencia en el sistema y condiciones de regularidad\nexpand_less\nMetodología de enseñanza y evaluación\nexpand_less\nObjetivos de la carrera\nexpand_less",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2858/tecnicatura-universitaria-en-desarrollo-y-produccion-de-videojuegos?id=999192118",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22722272.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Tecnicatura en Ciencia de Datos e IA",
+    "duration": "2 Años y medio",
+    "modalities": [],
+    "teachers": "",
+    "summary": "La Tecnicatura Universitaria -modalidad a distancia- en Ciencia de Datos e Inteligencia Artificial, surge como la propuesta de formación de profesionales con enfoque multidisciplinario para el ámbito informático que posibiliten, de manera permanente y en tiempo real,  soluciones innovadoras mediante la tecnología en los campos de la comunicación, la robótica, transporte, y otros. \n\nLa formación apuntará al desarrollo de una actitud de anticipación a los nuevos escenarios y posibles cambios. \n\nLa Tecnicatura entiende la importancia de trabajar colaborativamente con profesionales de diversas áreas como la científica, médica, ingeniería, etc.  Por lo tanto, el desarrollo  laboral incluirá tareas como la utilización de herramientas de ciberseguridad,  asesoramiento, planificación y diseño de soluciones,  testeo de la calidad de la programación, exploración y limpieza de fuentes de datos, diseño de visualizaciones de información,  construcción de secuencias de análisis, y demás actividades que impliquen la Ciencia de Datos y/o Inteligencia Artificial, tanto dentro de organizaciones como con clientes particulares.\n\nObjetivo General\n\nFormar Profesionales que apunta  a la formación especializada de profesionales en el área de la Ciencia de Datos y la Inteligencia Artificial, en organizaciones y/o de manera particular participando activamente de los proyectos en interacción con los agentes relacionados. \n\nPerfil del Egresado \nPoseerá conocimientos y capacidades para liderar y gestionar proyectos y mejoras a nivel organizacional  a partir de los datos en tiempo real, mediante su captación y procesamiento.\nSerá capaz de brindar soluciones para las actividades comerciales, industriales y profesionales colaborando en el análisis e intercambio de datos e información, como también en la recopilación y almacenamiento.  \n¿Por qué estudiar con nosotros?\n\nPodrás adaptar los tiempos al ritmo que le son propios de quienes deben combinar el trabajo con el estudio. La enseñanza- aprendizaje combina recursos, materiales, medios y estrategias didácticas que favorecen el desarrollo del aprendizaje autónomo y colaborativo.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2859/tecnicatura-en-ciencia-de-datos-e-ia?id=999192125",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22732273.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Introducción a la programación en Android con Kotlin",
+    "duration": "8 Semanas",
+    "price": "$  19.533",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Emilio Esteban Rasic, Emilio Esteban Rasic",
+    "summary": "En 2017 Kotlin fue oficializado por parte de Google como nuevo lenguaje para el desarrollo en Android. Y desde esa fecha que este lenguaje no deja de crecer en adeptos y apps publicadas en Google Play. \n\nEsto se debe a que se trata de un lenguaje sumamente intuitivo y moderno, con características de lenguaje funcional, como las \"lambda expressions\", aunque basado en la misma JVM de Java, lo que lo vuelve 100% compatible con gran parte de la base instalada actual. \n\nEste curso introduce a todo aquel desarrollador que está buscando aprender una plataforma mobile basada en Android a poder, no solo comprender cómo funciona el entorno y programar aplicaciones Android, sino también poder hacerlo aplicando todas sus ventajas de Kotlin. \n\nA través de guías, laboratorios y ejemplos, se explicarán los elementos centrales que van desde la construcción de una aplicación básica hasta su publicación en Google Play, cumpliendo con el ciclo de programar aplicaciones Android.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1474/introduccion-a-la-programacion-en-android-con-kotlin?id=999188115",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1474.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Introducción a la programación en Android con Java",
+    "duration": "6 Semanas",
+    "price": "$  23.972",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Emilio Esteban Rasic, Maria Laura Tripaldi, Ulises Martins",
+    "summary": "Android se ha convertido en la plataforma más utilizada del mercado para dispositivos móviles (teléfonos y tabletas) e inteligentes (relojes, televisores, entre otros), superando el millón de aplicaciones publicadas en la tienda de aplicaciones de Google Play y más de 100 millones de descargas a nivel global. \n\nEn buena parte esto se debe a que fueron escritos en un lenguaje de programación estándar y abierto como lo es Java. \n\nEn esta formación intensiva de 6 semanas se presentan los primeros pasos para el desarrollo de aplicaciones móviles a partir del lenguaje Java para Android, desde las versiones iniciales del sistema operativo hasta las versiones finales, como ser Marshmallow (6.0), aunque complementando los aspectos técnicos con tópicos importantes como la publicación de apps en Play y inclusión de publicidad (ads) en las aplicaciones, entre otros. \n\nEl curso de programación también incluye un anexo para introducir al alumno en el lenguaje Kotlin.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/628/introduccion-a-la-programacion-en-android-con-java?id=999188361",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/245245.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso básico de Perito Judicial Informático.",
+    "duration": "16 Semanas",
+    "price": "$  70.374",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Analia Politi, Emiliano Morana, Dario Piccirilli",
+    "summary": "Éste curso brindará los elementos teóricos necesarios para encarar una pericia informática. donde se ilustrará sobre los roles que un perito debe cumplir durante la pericia de oficio o de parte, vinculada con los distintos fueros, haciéndose hincapié en las responsabilidades que el perito tiene durante su tarea, y en instancias posteriores a la presentación del informe pericial (declaraciones testimoniales, aclaraciones, impugnaciones, juicio oral). Los participantes, guiados por el docente deberán realizar casos de pericias sobre situaciones reales, con el objeto de definir un pensamiento y estrategia pericial, aplicando los conocimientos técnicos específicos según el caso legal seleccionado.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1167/curso-basico-de-perito-judicial-informatico?id=999188945",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Curso-b%E2%80%A0sico-de-Perito-Judicial-Inform%E2%80%A0tico.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Charla Informativa - Mercado Laboral IT: Desafíos y Oportunidades a Nivel Internacional",
+    "modalities": [],
+    "teachers": "",
+    "summary": "16/02 18:00hs\n\nMicroverse es una escuela de Silicon Valley con estudiantes en más de 140 países que ofrece un programa de práctica profesional para personas que buscan trabajar de forma remota para empresas globales en desarrollo de software. Nicolás Kneler, parte del equipo de Microverse enfocado en América Latina, viene a hablarnos del estado actual del mercado laboral global, y a traer unos consejos prácticos a la hora de salir a “trabajar para afuera”",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/webinario/2875/charla-informativa-mercado-laboral-it-desafios-y-oportunidades-a-nivel-internacional?id=999192284",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22812281.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Tecnicatura Universitaria en Ciudades Inteligentes",
+    "price": "$  13.000",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "",
+    "summary": "PROXIMAMENTE\n\nUna ciudad inteligente es una ciudad que aplica las tecnologías de la información y la comunicación para la mejora de la calidad de vida y la accesibilidad de sus habitantes, así como asegura un desarrollo sostenible económico, social y ambiental en progreso permanente.\n\nLa Tecnicatura Universitaria en Ciudades Inteligentes aborda el desarrollo de nuevos modelos de gestión que permitan administrar los recursos de manera eficiente, buscar una mayor participación e implicación de los ciudadanos y optimizar su calidad de vida. \n\nLa Tecnicatura responde entonces, a la necesidad de formar profesionales especializados para cumplir funciones técnicas o de gestión en las áreas que aborda un conglomerado urbano, además de brindar una verdadera herramienta para poder crecer y competir en sus actuales espacios de trabajo o bien insertarse rápidamente al mercado laboral.\n\n¿A quiénes está dirigida?\n\nLa Tecnicatura Universitaria en Ciudades Inteligentes propone brindar una alternativa de formación de pregrado a aquellos gestores de ciudades e instituciones, sean profesionales técnicos, empleados en general, o estudiantes que han concluido los estudios de la escuela media, que, se enfrentan al desafío de mejorar la calidad de vida y la accesibilidad de sus habitantes asegurando un desarrollo sostenible económico, social y ambiental en mejora permanente.\n\nRequisitos previos\n\nTítulo secundario legalizado y/o convalidado.\n\nPerfil del egresado\n\nEl Técnico Universitario en Ciudades Inteligentes estará preparado para:\n\nColaborar con los profesionales, especialistas y/o autoridades en tareas referidas a gestión de los recursos y servicios de las ciudades y áreas productivas tales como: tránsito, seguridad, energía, edificios públicos, transporte, estacionamiento público, administración, medio ambiente, recolección y tratamiento de residuos, entre otras.\n\nContribuir en la resolución de problemas de optimización de tiempos y contaminación medioambiental mediante\nplataformas de gestión de tráfico, apps para facilitar y ordenar la movilidad, la introducción de vehículos eléctricos, y\nnuevas formas de transporte individual y colectivo.\n\nCoordinar, conjuntamente con el profesional responsable, las tareas organizacionales para una comunidad rural\ninteligente en la mejora de la prestación de servicios.\n\nConvertir en indicadores urbanos las huellas digitales de movimientos, presencias, ausencias, hábitos y frecuencias; los que aplicados a los planes producirán efectos disruptivos y requerirá nuevos criterios en la formulación de la nueva\nPlanificación Urbana Inteligente.\n\nPrograma de estudio\n\nCarga horaria: 1622 horas reloj\n\nDuración: 2 años y medio\n\nNIVEL 1\nCUATRIMESTRE\n• Ciudad inteligente I\n• Movilidad urbana sustentable\n• Matemática y estadística\n• Participación ciudadana\nCUATRIMESTRE\n• Materiales\n• Gestión urbana de educación\n• Urbanismo\n• Tecnologías de la información y la comunicación\n\n \n\nNIVEL 2\nCUATRIMESTRE\nCiudad Inteligente II\nInglés\nMedio ambiente y sostenibilidad\nEnergía sostenible y eficiencia energética\nCUATRIMESTRE\nEconomía Inteligente\nSeguridad y Vigilancia\nServicios urbanos\nElectiva\n\n \n\nNIVEL 3\nCUATRIMESTRE\nSalud y sanidad\nSeminario\nProyecto Final\n\n¿Por qué estudiar con nosotros?\n\nPodrás adaptar los tiempos al ritmo que le son propios de quienes deben combinar el trabajo con el estudio. La enseñanza- aprendizaje combina recursos, materiales, medios y estrategias didácticas que favorecen el desarrollo del aprendizaje autónomo y colaborativo. \n\nAdemás, aprenderás con docentes experimentados en la educación a distancia, que se actualizan continuamente para dar clases con un nivel académico de excelencia.\n\nMetodología\n\nForos proactivos de interacción y comunicación.\n\nEspacios de intercambio de experiencias y retroalimentación.\n\nMúltiples medios de comunicación con los docentes.\n\nMaterial de lectura obligatoria y complementaria.\n\nClases de consulta en tiempo real, que quedan grabadas en el Campus.\n\nAdmisión\n\nAntes de solicitar la admisión a la carrera, verificá que posees un título habilitante.\n\nPaso 1\nPaso 2\n\nEnvía la siguiente documentación a través del formulario del Panel del alumno en formato digital (.PDF):\n\nFotocopia de DNI (anverso y reverso) (*). A partir del 31 de julio de 2016 el único DNI válido será el DNI tarjeta, ya que el resto de los DNI no tendrán vigencia; esto aplica para Argentinos y extranjeros (*)\nFotocopia de partida de nacimiento (anverso y reverso)\nCopia escaneada del título secundario (anverso y reverso) o constancia de título en trámite (*)\nSi tu título proviene del exterior, deberás presentar apostilla de La haya o certificación consular argentina junto con la convalidación del Ministerio de Educación de la República Argentina. Más información\n\n\nTomá en cuenta que se recibe únicamente documentación escaneada y enviada en formato .pdf. No se aceptarán fotos ni documentación que no sea legible.\n\nLuego de que hayas completado los pasos anteriores, deberás aguardar la respuesta a tu solicitud de admisión, que se realizará vía correo electrónico.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2851/tecnicatura-universitaria-en-ciudades-inteligentes?id=999192115",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21192119.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de REVIT",
+    "duration": "11 Lecciones",
+    "price": "$  68.190",
+    "modalities": [
+      "Encuentros en vivo",
+      "Asistencia obligatoria",
+      "Intercambio en campus virtual"
+    ],
+    "teachers": "Andrea Tatiana Nigro, Andrea Tatiana Nigro",
+    "summary": "Clases en vivo - Lunes de 19 a 21 hs.\n\nFrente a los nuevos cambios en el ámbito del diseño y la construcción se detecta una creciente demanda de nuevos softwares para trabajo y modelado BIM (Modelado de Edificios con Información). La misma es una tecnología que permite abordar el ciclo completo de un edificio. En el presente curso se aprende a utilizar REVIT, un software de diseño de Autodesk con el cual se puede implementar esta tecnología. Revit es una herramienta completa que además de cumplir con los requerimientos básicos de representación de proyectos combina datos y tareas para construir edificaciones de alta calidad. Permite crear diseños basados en objetos inteligentes y tridimensionales que se encuentran asociados entre sí para coordinarse automáticamente ante cualquier cambio. Es una herramienta con la cual se acortan los tiempos de trabajo y permite además planificar para evitar futuros inconvenientes en la obra.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1655/curso-de-revit?id=999190291",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16721672.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Curso de Diseño con Solidworks Nivel Intermedio - Conjuntos",
+    "duration": "13 Semanas",
+    "price": "$  35.000",
+    "modalities": [
+      "En vivo o acceso a las grabaciones",
+      "Recursos Multimedia",
+      "100% a distancia",
+      "Acompañamiento de tutores"
+    ],
+    "teachers": "Ing Sebastian Fenelli, Veronica Fonteriz",
+    "summary": "Con este curso, continuarás con la especialización en el manejo de herramientas de diseño paramétrico y de modelado 3D. Tendrás una continuidad pedagógica respecto del curso \"Curso de Diseño con Solidworks Nivel Inicial - Piezas\".\n\nAprenderás las herramientas de diseño que se requieren una vez que se domina el diseño de piezas independientes con el objetivo de poder ensamblarlas en conjuntos a la vez que se desarrollan otros contenidos como la creación de planos.\n\nIniciarás con una complejidad baja para que puedas interpretar el uso de la herramienta y luego irás aumentando dicha complejidad a medida que se presentan los distintos módulos del Software y sus funciones. De igual manera con los conceptos de Ensamblajes, Sub-Ensamblajes y Toolbox de SolidWorks terminarás el curso con la creación de planos tanto de piezas como de conjuntos ensamblados, incluyendo vistas explotadas y cortes entre otras herramientas.\n\nContarás con clases sincrónicas de fomación teórica y práctica así como documentación en formato digital accesible con teoría y ejemplos para repasar los contenidos vistos en clase. Los docentes transmitiremos nuestra experiencia profesional en el tema para ofrecer soporte y resolver sus dudas, facilitándote el aprendizaje hasta conseguir los objetivos del curso.",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2925/curso-de-diseno-con-solidworks-nivel-intermedio-conjuntos?id=999192916",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22942294.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Diplomatura de Professional Backend Developer",
+    "duration": "27 Semanas",
+    "price": "$  156.166",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano",
+    "summary": "El desarrollo web presenta múltiples facetas, las cuales además evolucionan con el tiempo. En sus inicios, era suficiente manejar lenguajes de marcas, como html, para desarrollar un sitio web funcional. En la actualidad, si bien los lenguajes que se utilizan del lado del servidor son muy importantes, no completan el desarrollo. Es necesario agregar funcionalidad a estas estructuras trabajando desde el lado del servidor, haciendo todo más dinámico. El desarrollador back-end trabaja del lado Servidor, permitiendo con su trabajo que el usuario disfrute de su experiencia. Sin él, el desarrollo llevado a cabo por desarrollador front-end no se sostendría. Esta Diplomatura está compuesta por los cursos: Desarrollo Web con PHP y Wordpress y Programador Web Avanzado",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2207/diplomatura-de-professional-backend-developer?id=999193623",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/461461.png&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Programador Web Avanzado",
+    "duration": "14 Semanas",
+    "price": "$  123.998",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Leandro Gil Carrano, Jon Gibaut, Yanel Ricarte",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1234/programador-web-avanzado?id=999190781",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Programador-Web-Avanzado.jpg&height=132&width=300",
+    "category": "Programación"
+  },
+  {
+    "title": "Desarrollo web con PHP y Wordpress",
+    "duration": "13 Semanas",
+    "price": "$  33.019",
+    "modalities": [
+      "100% a distancia",
+      "Material descargable",
+      "Acompañamiento de tutores",
+      "En vivo o acceso a las grabaciones"
+    ],
+    "teachers": "Yanel Ricarte",
+    "link": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2127/desarrollo-web-con-php-y-wordpress?id=999193621",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20432043.png&height=132&width=300",
+    "category": "Programación"
+  }
+]

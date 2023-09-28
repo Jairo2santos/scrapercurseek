@@ -1,0 +1,726 @@
+[
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1774/diplomatura-de-coaching-ludico-y-gamificacion-con-mindfulness-e-inteligencia-emocional?id=999192001",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/16391774.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1548/curso-de-gestion-del-cliente?id=999190925",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15081508.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1169/neurociencia-aplicada-a-las-organizaciones?id=999190669",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/349349.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1148/fundamentos-de-bpm-gobierno-y-organizacion-por-procesos?id=999193577",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/340340.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1147/diplomatura-en-gestion-por-procesos-de-negocio-bpm?id=999193578",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/456456.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2562/curso-de-trading-y-analisis-tecnico-de-cero-a-avanzado-con-binance?id=999190410",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21472147.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1134/administracion-y-contabilidad-para-no-especialistas?id=999191230",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/333333.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1552/curso-de-mi-primer-trabajo-como-jefe?id=999191170",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14651465.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/392/analista-de-inversiones-y-mercados-financieros-con-aplicacion-de-simulador-de-operaciones-bursatiles-en-tiempo-real?id=999191146",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/392.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1595/gestion-estrategica-y-riesgos-aplicado-a-los-sistemas-de-gestion-de-calidad-iso-9001?id=999190815",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1595.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/461/como-gestionar-una-pyme?id=999190698",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/214214.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/989/diplomatura-en-gestion-de-pymes-con-orientacion-en-comunicacion-eficaz?id=999190695",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/436436.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1117/seguridad-y-saneamiento-de-la-planta-industrial?id=999191800",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/324324.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/326/experto-universitario-en-comportamiento-organizacional?id=999190722",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/167167.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2116/diplomatura-de-felicidad-y-bienestar-organizacional?id=999192010",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17941794.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1266/product-owner-gestion-de-productos-con-metodologias-agiles?id=999190710",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/374374.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/118/diplomado-en-gestion-municipal?id=999190712",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/137137.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1542/diplomado-en-recursos-humanos?id=999191743",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1542.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2175/curso-de-evaluacion-y-clasificacion-de-areas-peligrosas?id=999190726",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14151415.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2048/curso-de-liquidacion-de-sueldos?id=999191696",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19831983.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1998/data-product-management-data-y-analytics?id=999190745",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19041904.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/180/introduccion-a-la-gestion-por-procesos?id=999191739",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/126126.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2798/curso-de-compliance-y-lavado-de-dinero?id=999191962",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22042204.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1145/marketing-y-canales-de-distribucion-en-las-industrias-artisticas-creativas-y-culturales?id=999190149",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Marketing-y-Canales-de-Distribuci%C2%A2n-en-las-Industrias-Art%C2%B0sticas-Creativas-y-Culturales.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2922/curso-de-administracion-de-personal-en-contextos-hibridos?id=999193023",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23022302.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2522/curso-de-introduccion-al-coaching-profesional?id=999193678",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21512151.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2598/costos-desde-cero?id=999190691",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22012201.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3167/curso-de-atencion-al-cliente-gestion-de-reclamos-y-medicion-de-la-satisfaccion?id=999193643",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18781878-Atenci%C3%B3n-al-cliente-gesti%C3%B3n-reclamos-medici%C3%B3n-de-la-satisfacci%C3%B3n.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2939/curso-de-administracion-de-tiempo-y-productividad-personal-con-chat-gpt?id=999193007",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23092309.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3199/metricas-agiles-con-jira?id=999193778",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24492449-M%C3%A9tricas-%C3%81giles-con-Jira.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2508/curso-de-como-convertirse-en-asesor-financiero?id=999190387",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21432143.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1376/operador-de-mercados-financieros?id=999190766",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/234234.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1715/taller-de-curaduria-en-el-arte-contemporaneo?id=999190361",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16611661.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3195/curso-de-equipos-agiles-de-alto-rendimiento?id=999193782",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24502450-Equipos-%C3%81giles-de-Alta-Performance.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1410/experto-universitario-en-estudios-de-terrorismo-y-crimen-organizado?id=999191087",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1410.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1983/diplomatura-en-product-management?id=999191287",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15641564.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1086/introduccion-a-iso-9001-2015?id=999190822",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/302302.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2599/curso-de-economia-para-principiantes?id=999190720",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22022202.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2929/curso-de-liquidacion-de-iva-y-libro-digital-iva?id=999193017",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22952295.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/posgrado/1218/posgrado-en-gestion-de-proyectos?id=999190801",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/460460.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3173/curso-de-liderazgo-agil-y-transformacion-organizacional?id=999193670",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24472447-Curso-de-Liderazgo-%C3%A1gil--transformaci%C3%B3n-organizacional.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2035/diplomatura-en-sistemas-de-gestion-de-la-calidad-iso-9001?id=999190813",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19471947-Diplomatura-en-Sistemas-de-Gesti%C3%B3n-Calidad-ISO9001.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/110/experto-universitario-en-lean-six-sigma-black-belt?id=999191829",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/136136.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/105/experto-universitario-en-lean-six-sigma-green-belt?id=999191832",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/Curso-online-Experto-Universitario-en-Six-Sigma-Green-Belt.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1460/curso-de-oratoria-persuasion-y-comunicacion-efectiva?id=999192097",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10131013.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/996/gestion-y-administracion-de-proyectos-de-automatizacion?id=999191922",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/292292.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2976/it-recruiter?id=999193111",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22962296.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/482/scrum-grand-master?id=999190970",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/220220.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/701/implementacion-de-un-sistema-de-gestion-de-seguridad-de-informacion-sgsi-basado-en-la-normativa-iso-iec-27001?id=999190491",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/248248.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1794/gestion-del-inversor-financiero?id=999191592",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/16871794.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/457/liderazgo-estrategico?id=999190804",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Liderazgo-Estrat%C3%87gico.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2801/inclusion-laboral-de-personas-con-discapacidad?id=999192292",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19211921.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/612/diplomatura-en-liderazgo-y-competencias-directivas?id=999190807",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/416416-Diplomatura-Liderazgo-Competencias-Directivas.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2521/curso-de-liquidacion-ingresos-brutos-convenio-multilateral-afip?id=999190399",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21442144.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/611/laboratorio-de-analisis-microbiologico-de-agua-y-alimentos-primeros-pasos-hacia-la-acreditacion-de-competencia?id=999191853",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/203203.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2474/freelancers-como-trabajar-por-tu-cuenta-y-captar-clientes?id=999193147",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21132113.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1587/implementacion-de-sistema-de-gestion-de-medio-ambiente-iso-14001-2015?id=999191058",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11011101.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2561/curso-de-monotributo-afip-argentina?id=999190436",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21452145.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1449/diplomatura-en-gestion-de-ventas?id=999190911",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14091409.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1546/curso-de-profesional-de-ventas?id=999190916",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15061506.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1151/tecnologias-bpm-simulacion-y-automatizacion-de-procesos?id=999190656",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Tecnolog%C2%B0as-BPM-Simulaci%C2%A2n-y-Automatizaci%C2%A2n-de-Procesos.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1300/diplomado-en-recursos-humanos-del-sector-publico?id=999191198",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/Curso-online-Diplomado-en-Recursos-Humanos-del-Sector-P%C2%A3blico.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2140/experto-en-project-management?id=999191025",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20542054.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1103/relaciones-economicas-internacionales-en-la-actualidad?id=999191946",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/317317.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2244/liderazgo-y-emociones-en-marcos-de-trabajo-agiles?id=999192082",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17971797.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2338/curso-de-trading-avanzado-en-criptomonedas?id=999193145",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20572057.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3278/curso-de-customer-experience-cx-nivel-introductorio?id=999194043",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24632463-Customer-Experience-Herramientas-para-gestionar-la-experiencia-de-cliente.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/381/gestion-agil-de-proyectos-pmi-acp?id=999191410",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/184184.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1600/agile-grand-coach?id=999191269",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15651565.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/551/analista-pmo-project-management-officer?id=999191251",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/232232.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/433/coaching-ontologico?id=999192281",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/211211.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/382/experto-universitario-en-reclutamiento-2-0-y-seleccion-por-competencias?id=999191176",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Experto-Universitario-en-Reclutamiento-2.0-y-Selecci%C2%A2n-por-competencias.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/380/introduccion-a-la-programacion-neurolinguistica-pnl?id=999192230",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/171171.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/309/contabilidad-basica-y-finanzas-para-no-especialistas?id=999191222",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/409409-.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/537/control-de-riesgo-de-proceso-psrm?id=999190482",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/231231.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1444/curso-de-comunicacion-para-directivos?id=999191073",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/13751375.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/63/control-estadistico-de-procesos?id=999191515",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/Curso-online-Control-Estad%C3%ADstico-de-Procesos.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/389/administrador-de-inversiones-y-gestion-de-patrimonios-financieros-con-aplicacion-de-simulador-de-operaciones-bursatiles-en-tiempo-real?id=999191143",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/389.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/552/valoracion-y-clasificacion-arancelaria-de-las-mercaderias?id=999191823",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/233233.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1933/curso-de-modelado-de-procesos-en-bpmn?id=999193573",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10201020.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1409/experto-universitario-en-mercado-de-capitales?id=999191139",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11951195.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1528/diplomatura-en-marketing-politico?id=999191556",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1528.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1085/auditor-interno-en-gestion-de-la-calidad-iso-9001-2015?id=999190818",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/441441.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1453/experto-universitario-en-counseling?id=999192091",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14201420.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2846/curso-de-neuromanagement-y-neuroliderazgo?id=999192190",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18021802.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1905/experto-universitario-en-administracion-de-consorcios?id=999191361",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17141714.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3216/curso-de-business-model-canvas-y-lean-canvas-con-chat-gpt?id=999193839",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24682468-Curso-de-BM-CANVAS-LEAN-CANVAS-con-ChatGPT.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1982/curso-de-habilidades-directivas-i?id=999191105",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19391939.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1963/diplomatura-en-sistemas-de-gestion-ambiental-iso-14001?id=999193149",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19221922.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1547/gestion-de-la-fuerza-de-ventas?id=999190920",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15071507.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1164/introduccion-a-la-norma-iso-14001-2015?id=999193164",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Introducci%C2%A2n-a-la-Norma-ISO-14001-2015.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/317/el-analisis-de-balance-enfocado-en-la-toma-de-decisiones?id=999191225",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-El-An%E2%80%A0lisis-de-Balance-Enfocado-en-la-Toma-de-Decisiones.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1124/curso-de-asistente-administrativo-inicial?id=999190617",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/454454.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/3192/experto-universitario-en-lean-management?id=999193722",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21342134-Experto-Universitario-Lean-Management.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2797/curso-de-responsabilidad-social-empresaria?id=999191126",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22032203.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3106/nuevas-formas-de-trabajo-y-empleos-del-futuro?id=999193766",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23922392-Nuevas%20formas%20de%20trabajo%20y%20empleos%20del%20futuro.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1456/inversion-y-trading-de-criptomonedas?id=999191705",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1456.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/391/analista-tecnico-financiero-y-bursatil?id=999191150",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/391.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1473/community-manager-estrategias-de-social-media-y-marketing-digital?id=999191490",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/13981398.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1457/curso-de-bases-de-la-negociacion-para-directivos?id=999191115",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1457.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1221/microorganismos-indicadores-en-el-analisis-de-aguas-alimentos-superficies-y-ambientes-de-trabajo?id=999191858",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Microorganismos-indicadores-en-el-an%E2%80%A0lisis-de-aguas-alimentos,-superficies-y-ambientes-de-trabajo.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2961/diplomatura-en-transformacion-digital?id=999193037",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17151763.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1417/agrofinanzas?id=999191701",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11991199.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1588/curso-de-investigacion-de-accidentes-de-trabajo?id=999191807",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1588.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1735/operador-de-bonos?id=999191589",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/17751775.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/284/metodologias-agiles-para-el-desarrollo-de-software?id=999191837",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/150150.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1268/dev-ops-integracion-y-agilidad-continua?id=999191709",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/376376.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1382/workshop-para-la-identificacion-de-peligros-y-evaluacion-de-los-riesgos-iso-45001-2018?id=999191675",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10961096.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3231/como-invertir-en-etf-desde-cero?id=999193886",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24292429-C%C3%B3mo-invertir-en--ETF-desde-cero.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1704/diplomatura-en-sistemas-de-gestion-de-la-seguridad-y-salud-en-el-trabajo-iso-45001-2018?id=999191682",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/13951395.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1999/curso-de-lean-six-sigma-certificacion-black-belt?id=999191834",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15821582.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2104/curso-de-growth-marketing?id=999191278",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19071907.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1394/introduccion-a-la-norma-iso-45001-2018?id=999191679",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10901090.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/226/formulacion-y-evaluacion-de-proyectos-de-tecnologia?id=999191562",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Formulaci%C2%A2n-y-evaluaci%C2%A2n-de-proyectos-de-tecnologia.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1654/curso-de-lean-six-sigma-certificacion-yellow-belt?id=999191813",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15801580.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1396/experto-universitario-en-gestion-de-riesgos-y-evaluacion-de-la-seguridad-y-salud-en-el-trabajo?id=999193882",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1396.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2637/curso-de-dinero-mercado-y-finanzas-4-0?id=999190758",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21552155.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1965/curso-de-analisis-y-diseno-de-procesos?id=999190662",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19291929.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2084/auditoria-cy-mat?id=999191933",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14791479.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1099/experto-universitario-en-relaciones-internacionales?id=999191936",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/313313.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1451/fundamentos-del-liderazgo-y-el-coaching?id=999191076",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/13711371.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2064/curso-de-auditor-interno-en-sistemas-de-gestion-de-la-seguridad-vial-iso-39001-2012?id=999191930",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/602064.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1190/trader-en-opciones-financieras-y-futuros?id=999191723",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/351351.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/471/como-dirigir-la-empresa-familiar?id=999190704",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/4/Curso-online-C%C2%A2mo-dirigir-la-Empresa-Familiar.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1384/diplomatura-en-metodologias-y-marcos-de-trabajo-agiles?id=999191275",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10241024.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1229/prevencion-del-lavado-de-dinero-y-financiacion-del-terrorismo?id=999191727",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/366366-Prevenci%C3%B3n-del-lavado-de-dinero-financiaci%C3%B3n-del-Terrorismo.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1966/diplomatura-en-derecho-internacional-humanitario-y-refugiados?id=999191050",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16911691.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1534/curso-de-seguridad-y-salud-en-el-uso-de-equipos-autoelevadores?id=999192256",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14761476.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/122/liderazgo-en-el-marco-de-la-gestion-del-cambio-competencias-directivas-empowerment-y-trabajo-en-equipo?id=999192147",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/Curso-online-Liderazgo-en-el-marco-de-la-gesti%C3%B3n-del-cambio_-Competencias-directivas,-Empowerment-y-Trabajo-en-equipo..jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2861/curso-de-alfabetizacion-financiera-para-principiantes?id=999192225",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22422242.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1984/curso-de-habilidades-directivas-ii?id=999191108",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19401940.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1150/medicion-y-transformacion-de-procesos?id=999193574",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Medici%C2%A2n-y-Transformaci%C2%A2n-de-Procesos.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1104/debates-de-la-politica-exterior-argentina?id=999191951",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/318318.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/813/oratoria-para-empresarios?id=999190554",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Oratoria-para-empresarios.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/393/ejecutivo-en-finanzas-y-mercado-de-capitales?id=999191153",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/393.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1543/curso-de-liquidacion-de-sueldos-y-jornales-para-la-industria-de-la-construccion?id=999192247",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14111411.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1605/curso-de-implementacion-de-sistemas-de-gestion-de-la-seguridad-y-salud-en-el-trabajo-iso-45001-2018?id=999191684",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1605.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1957/workshop-para-la-identificacion-y-gestion-de-los-aspectos-ambientales-iso-14001-2015?id=999193165",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10941094.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/700/auditoria-interna-de-un-sistema-de-gestion-de-seguridad-de-la-informacion-sgsi-basado-en-la-norma-iso-iec-27001?id=999190489",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Auditor-Interna-de-un-Sistema-de-Gestin-de-Seguridad-de-la-Informacin-SGSI.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/460/desarrollo-de-habilidades-y-competencias-para-dirigir-una-pyme?id=999190810",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Desarrollo-de-Habilidades-y-Competencias-Para-Dirigir-una-Pyme.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1389/curso-de-implementacion-de-sistema-de-gestion-de-la-calidad-iso-9001-2015?id=999190824",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11001100.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/462/como-comunicar-de-manera-eficaz?id=999190701",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-C%C2%A2mo-Comunicar-de-Manera-Eficaz.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1101/el-impacto-de-china-en-el-escenario-regional?id=999191942",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-El-impacto-de-China-en-el-escenario-Regional.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1105/brasil-de-america-del-sur-a-los-los-brics-de-la-region-al-mundo?id=999191953",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Brasil-De-Am%C3%87rica-del-Sur-a-los-los-BRICS-de-la-Regi%C2%A2n-al-mundo.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1553/curso-de-auditor-interno-en-sistemas-de-gestion-ambiental-iso-14001-2015?id=999193166",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1553.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1425/auditor-interno-en-sistemas-de-gestion-de-la-seguridad-y-salud-en-el-trabajo-iso-45001-2018?id=999191687",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1425.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1102/el-regionalismo-en-america-latina-aspectos-teoricos-y-ejemplos?id=999191947",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/316316.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/702/riesgos-controles-e-indicadores-de-gestion-de-un-sistema-de-gestion-de-seguridad-de-la-informacion-sgsi-basado-en-la-norma-iso-iec-27001?id=999190485",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Riesgos-Controles-e-Indicadores-de-Gesti%C2%A2n-de-un-Sistema-de-Gesti%C2%A2n-de-Seguridad-de-la-Informaci%C2%A2n-SGSI.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1594/diplomatura-en-capital-humano?id=999194024",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1594.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1405/diplomatura-en-proteccion-contra-incendios-y-seguridad-humana?id=999193624",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/10851085.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1136/diplomado-en-gobierno-abierto-y-gobierno-electronico?id=999194080",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/334334.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/520/experto-universitario-en-comercio-exterior?id=999194083",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/223223.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3111/curso-de-planificacion-gestion-y-evaluacion-de-politicas-publicas?id=999193821",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23902390-.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/684/experto-universitario-en-liderazgo-efectivo-de-personas-y-equipos-para-mandos-medios?id=999194086",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Experto-Universitario-en-Liderazgo-Efectivo-de-Personas-y-Equipos-para-mandos-medios.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2831/experto-universitario-en-desarrollo-y-mejora-de-la-cultura-organizacional?id=999193715",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18461846-Desarrollo-Mejora--Cultura-Organizacional.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1141/diplomatura-en-administracion-de-las-industrias-artisticas-creativas-y-culturales?id=999193201",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Diplomatura-en-Administraci%C2%A2n-de-las-Industrias-Art%C2%B0sticas-Creativas-y-Culturales.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1143/contexto-politico-y-economico-de-las-industrias-artisticas-creativas-y-culturales?id=999193202",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Contexto-Pol%C2%B0tico-y-Econ%C2%A2mico-de-las-Industrias-Art%C2%B0sticas-Creativas-y-Culturales.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1146/mercado-y-cadena-de-valor-en-las-industrias-artisticas-creativas-y-culturales?id=999193203",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Mercado-y-Cadena-de-Valor-en-las-Industrias-Art%C2%B0sticas-Creativas-y-Culturales.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1144/marco-juridico-fiscal-laboral-en-los-sectores-de-las-industrias-artisticas-creativas-y-culturales?id=999193204",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/337337.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2988/diplomatura-en-gestion-estrategica-de-proyectos-sociales-hacia-el-desarrollo-sostenible?id=999193680",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23432343-2.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1142/administracion-y-formulacion-de-proyectos-en-las-industrias-artisticas-creativas-y-culturales?id=999193205",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/335335.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/3123/tecnicatura-universitaria-en-seguridad-vial?id=999193587",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://assets.utnba.centrodeelearning.com/public-api/files/54664c40fb9be35cc503ec9f2ed2b46a/images&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2883/auditor-interno-iso-50001-gestion-de-la-energia?id=999192428",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20632063.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2243/tecnico-universitario-en-comercio-electronico-y-marketing-digital?id=999189730",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21192119.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2857/licenciatura-en-comercio-electronico?id=999192117",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22692269.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2842/licenciatura-en-negocios-digitales?id=999192083",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22772277.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1972/bitcoin-y-criptoactivos-perspectiva-tecnologica-economica-regulatoria-e-impositiva?id=999189575",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19021902.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1407/diplomatura-de-modelo-de-negocios-en-las-industrias-artisticas-creativas-y-culturales-iacc?id=999189866",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1407.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1468/curso-estrategias-y-recursos-para-un-cambio-laboral-efectivo?id=999189216",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14411441.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/804/tecnicatura-universitaria-en-administracion?id=999190496",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/8080.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2409/tecnicatura-universitaria-en-negociacion-de-bienes?id=999192907",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21682168.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/1478/licenciatura-en-higiene-y-seguridad-en-el-trabajo?id=999192898",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19381938.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/648/tecnicatura-universitaria-en-higiene-y-seguridad-en-el-trabajo?id=999192903",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/8181.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2276/licenciatura-en-administracion-de-empresas?id=999192897",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21222122.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2407/tecnicatura-universitaria-en-logistica?id=999192906",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21562156.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1843/como-gamificar-un-entorno-virtual?id=999190201",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/17731773.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1461/curso-de-innovacion-y-creatividad-para-directivos?id=999191118",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/13781378.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/699/fundamentos-e-introduccion-a-la-norma-iso-iec-27001-sistema-de-gestion-de-seguridad-de-la-informacion-sgsi?id=999190487",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/246246.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/698/diplomatura-en-implementacion-y-auditoria-de-sistemas-de-gestion-de-seguridad-de-la-informacion-sgsi-normativa-iso-iec-27001?id=999190484",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/419419.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1402/gestion-del-programa-de-seguridad-y-legajo-tecnico-en-obra?id=999192272",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11881188.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2749/test-campus-qa?id=999193616",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/static/no-image.png"
+  }
+]

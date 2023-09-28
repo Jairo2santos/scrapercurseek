@@ -1,0 +1,390 @@
+[
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3164/curso-de-servomotores-para-el-control-del-movimiento-en-la-industria?id=999193633",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23792379-Curso-Servomotores-para-control-del-movimiento-en-la-industria.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2227/curso-de-control-y-digitalizacion-de-variadores-de-velocidad?id=999190707",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19511951.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2560/curso-de-seguridad-electrica?id=999190478",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21762176-Curso%20de%20Seguridad%20El%C3%A9ctrica.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1358/diseno-de-iluminacion?id=999192107",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Dise%C2%A7o-de-Iluminaci%C2%A2n.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2151/diplomatura-en-operacion-de-plantas-industriales-y-energeticas-4-0?id=999192210",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20072007.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2625/diplomatura-en-operacion-de-plantas-industriales-de-cogeneracion-para-racionalizar-la-energia-4-0?id=999191881",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21922192.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1121/operacion-de-plantas-industriales-de-procesos-y-termicas?id=999191777",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/328328.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2628/diplomatura-de-seguridad-y-saneamiento-industrial-4-0?id=999191884",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21822182.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2626/diplomatura-en-operacion-de-calderas-de-alta-presion-4-0?id=999191890",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21842184.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2631/diplomatura-en-control-y-digitalizacion-de-variadores-de-velocidad-4-0?id=999191958",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21792179.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3152/curso-de-materiales-de-manufactura-aditiva?id=999193642",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24052405-Manufactura-aditiva.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1118/operacion-de-plantas-industriales-de-cogeneracion-para-racionalizar-la-energia?id=999191791",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/325325.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2630/diplomatura-en-medicion-y-control-de-los-procesos-industriales-4-0?id=999191887",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/21802180.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1559/curso-de-composites-de-fibra-de-carbono?id=999190335",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/1380carbono%201.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1117/seguridad-y-saneamiento-de-la-planta-industrial?id=999191800",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/324324.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2067/operacion-de-plantas-industriales-y-energeticas-4-0?id=999191794",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19032067.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1482/diseno-de-sistema-de-deteccion-de-incendio-y-gas-por-prestacion-para-instalaciones-petroleras-y-petroquimicas?id=999190575",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1482.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1119/operacion-de-calderas-acuotubulares-de-alta-presion?id=999190609",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/326326.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1354/introduccion-a-la-planificacion-y-control-de-la-produccion?id=999191609",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/6868.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/263/gestion-de-la-energia?id=999190986",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/110110.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2162/medicion-edicion-y-control-de-los-procesos-industriales?id=999190828",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19501950.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1107/valvulas-de-procesos-seleccion-dimensionamiento-y-aplicaciones?id=999191908",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-V%E2%80%A0lvulas-de-procesos-Selecci%C2%A2n-Dimensionamiento-y-Aplicaciones.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2611/curso-de-tecnicas-operativas-de-seguridad-y-gestion-de-riesgos-en-espacios-confinados?id=999190888",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20602060.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/260/energia-solar-y-eolica-de-baja-potencia?id=999190984",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Energ%C2%B0a-solar-y-e%C2%A2lica-de-baja-potencia.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2924/curso-de-diseno-con-solidworks-nivel-inicial-piezas?id=999192915",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22612261.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2563/diplomatura-en-seguridad-en-la-industria-del-gas?id=999193691",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20612061.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1398/legislacion-y-gerenciamiento-en-microcervecerias?id=999190278",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1398.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3113/gestion-ambiental-analisis-de-la-transicion-energetica-social-productiva-y-economica-en-proceso?id=999193667",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/23932393-Agenda-Ambiental-Desarrollo.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1535/curso-de-introduccion-a-la-fabricacion-de-cerveza?id=999191067",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/15021502.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/299/experto-universitario-en-computos-y-presupuesto-de-obras?id=999190833",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/408408.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/259/diplomatura-en-tecnologia-y-gestion-de-la-energia?id=999190983",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/398398.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1334/evaluacion-sensorial-de-los-alimentos?id=999191860",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/2121.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/996/gestion-y-administracion-de-proyectos-de-automatizacion?id=999191922",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/292292.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1303/abastecimiento-just-in-time?id=999191605",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/396396.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/303/termodinamica-y-maquinas-termicas-para-no-especialistas?id=999190997",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/162162.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/611/laboratorio-de-analisis-microbiologico-de-agua-y-alimentos-primeros-pasos-hacia-la-acreditacion-de-competencia?id=999191853",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/203203.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2930/curso-de-tecnicas-de-automatizacion-y-control-industrial?id=999193021",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19481948.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/604/gestion-de-stocks?id=999191597",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/201201.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1299/experto-universitario-en-diseno-de-plantas-fotovoltaicas?id=999191352",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/393393.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1345/lean-construction?id=999191763",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Lean-Construction.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/613/buenas-practicas-de-manufactura-en-la-industria-alimentaria?id=999191414",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Buenas-Pr%E2%80%A0cticas-de-Manufactura-en-la-industria-alimentaria.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3151/curso-de-tecnologias-de-impresion-3-d?id=999193637",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24062406-Tecnolog%C3%ADas-de-impresi%C3%B3n-3D.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1106/automatizacion-de-casas-y-edificios-basico?id=999191372",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/320320.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2018/saberes-y-capacidades-para-el-uso-de-sistemas-de-informacion-geografica?id=999190569",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18561856.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/537/control-de-riesgo-de-proceso-psrm?id=999190482",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/231231.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/264/petroleo-y-gas?id=999190999",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Petr%C2%A2leo-y-Gas.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/554/bases-de-matlab-con-aplicaciones-a-las-ciencias-e-ingenierias-basico?id=999192019",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/4/Curso-online-Bases-de-Matlab-con-Aplicaciones-a-las-ciencias-e-ingenier%C2%B0as.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1165/experto-universitario-en-gestion-de-proyectos-por-cadena-critica?id=999191898",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/457457.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/610/analisis-de-peligros-y-puntos-criticos-de-control-de-alimentos-el-sistema-haccp?id=999191826",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/242242.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1166/experto-universitario-en-gestion-de-costos-en-la-construccion?id=999191894",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/458458.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/364/patologia-de-la-construccion-lesiones-y-fallas-deteccion-diagnostico-y-solucion?id=999192044",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Patolog%C2%B0a-de-la-Construcci%C2%A2n_-Lesiones-y-fallas.-Detecci%C2%A2n,-diagn%C2%A2stico-y-soluci%C2%A2n.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3044/curso-de-gestion-de-alimentos-y-bebidas-en-gastronomia?id=999193218",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16481648.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1438/curso-de-especificaciones-tecnicas-para-componentes-de-automatizacion-industrial-basico?id=999191915",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1438.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1567/curso-en-aire-comprimido-y-neumatica?id=999191752",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1567.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1537/curso-de-gestion-de-transporte?id=999191601",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14421442.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2152/electricidad-domiciliaria-nivel-basico?id=999191247",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/19571957.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1367/modelos-logisticos-para-e-commerce?id=999191815",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Modelos-Log%C2%B0sticos-Para-ECommerce.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/304/electrotecnia-y-maquinas-electricas-para-no-especialistas?id=999190994",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/163163.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3161/curso-de-diseno-3-d-avanzado?id=999193639",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24072407-Curso--Dise%C3%B1o-3D-Avanzado.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/265/energia-nuclear?id=999190991",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/112112.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/527/administracion-de-contratos-de-ingenieria-y-construccion?id=999191357",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/4/Curso-online-Administraci%C2%A2n-de-Contratos-de-Ingenier%C2%B0a-y-Construcci%C2%A2n.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2017/saberes-y-capacidades-para-el-uso-de-herramientas-de-tecnologia-satelital?id=999190566",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18571857.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1225/dimensionamiento-de-canerias-y-tecnicas-de-piping-basico?id=999191919",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/363363.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1543/curso-de-liquidacion-de-sueldos-y-jornales-para-la-industria-de-la-construccion?id=999192247",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/14111411.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1586/diseno-de-productos-y-nuevas-lineas-en-cervecerias?id=999190282",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1586.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1561/curso-de-elaboracion-de-bebidas-destiladas?id=999192277",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1561.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/411/regulacion-energetica?id=999190989",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/200200.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3153/curso-de-introduccion-a-la-robotica-para-impresion-3-d?id=999193641",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24082408-Rob%C3%B3tica-impresi%C3%B3n-3D.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1347/bim-para-proyectos-de-edificacion-e-infraestructura?id=999192269",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-BIM-para-proyectos-de-edificaci%C2%A2n-e-infraestructura.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/261/energia-eolica-de-potencia?id=999191002",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/2/Curso-online-Energ%C2%B0a-E%C2%A2lica-de-Potencia.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2925/curso-de-diseno-con-solidworks-nivel-intermedio-conjuntos?id=999192917",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22942294.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3191/gestion-de-riesgos-en-operaciones-con-soldadura?id=999193713",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20582058-Gesti%C3%B3n-de-riesgos-operaciones-soldadura.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1760/experto-universitario-en-direccion-de-mantenimiento-de-parques-eolicos?id=999194057",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/16001760.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1192/experto-universitario-en-desarrollo-de-un-parque-eolico?id=999194030",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/353353.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/2957/diplomatura-en-investigacion-de-incendios-y-explosiones?id=999193099",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/22142214.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/385/remediaciones-ambientales?id=999193753",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/186186.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1281/experto-universitario-en-tecnologia-de-turbinas-eolicas-de-potencia?id=999193819",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/379379.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1298/experto-universitario-en-energia-solar-termica?id=999194064",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/Curso-online-Experto-Universitario-en-Energ%C2%B0a-Solar-T%C3%87rmica.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/maestria/1752/maestria-en-gestion-de-residuos-solidos-urbanos?id=999186744",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1785MAESTR%C3%8DA%20EN%20GESTI%C3%93N%20DE%20RESIDUOS%20S%C3%93LIDOS%20URBANOS.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/maestria/1758/maestria-en-ingenieria-ambiental?id=999186743",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1784MAESTR%C3%8DA%20EN%20INGENIERIA%20AMBIENTAL.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1331/diplomatura-en-operacion-de-plantas-industriales-en-el-entorno-rural?id=999188809",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/6262.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1273/diplomatura-en-operacion-de-plantas-industriales-de-cogeneracion?id=999188797",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Diplomatura-en-Operaci%C2%A2n-de-plantas-industriales-de-cogeneraci%C2%A2n.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2195/curso-tecnicas-operativas-de-prevencion-y-proteccion-contra-explosiones?id=999189706",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/20592059.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1274/diplomatura-en-operacion-de-plantas-industriales-de-biomasa?id=999188804",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Diplomatura-online-en-Operaci%C2%A2n-de-plantas-industriales-de-biomasa.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1529/curso-de-filosofia-de-diseno-seguro-para-la-industria-del-petroleo-petroquimica-y-gas?id=999189856",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1529.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1120/operacion-de-plantas-industriales-de-biomasa?id=999188784",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Diplomatura-online-en-Operaci%C2%A2n-de-plantas-industriales-de-biomasa.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1346/gestion-y-operacion-de-industrias-rurales-sustentables?id=999188785",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/3/Curso-online-Gesti%C2%A2n-y-Operaci%C2%A2n-de-Industrias-Rurales-Sustentables.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2082/curso-de-introduccion-a-la-bioenergia?id=999191753",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18341834.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1390/diplomatura-en-microcervecerias?id=999190272",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11141114.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/1463/experto-universitario-en-iluminacion?id=999192101",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11801180.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/3144/experto-universitario-de-impresion-3-d?id=999193638",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24042404-Experto-Universitario-Impresi%C3%B3n-3D.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3154/curso-de-diseno-de-producto-con-impresion-3-d?id=999193640",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/24032403-Dise%C3%B1o-producto-impresi%C3%B3n-3D.jpg&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1480/curso-de-analisis-de-riesgo-operacional-haz-op-s-para-la-industria-del-petroleo-petroquimica-y-gas?id=999191070",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.online/files/images/image_learning_proposal/1480.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1388/curso-de-insumos-procesos-e-ingenieria-de-planta-en-la-industria-cervecera?id=999190276",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/11151115.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/2165/experto-universitario-en-mantenimiento-y-reparacion-de-turbinas-eolicas-de-potencia?id=999190372",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/16011601.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/1992/saberes-y-capacidades-para-el-trabajo-con-la-tecnologia-satelital?id=999190563",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18551855.png&height=132&width=300"
+  },
+  {
+    "courseUrl": "https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/2019/experto-universitario-en-tecnologia-satelital-teledeteccion-y-sistemas-de-informacion-geografica?id=999190560",
+    "imgUrl": "https://sceu.frba.utn.edu.ar/e-learning/api/images?url=https://sigead.utnba.centrodeelearning.com/files/images/image_learning_proposal/18531853.png&height=132&width=300"
+  }
+]
