@@ -1,0 +1,562 @@
+[
+  {
+    "courseUrl": "https://www.coursera.org/specializations/claves-genero",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/37/90f733a31f45c383941e4f8f35b375/Genero_curso-general.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/creatividad-diseno-innovacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d396qusza40orc.cloudfront.net/phoenixassets/Spanish-Launch-10-7-images/Thumbnails%20of%20Banner%20%28Logos%29/innovationbanner_720.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/database-systems",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/83/3c9f06b7fa439b9b95a4249fde0e18/Database-System_0.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/programacion-android",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/71/619d2aa27e4170bdf85fbf90678f19/Android_0.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/negociacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ae/6fdff9aaa94f4ba85198a04e15578e/EstrategiasNegociacion_0.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/evaluacion-educativa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/43/7e20badddc4f83a311f20b51f61cac/EvaluacionEdu_0.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/finanzascorporativas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0e/0347d03ba841cd8592c5b95eaaca7a/Finanzas_0.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/fundamentos-empresariales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/f2/eae2e60fed4a7d938d79eb34e47289/1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/gobiernocorp",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/01/15bd6be0134da5839cc7614818463d/PE-GobiernoCorporativo.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/habilidades",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/d9/c68e201c814a3689eb2efe239d1700/Habilidades-gerenciales_0.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/innovacion-digital",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/3b/07f41662fd4acf9c1b066dea25b0fb/PE-Innovacion-digital.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/inteligencia-artificial",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/f1/228cd0c4f9414abdec44975e4ec99c/IA_0.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/nuclear-fuel",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/61/7d552f065e4869a53a5c80de633364/program.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/prodmusical",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/66/4126df96a84bcd99abd712b5e1da7d/PE_TecMusical_Produccion.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/progmusical",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/df/a99ad8e7a7444bab0fadd34765caa2/PE_TecMusical_Program.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/tecnologia-musical",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c3/727c2670b64382be3811503ac97d40/TecMusical_0.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/como-autoconstruir-tu-vivienda-segunda-etapa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/14/d1ddfe6f014e83b4df44496132c019/AutoConstruirViv2_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/credito",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5c/731a7464f64dcbaa4266817984cd08/CreditoyCobranza_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/inferencia-estadistica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0c/3e2b6b5a2c49e8b7781e4dd1c5042a/estadisticaII-Logo.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/intro-produccion-audiovisual",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/84/2f1bd6623b44fc9341fd155817b2a8/ProdAudiovisual_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gobiernocorp-anteced",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0c/13576f71304644a666d840b6e247d7/PE-GC-Curso1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/resultados",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/24/a35193920746a6b861a9cf51b73563/Habilidades-gerenciales_5.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estrategia-financiera",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/21/6aa19a7cb14482b23b367c58c48cd0/28.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/fundamentos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/91/57b4d982c644d384ad844eb1e3f440/Android_2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/valuacionempresas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/03/52e4ca65f4423dbc8d55de79456392/Finanzas-5.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/nfm-backend",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/40/a246a032ed4a2e91787dd658832200/LOGO_nuclear-fuel_back-end_propuesta-2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/nosql-databases",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5e/054c7165dc474e9a074d3c7b99072f/Database-System_3.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/grabacion-musical",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0d/3dcc31a81e4395866d94a53ca81367/TecMusical_2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estrategias-digitales-innovacion-ciudades-hidrointeligentes",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a3/9c1543de5f4935bf9c1f83f892a7ef/Hidrointeligentes_logo.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estrategias-negociacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d8/dc088bf3814a6981d8de47e0b230ed/EstrategiasNegociacion_4.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/aplicaciones-android",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/79/598dd9440540d9b01699c240ca5392/Android_4.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/aguila-serpiente",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/12f323ba674f5ea73f31c77f0af3dd/CEPE_LOGO_1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estadistica-probabilidad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4e/7dd1967ea84e5981f93458b32e5ec3/EstadisticayProb_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/genero-igualdad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ba/703eba4531496584cc7d4dced41381/LOGO-Genero-final.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/razonamiento-artificial",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/92/b2f9902e9848b4b676c3af9a218ace/C2_IArtificial.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/quimica-etica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f6/f35c6bf2a44496a3a2ad7c65d44a35/QuimicaGuerraE2_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/iagenerativa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/62/7f8b29f17f497baf7d3b2c52e8f8b9/Logotipo_IAgen_enelaula.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/darwin-origen-evolucionismo-moderno",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/cb/7ad6c4639049c8815b8fc86c291367/Darwin_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/soluciondeproblemas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2b/b9c3201db44003a953e36a898bdbf1/Habilidades-gerenciales_4.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/construyendo-android-proyecto",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/13/ea7fd986e14924903e5e754cdc37c7/Android_5.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/autentica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ae/1b58a78d754da08d456bdfde3715f1/WhatsApp-Image-2022-04-01-at-5.52.33-PM.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/aplicaciones-musicales-arduino",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/37/f029cdcd464936b60571da766bba4d/TecMusical_5.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/inteligencia-artificial",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8a/f9ee8efa714e1ab41f0437bb874410/IA_9.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/ciencia",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/99/5b30451d4d4624addee6e55f53a6c4/PensamientoCientifico_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estrategias-de-negociacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/21/e470078e6742b9a5770d8925484a8d/EstrategiasNegociacion_1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estudio-bienes-comunes",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6f/2fd76274e24aa196cebce623684312/BienesComunes_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/violencia-genero",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/98/89c126e2a1457e8883af0db88da09e/logo_curso2.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/dialisis-peritoneal",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/333ba931ba4e9483b17febe5996208/Dialisis2_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/farmaco-odontologos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/56/2186047a2f4ad79453c4c12cf01d9c/FarmacoOdonto_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/intro-produccion-musical",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a4/14e93a2abe4dc18f91dcca7f759767/TecMusical_1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/sustentabilidad-intro",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b6/9ba6337d8240fab96d645f56d9bd27/PROMO-MOOC-FEB3.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/qimica-carbono",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ac/97d4d9f94b4548b6cc84505ffb00da/QuimicaCarbono_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/94/f9e087fa7f4ccfb35c6c1363761522/ProgramacionConR_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/simulacion-salud",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d9/516ff6d46c47ecaed0a007690065ec/Logotipo_SimCienciasdelaSAlud.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gestion-del-talento",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/53/9532c4bb2746c39f6ac50160c2c65f/Habilidades-gerenciales_2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-java",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/55/7b3941150f4632b9818e71d2ff7c27/fba781ae2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/anticorrupcion-introduccion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6e/31072e12934d09a96dbf7317182f40/Anticorrupcion_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gestion-de-productividad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/64/b01fa0c66b40d4b815a151541c4653/30.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/riesgos-fenomenos-naturales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/06/42c763011c404d967a7e44ce6fd0d9/EvalPeligroR2_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/creatividad-proyecto-final",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5d/689a2063a811e5970465692c5b4361/InnovationBanner-_1_-_2_.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/evaluacion-aprendizaje-enfoque-cuantitativo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/90/95199cd827425e9a6a9668f06b6679/EvaluacionEdu_2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/genero-derechos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bc/24f08f4d9943009136fce8db989b01/logo-genero-III.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/mercado-investigacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/7b69b8e6134292857f643f1490b1c5/29.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/enlinea",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4c/739f568d374f2ea456183eade2348e/Modelo-para-armar_FINAL.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/como-hacer-una-tesis",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/49/d67ecb9f074c49abab761b21eb5dc1/como_hacer_una_tesis_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/comportamiento-adapta",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/0ed548358b4b3785f178c367d9400e/IA_6.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/admonfinanciera",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c3/1f53e13be647928858edae554104c8/Finanzas-1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/tratamiento-caries",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/50/7dc6f1122c4a929bf050e37e008c59/Manejo-moderno-de-la-caries-dental_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estrategicos-empresariales-proyecto",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/25/fa4cf2ce6c4066a944fa710e28b767/31.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/arduino-aplicaciones",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d2/a9d33984a5413888ba45c25e57cbcd/Arduino_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/hd",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9f/4f8248efc6413dbf7fc21235377459/logo2_HD.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estaciones-clima",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1f/4f132eaa054faa8c5b945d9cceff08/LasEstaciones2_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/business-intelligence-data-warehousing",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/40/f81d05092d49b6910cd89618a13f49/Database-System_2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/proyectofinanzascorporativas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ef/d82ead5b6945a8be423c0f94af7fad/Finanzas-6.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/como-autoconstruir-tu-vivienda",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ab/8723b0c7fd462ba8e309016ba93bd6/AutoConstruirViv1_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/aprendo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/74f2b13e474372af0d63270a477370/Aprender_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/trigonometria",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/64/7049933b784f00b456f09bf03c8a3a/Trigonometria_ver2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/audio-digital-pure-data",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/cc/2b21d073724cd280c9cce447fa372e/TecMusical_3.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/hgproyectofinal",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/8f6f5821164297855b8db06027e55d/Habilidades-gerenciales_6.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gobiernocorp-estruc",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/31/c6959003a443339a3e6579207e899f/PE-GC-Curso2.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/quimica-alimentos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c6/c2fd6b0abb40b2bfa06aee777cddd8/logo_quimica.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/robotica-inicial",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2f/ed65d2cb3c45f896c1917b12f2a071/Robotica_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/designthinking-docencia",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d3/8235510b7a4003925af7ac63053703/AtreveteaInnovar_PensDiseno_FINAL.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/evolucion-teoria-sintetica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/33/ec336ab2094f1f973fa057a8a6741a/logo-3.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/periodismo-digital",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bb/2de341ebde4098b9e816ee9102d648/PeriodismoDigitalFakeN_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/control-automatico",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/96/60a3ab1132424984aa775dfdf5973a/ControlAutomatico2_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/negociacion-proceso",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e6/20b425a48f46a4bba90557d8864d1d/EstrategiasNegociacion_3.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/quimica-en-mi-casa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bf/7d68f6a8fb49b9927c92682f22bac4/QuimicaenMiCasa_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/evaluaciondeinversiones",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/94/0cf46185cb4c85813d1cf31dd843bb/Finanzas-3.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/proyecto-negociacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4a/ea7a4345394f5e8b05e2811153dae1/EstrategiasNegociacion_5.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/autoridad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/82/64af81875545a1b3f5f82554da4813/HabilidadesGerencialesC1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gobiernocorp-norma",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/26/bf254a6a0144628f83fa285a3888fb/PE-GC-Curso3.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/creatividad-computacional",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6f/b755d4bfc74d33adbef29dfa0a7b00/IA_7.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gestion-riesgo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d5/c102bf7ed7480f90cb761bcf12cb86/GestionRiesgos_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/algebra-basica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6d/b71e9bfe5742699a72cc61c3308491/Algebrabasica2_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/finanzas-personales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d3/bc870cf2164d5facb8114be96f9fb6/FinanzasPersonales_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/empresas-familiares",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b0/77245a07ed472da5f96552a08d8b10/Empresas-familiares.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/residente",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/97/9c0a8da364444aab73ae83c698e7c9/MedicoResidente_final.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/nfm-frontend",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/84/8ef91b99ab4d8d9339b7e54c571e29/LOGO_nuclear-fuel_front-end_propuesta-2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/evaluacion-educativa-proyecto-final",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f6/dd9832e11b45259b157892ad210c36/EvaluacionEdu_4.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/usos-didacticos-del-cine",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f4/053b5385c842a5995245b6225da828/UsosDidacticosCine_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/antibioticos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fd/577394706e469f92c2e4aeef0a306f/LOGO-Antibioticos_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/nfm-incore",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/189c4aa4044483a9f1ad24d8a92f1e/LOGO_nuclear-fuel_in_core.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/computo-evolutivo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/21/48c4d848d24fb2875c4789a2664f44/IA_5.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/funciones-algebraicas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/05/b2039234f1461e81a17266d6ba8955/FuncionesAlgebraicas_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/farmacovigilancia-ocular",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/52/b3a220506241d7a38fa8624222af08/FarmacovigilancaOcular_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/data-intensive-applications",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/43/f11c66b861477bb3c1ee36bf1e80d0/Database-System_4.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/desarrollo-de-aplicaciones",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/dd/40c00e71874bbb8e1ad7e7b20b6a34/Android_3.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/63/acf355d0fa4f6ab394ced11625d14c/IA_1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/cognicion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/40/122a1265594627a60ff8540ca6e28c/IA_8.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/liderazgo-innovacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/45/413a183e23450e90224786e2ef4f0b/LOGO-Liderazgo-e-Innovacion.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/etica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/23b33c36064572bb3579c53f743911/LaSolucionCEtico_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/matematicas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6c/a212dc3549455fa03ac5d3473fa59e/Finanzas-2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/prospectiva",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/53/564bf2d98d4d81acdb759406cb47bf/Propectiva_juridica.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/cuidado-heridas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/dc/2b03f5775049faaee16d064ad32381/CuidadoHeridas_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/python-usuario",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0c/07d90fa6804aef87b769eff934009f/logo-python.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/colabora",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/92/717403d5eb4427bbd1cdb614600b47/mooc_colaboracion.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/creatividad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7e/6657c65aa84e46a5d0d72f4e9f080a/SerMC_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/evaluacion-educativa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bc/d5b812bb8840a5b090b7ccdde48f82/EvaluacionEdu_1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/orden",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e5/0e9a36753b455a8ddc6fe1ec354596/Habilidades-gerenciales_3.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/tecnologia-musical-proyecto",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/79/9c32198ac04dbc94fea648efa104f2/TecMusical_7.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/relational-database",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/16/c039764136428c9211ea64bfd18372/Database-System_1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/cancer-prostata",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/3c/a5edb78118431896d44d612b82713e/CancerProstata_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/actualizacion-manejo-diabetes-tipo-2",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/20/b613075a114574be014b318707f049/Diabetes._FINALpsd.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/seguridad-hidrica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a0/782d608d8e4f9eb4ecad5ba3615c26/SeguridadHidrica_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/resolucion-busqueda",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/39/37ed7e8aa24a82be2f7d362a7f7fda/C3_IArtificial.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gobiernos-locales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/41/c3e43dce7b4a79bf829b65ba44c64d/GobiernosLocales_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gafas-violeta",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/db/5247d393c74543860325d883a21a18/logo-genero-cch.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/biobucal",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/d788bf7ba94027a946a5f541c156fa/miniatura.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/pensamiento-sistemico",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/3e/c7d58d476444039418cbd2cf310487/PensamientoSistemico_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/innovacion-medios-digitales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/98b31edf704562b10ef0a2bc8bf78e/logo-01.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/evaluacion-cualitativa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/56/3c320f762b4864a4c8d9048d1de8e0/EvaluacionEdu_3.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/composicion-algoritmica-supercollider",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8f/5e558c737e498e9a3c0c7eced99c4d/TechMusical_04_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/nutricion-obesidad-sobrepeso",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/74/b34c91ff7e42c88ae807d84848f51c/NutricionObesidad_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/habilidades-negociacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d5/b7487526714c6f8752800d83041f21/EstrategiasNegociacion_2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/contabilidad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/1028d1609e4cb0964f954380ff04cd/ContabilidadparaNoContador_FINAL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estructura",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c9/9db6dc7e6c4c1e815e34feec4443c1/Finanzas-4.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/programandoconjava",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bc/24ab25cdc644f88cfcb5f11f75ec29/Android_1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/perspectivas-musica-colaborativa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ec/97d5e67c0642328b3e0b354d6eccb2/TecMusical_6.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccionalaestrategia",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5f/eb406381ae49b793418ebeeb9bda82/27.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "courseUrl": "https://www.coursera.org/specializations/analitica-de-datos-en-finanzas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/bb/e868da3228481caaa17eca8a516839/Recurso-4logo-finanzas.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/ciberseguridad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/6b/1d5b61ca4840e589011a231cf052cd/Recurso-1logo-ciberseguridad.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/ciencia-de-datos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/fd/d48994e52c45039deb6ddbe232d5b1/Recurso-3logo-ciencia-de-datos.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/desarrollo-videojuegos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d396qusza40orc.cloudfront.net/phoenixassets/Spanish-Launch-10-7-images/Thumbnails%20of%20Banner%20%28Logos%29/iOS_UniAndes_banner.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/diseno-instruccion-enfoque-grandes-ideas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/45/82caf8da32410cb5a2ab4b265d9ff2/Logo-general.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/business-latin-america",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/f9/664b5957b84b9d8b271129dffb0e04/logo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/liderazgo-efectivo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/36/11e7d0580611e6a7ae011103ca9937/LiderazgoEfectivoIconoPrograma2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/plataformas-para-procesar-datos-no-tradicionales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/3f/923589e77849fc9cb370e7a7d7d58e/Recurso-2logo-plataformas.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/gerencia-proyectos-complejos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ba/e87b62b266444caa7d09b7342bb598/Mooc-T-copia-2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/desarrollo-nuevas-empresas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/34/243150b94411e59eaffdd1e3640396/Crece.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/diseno-de-cursos-para-la-comprension-de-grandes-ideas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/16/019c25a6c645c496e9b50ee7b75b3a/Logo-curso-2.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gabriel-garcia-marquez-poder-historia-amor",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b5/b7b300de4a11e6a28c637281979d2f/Gabriel_Garcia_Marquez.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/liderazgo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/27/67fcf0581611e6ad23719041809f5b/LiderazgoEfectivoCurso4Ver2Logo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/salud-mental-y-atencion-psicosocial",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d1/8e5aeb7b6c48eaa8f43d25cad2d790/IDENTIFICADOR-ATENCION-PSICOSOCIAL.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/analitica-financiera",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7a/2ee6f7bfa14f7685b4a7976ac9f10e/EX21MADFAFIN-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/analisis-del-contexto-para-fundamentar-diseno-de-instruccion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/99/4dfc16461741329186cd2890ad988d/Logo-curso-1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/sexualidad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/11/b20f9085ac11e689563722898dbcc1/Sexualidad_Mucho-mas-que-sexo-01.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/tomar-decisiones-financieras-que-agregan-valor",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/de/b4e79ea61c4641b7be50bd2480e08c/identificador_V1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/enfermedad-respiratoria-cronica-asma-epoc",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/69/58656012af43f5a7d70c1d2d793e8d/LOGO-EX20MERC.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/profundizacion-y-actualizacion-en-enfermedad-cardiovascular",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a4/148323ce694102a0f7978964b97144/pyaecc_ids_800x800_Identificador.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/dolor-neuropatico-anestesiologia",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c5/4bd1a33f514a0f9e1fd83ae28b9b60/800x800.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/liderazgo-en-empresas-familiares",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2e/ebb78f63c245a0aab2710169386b9a/ex20mlef_sq_final_01.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/modelo-negocio",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bc/430670abce11e59098a34b698f19df/2Logo_Cons.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/ods-y-sostenibilidad-una-mirada-desde-los-colegios",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b7/87e3eed735429a8a34157942b8fc96/Identificador-800x800-100.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/ensenanza-matematicas-primaria",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/96/65853b6e0b4d7aae5f8061c59adcfe/epmm_banner_curso_02_e_square.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/arquitecturas-de-big-data",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/87/973c9f1f8d4b9f9ccc061ee69aa774/EX21MPPDABD-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/objetivos-desarrollo-sostenible",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/99/e4daf800814285966a5542226b3dab/Mesa-de-trabajo-12.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/realidad-extendida-y-metaverso-para-todos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a1/fbe536581a4da4a28170ac4fa8c90e/EX22MIXR-IDENTIFICADOR-CORRECCIONES_2.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estilos-liderazgo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/40/2a7d30581611e69499350b054dd782/LiderazgoEfectivoCurso1Ver2Logo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/nueva-empresa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ab/950c00abcf11e5ad9243c94e33ce1e/4Logo_Conso.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/marketing-verde",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/eb/23662050b011e598a14b735bb6bc1d/logo-marketing-verde-1200x1200.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/idea-empresa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/84/a44940abce11e584d801f8f6059502/1Logo_Desc.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/formulacion-evaluacion-proyectos-ingenieria",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/60/ecc8e952584390b9ec26dc82a1df80/FEP_n_800X800.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gestion-alcance-proyectos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bf/e8136a4fd24345ba6a590bb9f0c2e9/GA_n_800x800.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/vulnerabilidades-y-pruebas-de-penetracion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1e/64f6de5d624cfa8fba2d571ab44b8d/EX21MCIBVUP-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/modelos-predictivos-con-aprendizaje-automatico",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ce/64eb2ec5f84b2e806ddfbb338a3ae8/EX21MCDMOPRE-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/analisis-estatico-lineal-nolineal-estructuras",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/c0060861d0433f96cf06ebaa1ddd87/01_Identificador-SISAE.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/derechos-humanos-democracia-america-latina",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/aa/b2d1e9f264438d8b515bc2a2cfe275/Identificador-800x800.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/videojuegos-emprendimiento",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/89/3f54005b2311e58b0f93aa38870f07/Emprendimiento-y-metodos-agiles.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/analitica-procesos-optimizacion-desde-datos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/20/b3d4abab324ff499c6a400000d7885/EX21MANPRO-800-X-800.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/bienestar-equidad-derechos-humanos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/58/71d48010a611e7a33e637b9035ec09/mooc-3---1200x1200_nombre.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/entendiendo-la-depresion-a-lo-largo-del-ciclo-vital",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b5/e910ec1d834ac0a4641504a61f206c/Identificador-800x800-120x-100.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/macondo-gabriel-garcia-marquez",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/92/a8efd04cfd11e5a18cbb719b1473bf/1200x1200px2.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/formadores-ciudadania",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b4/f99200b17a11e69b819dbce743a0e3/thumbnail-curso.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/algoritmos-de-negociacion-basados-en-machine-learning",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f9/7df99d1737450686d7ca293782d16c/EX21MADFANML-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/autoliderazgo-gestion-emociones",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f7/efe370581511e6bc52d396dda6863f/LiderazgoEfectivoCurso2Ver2Logo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/business-latam",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/72/c8fcaa9d234f8c858690bbd2ae26d4/Mesa-de-trabajo-2.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/lectura-critica-proceso-niveles-y-herramientas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/24/89964cd24840309d515fa1f5a69aee/Identificador_1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estadistica-aplicada-fundamentos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/bb3b8cc2a94d4a88dc14ca52285bdc/ex18madp_estadistica_sq.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/proyectos-complejos-exitosos-fracasados",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6b/a6535c0e594f9797abb19d2b311d6f/PCEF-800X800-copia.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/diseno-videojuegos-intro",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/26/1811505bc311e5bc51ebd3a46e4e00/dise_o.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/comunicacion-experimentacion-aprendizaje",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0e/2f8960581611e6aa08093cd01485b0/LiderazgoEfectivoCurso3Ver2Logo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/programacion-python",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/cb/53fff4c80c4fb0b710518f4f6bbd78/Phyton_opcion1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/tesoros-de-la-fisica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/cb/e41a904a6e11e59eed0b611888491e/1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/fundamentos-ts",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/af/ff77e121cc4ced832d4da604cfbfe6/identificador-.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/portafolios-inversiones-en-mercado-de-capitales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/4c/968f6f99d64e919333ede1078cce22/LogoPortafolios.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/uml",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/db/00f7d7d51348529ad0323db833cd55/Cuadrado.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-programacion-java",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ac/2ecb508e8211e79bac57528104d87f/formatos-1200x1200.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/git-espanol",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8d/ae3585205648c88449c3d84cec1c32/cuadrado-800_BL.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/datos-no-tradicionales-en-repositorios-nosql",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7a/efcb811e90416f8d715bd10084229c/EX21MPPDMOP-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/herramientas-de-la-economa-circular",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/3405e8127c467e9856a07b54794115/800x800-110x.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/sexualidad-y-educacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/75/3e638079c511e6b2674dee8fc87e4b/logo-_sexualidad_1200x1200px-01.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/recuperacion-de-proyectos-en-crisis",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/68/d168f92c224b1d87feb5de7ecb6618/800X800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/interculturalidade",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e6/60cc8229c2417c9e818efda9e51bd6/Interculturalidad_logo_03_Mesa-de-trabajo-1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/analisis-sistemas-electricos-y-transicion-energetica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fd/68958166814e1087aca7c1567d8656/masep_identificador_01.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/principios-y-regulaciones-de-seguridad-de-la-informacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/55/77eb44e76a477cb3970dc4d1ab15b7/EX21MCIBPRESI-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/pensamiento-sistemico-en-el-siglo-xxi",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/18/15e03f225e4341ab53bfdd4f85c3dd/ps_id_800x800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/seguridad-en-la-red",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b6/f04fadc0984284b2357e9c8bae24b2/EX21MCIBSERED-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/salud-mental-y-atencion-comunitaria",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d7/eb13273e33455d9111b6a56f1c9663/IDENTIFICADOR-ATENCION-COMUNITARIA.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/analytics-analisis-datos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/73/92d78e72124bc5bd8d8b1dd52a1a27/ex18madp_analyticsparatodos_sq_Mesa-de-trabajo-1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/contenido-matematica-escolar",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/56/d28ef0d39f11e784e29f5e297f200c/MOOC1-contenido_logo_cuadrado_1200.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9f/5fabd0c3ab11e69647b3a8114e1cb4/mooc-4-02.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/desarrollo-videojuegos-unity",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bd/39f0b05bd911e5a2b1a19a6af9aeb9/unity7-2D.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-a-la-inteligencia-artificial-contemporanea",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1c/b7a3ea1ff444dfbd3ccb0b2eb4a437/IA_B4.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/juegos-3d",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/72/909540e07d11e595b889990c571d41/3DGameCourseraIcon.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/negocios-multinacionales-america-latina",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ba/a1d05500954a16a2531c1bfe5dcfc2/Img-2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/educacion-matematica-para-profesores-de-infantil-curso-1",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/22/4eadd66a82451f8d47c977be822f83/NinoCuadrado_Diestro.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/probabilidad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a0/008d3c6d9b485cb99d224956df828e/ex18madp_estadistica_sq_Mesa-de-trabajo-1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/uml-genmymodel",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/99/9bbda12fea4216b7c2571f508272a8/UML-logo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/objetivos-desarrollo-sostenible-empresas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a3/8587cfc348421f987a5074c8bbaa95/ODS2-800x800-Cuadrado_00000.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-al-mantenimiento-de-activos-fisicos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6b/69b5f72aae43c0b1acff6b7c007f1f/IDENTIFICADOR-2-.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/escoger-carrera-y-universidad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d5/7aedc0fc6111e7af6abdee616b4c51/1200x1200.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/estimacion-tiempos-costos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b2/7e7da623c04bb88901e1fb9ac892bc/identificador_.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/proyecto-desarrollo-videojuegos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6f/fc0b005b2311e58b0f93aa38870f07/Desarrollo-y-dise_o-de-videjuegos-Proyecto-final.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/tratando-los-sintomas-urinarios-por-crecimiento-prostatico-hpb",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/76/1165e4d8944dea92573dc29fc63d0d/IDENTIFICADOR-UROLOGIA-800-X-800_3.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-al-deep-learning-contemporaneo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0d/2d14981c9143edbcd260355a4c8ee1/IDL-FINALES.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-ciencia-de-datos-aplicada",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/64/60e561523742f481dede9bd4683711/EX21MCDINCIDA-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/integracion-y-preparacion-de-datos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fd/217296a1c343859fce7617c819036c/EX21MCDINPRED-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/modelaje-anlisis-informacin-georreferenciada",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e1/96b891273b43528ef34c996dc6cfcc/EX21MPPDMPAG-800-X-800.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/aprendizaje-matematicas-primaria",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/41/d3a1d0a7c311e8ab2039fbccd03531/MOOC2-aprendizaje_logo_cuadrado_1200.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/constructores-de-paz",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b0/ed1a40c96811e7bbb80baea5ee3ff3/mooc_paz_simbolo-01.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-al-analisis-de-sistemas-de-control-con-matlab",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/91/9d1532a78c4dd3b8e13272adcc106f/identificador.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-desarrollo-web",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6c/a0ed7d702d43c999367cbbd822f793/800x800_2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/docencia-con-pedagogia-activa-mediada-con-tecnologia-digital",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b3/00f1ccf4674e59a7d21477f3c042ef/Logo-curso-3.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/interculturalidad",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c4/2fec802a0c11e995d7b9bd8e6736eb/Interculturalidad_logo_Mesa-de-trabajo-1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/financiar-mi-empresa",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fb/d89f10b95311e5bbbc1dba08c23c1c/3Logo_Proy.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/anticoagulacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d0/905c5d1f274c428563563acf991651/Identificador-Anticoagulantes-v1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/educacion-matematica-para-profesores-de-infantil-curso-2",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/17/e16f6e2958447a83fab1e7a917dc18/NinaCuadrado.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/finanzas-empresariales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d9/a9abf04b3a11e58b48ad6604451c37/1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  }
+]

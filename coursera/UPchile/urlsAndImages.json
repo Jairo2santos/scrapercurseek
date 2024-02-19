@@ -1,0 +1,234 @@
+[
+  {
+    "courseUrl": "https://www.coursera.org/specializations/electronica-analogica-ingeniero-electrones",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/d7/74de379fb641a18f6900d069f36d3f/Principal_diplomado.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/business-latin-america",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/f9/664b5957b84b9d8b271129dffb0e04/logo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/specializations/programa-especializado-en-circuitos-electricos-con-spice",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a8/13a4b8c9804015bb49353740561acb/logo-Mooc-Especializacion-circuitos-con-Spice.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/planificacion-gestion-pymes",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/48/f4d2254f8a4cd5860fbb6cc3aebb73/coursera-logotipo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/sustentabilida-desafios-latinoamerica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/57/884fd14deb4a5eb466554de022b759/uc-online_Mesa-de-trabajo-1.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/english-common-interactions-workplace-basic-level",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e7/b34332a4c9434aacd529defcf050da/00-coursera-logotipo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/programacion-en-python-ii-aprendiendo-a-estructurar-datos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b1/47a9972a08471f82308d03f5c4ae6a/Python-II---1.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/procesamiento-de-imagenes",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/56/886ba6ddc74125aa7917713b97caa5/Foto-Logo-MOOC-PCI.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/electronica-digital-bit-a-bit-disenando-circuitos-complejos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/52/6e8ff2525644308d776b24025f4a20/Electronica-Digital-Bit-a-Bit---Disenando-en-Verilog-para-FPGA.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/contexto-negocios-latam",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/51/740c55745d4c27af746aded3440f5d/Mooc-latam.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/emprendimiento-social-negocios-sustentable-canvas-sociales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/cd/ad97e0b623402b9d8df14759430476/Diseno-y-Creacion-de-un-Emprendimiento-Social.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/circuitos-spicey-2",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/e935dd1b2e4223a42a1d9ec5c6c134/Foto-Logo-MOOC-ATF.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/electrones-en-accion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d1/28aeb5f7564046b01f77608461e71b/Electrones-en-Accion---Electronica-y-Arduinos-para-tus-propios-Inventos.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/entrenar-electrones-aplicaciones-electronica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/67/883c997e7e4097b9f045c566d5c7bd/Como-entrenar-a-tus-electrones-3---Aplicaciones-interesantes.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/libre-competencia",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/bf/91d490ec0011e78ffafbbf3fb727a0/img-logotipo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/inversiones-en-los-mercados-de-capitales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d4/86b3af443948869dfd47444ae8afcc/Inversiones-en-mercados-capitales-1.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/liderazgo-educativo",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b2/1d0fe0fef111e4bf2499194607d43d/banner_v_2.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/analisis-de-negocios-con-estados-financieros",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b5/98a2ee75df4b8fbed3782676d0457b/Logo.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/circuitos-spicey-1",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ac/df442974f146d285c68274fb7c6ee9/Foto-logo-MOOC-FCE.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/enfermedades-no-transmisibles",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a4/cb8fa0003911e89a9ed7445c4af8a2/mooc-enfermeria-uc-2018.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/perspectivas-en-salud-publica-ampliando-la-vision-en-salud",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/33/17d179831d4ab082605acfb6128bac/medicina.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/explorando-energia-sustentable",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ba/49c64a22284e20aec86a2c8b7a2dac/Explorando-la-Energia-Sustentable.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/manejopromocion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1b/779e7dfeeb4c95ad153af9d54945c1/1200x1200.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/analisis-sistemas-de-transporte",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d8/445cc648bf4a12a04b633a6fd31ba9/Analisis-de-Sistemas-de-Transporte.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/aulaconstructivista",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9f/ef871a8935420c858539871b22a409/Hacia-una-practica-constructivista-en-el-aula.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/sonidos-digitales",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b9/a0e32964d44ecfa1319f42d3a82019/Logo-MOOC-SDSP.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/electronica-digital-bit-a-bit-fundamentos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d4/4b93b4124140c293745d55c53c5181/Electronica-Digital-Bit-a-Bit---Fundamentos-Verilog-y-FPGA.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/english-for-interactions-in-the-workplace-intermediate-level",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/49/2df92782d84e72b7117a2d78883254/img-coursera.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/aprendizaje-universitario-introduccion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f7/c7186973a440cdae64b8ace8ab5f54/Introduccion-al-Aprendizaje-Universitario.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/evaluacion-de-proyectos-de-inversion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d6/bffe85d68444b88577e30941b033db/Evaluacion-de-Proyectos-de-Inversion.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/entrenar-electrones-diodos-transistores",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/20/a13dd3860d4c4fabe94484645a76aa/Como-entrenar-a-tus-electrones-2---Diodos-y-Transistores.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/fundamentos-de-sistemas-recomendadores",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/07/6f9859854c452a8f9c09bed61ff8f2/Logo-MOOC_1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/camino-excelencia-gestion-proyectos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d1/471c76df6c48f4ac898e8e81570a75/Camino-a-la-Excelencia-en-Gestion-de-Proyectos.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-a-la-visualizacion-de-datos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8d/d0141cd0814e34b86884e9f01383a8/Logo-MOOC-Introduccion-a-la-visualizacion-de-datos.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gestionempresarialpyme",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a6/556fe0e22211e48475fd723ac1d58f/Imagen-Pyme-Coursera-14.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/escalamiento-exitoso-e-innovacion-en-los-negocios",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b1/e697c7d2a14b8ba09e815d2ebeccf9/Escalamiento-exitoso-e-innovacion-en-los-negocios_Banner-750x1334-2-.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/sistemas-y-modelos-de-organizacion-de-la-atencion-en-salud",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/78/3e54528c7f47f891e4dd45bb86bfd3/coursera-logotipo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/gestion-organizaciones-efectivas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/94/74e118f605442faebbf2833c374c64/Gestion-de-organizaciones-efectivas.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/ingles-en-el-contexto-laboral-habilidades-blandas",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/89/915e44b3ba4735a07687ad515a66e2/imagen-marketing.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/ninosaudiovisualdigital",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/76/2718d0779a44e3be2cec6e0420cd3f/portada-animada.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/equilibrio-redes-transporte",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/22/d15946d784444c8de9cc0054dec5b2/Como-viajamos-por-la-ciudad---Asignacion-y-equilibrio-en-redes-de-transporte..jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/python-para-ciencia-de-datos",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/22/c4277a6ca24723a3a3abdaab4c1a43/coursera-logotipo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/formacion-docente-habilidades-siglo-veintiuno",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/da/9225c1dba340ccae0e31a5f40b7114/Formacion-docente-basada-en-la-practica-para-desarrollar-habilidades-del-siglo-XXI.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/circuitos-spicey-3",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e1/b2fb8a470c4e288d94ff1db2c3ad09/Foto-Logo-MOOC-STA.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/marketing-digital-en-accion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/77/1290180fda4009973c47f23b8d25e8/coursera-logotipo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/introduccion-a-la-valoracion-financiera",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c4/5a9ead182a439f8b07eae45a3beb9d/coursera-logotipo-VF.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/transferencia-de-momentum-calor-y-masa-computacional",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/20/bba42179db4a3ea17187988dbfafe2/LOGO-MOOC-1.png?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/aprendiendo-programar-python",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/7c/a97a6e3fc74812a808cd95da906b19/Introduccion-a-la-programacion-en-Python-I-Aprendiendo-a-programar-con-Python.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/transferencia-tecnologica-investigacion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b2/15aec0c03311e79a998b5c9c61e557/Icono-800x8001-copia.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/fundamentos-de-la-electronica-analogica",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f6/d535dd4c794704b3f77dc99f044b38/Como-entrenar-a-tus-electrones-1---Fundamentos-de-la-electronica-analogica.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/equilibrio",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e4/4beed9de6c4a68a9e6191dfdf122a6/Equilibrio-por-que-se-caen-las-cosas.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/ingenieria-gastronomica-ciencia-cocina",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c1/6a25d857594fa6819758e6f11c0d8f/Introduccion-a-la-Ingenieria-Gastronomica---Ciencia-en-la-Cocina-.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/recuperacionoptimizadacirugiacolorrectal",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/82/e85ff710674e20ac5f13612041de9e/1200x1200.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/mejores-decisiones-con-business-analytics",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/99/64121b8774478e8593cb2444e65a4e/Logo-MOOC-mejores-decisiones-con-business-analytics.jpeg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/bienvenidos-al-espanol-a1-1",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/6c/ca564a706c412f96a54e458fa0ce4b/coursera-logotipo.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/demanda-de-transporte",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/00/1417c451d0405a87f57e85d6d099f3/Introduccion-a-los-modelos-de-demanda-de-transporte.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/mineria-de-datos-introduccion",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/f7/2872616e5e4468811a9ecc2da69b86/Introduccion-a-la-Mineria-de-Datos.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  },
+  {
+    "courseUrl": "https://www.coursera.org/learn/ingenieria-trafico",
+    "imgUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/59/27a199d4c940deb1b385d7802fbc4e/Ingenieria-de-Trafico.jpg?auto=format%2Ccompress&dpr=1&w=175&h=175&fit=fill&bg=FFF"
+  }
+]
